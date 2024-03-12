@@ -4,18 +4,14 @@
 :authoremail: trainers@training.com
 :docdate: March 2024
 
-Below are links to everyone's Version 2.0.0 training pages:
+Below are links to everyone's Version 1.0.0 and 2.0.0 training pages:
 
 
 == All the Pages:
 
-* xref:training::participant1.adoc[Participant1's v2.0.0 page] +
+xref:v1.0.0::index.adoc[Version 1.0.0 docs] +
 
-* xref:training::participant1.adoc[Participant1's v2.0.0 page] +
-
-* xref:training::participant1.adoc[Participant1's v2.0.0 page] +
-
-* xref:training::participant1.adoc[Participant1's v2.0.0 page] +
+xref:v2.0.0::index.adoc[Version 2.0.0 docs]
 
 
 
