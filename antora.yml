@@ -1,0 +1,6 @@
+name: training
+version: main
+title: Training Docs
+start_page: ROOT:index.adoc
+nav:
+  - modules/ROOT/nav.adoc
