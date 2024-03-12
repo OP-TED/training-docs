@@ -1,0 +1,21 @@
+:doctitle: Training Docs
+:doccode: training-v1.0.0-001
+:author: The Trainers
+:authoremail: trainers@training.com
+:docdate: March 2024
+
+Below are links to everyone's Version 1.0.0 training pages:
+
+
+== All the Pages:
+
+* xref:training::participant1.adoc[Participant1's v1.0.0 page] +
+
+* xref:training::participant1.adoc[Participant1's v1.0.0 page] +
+
+* xref:training::participant1.adoc[Participant1's v1.0.0 page] +
+
+* xref:training::participant1.adoc[Participant1's v1.0.0 page] +
+
+
+

@@ -1,0 +1,17 @@
+:doctitle: Navigation
+:doccode: training-004
+:author: NPJ
+:authoremail: nicole-anne.paterson-jones@ext.ec.europa.eu
+:docdate: March 2024
+
+* xref:training::index.adoc[Home]
+
+* [.separated]#**V1.0.0 Documentation**#
+* xref:v1.0.0::participant1.adoc[Participant1's V1.0.0 page]
+* xref:v1.0.0::participant1.adoc[Participant1's V1.0.0 page]
+* xref:v1.0.0::participant1.adoc[Participant1's V1.0.0 page]
+
+* [.separated]#**Syntax References**#
+* xref:training::syntax.adoc[Syntax References 1]
+
+

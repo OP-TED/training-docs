@@ -1,0 +1,27 @@
+
+. Insert image:
+image:image1.png[]
+
+. Insert partial:
+include::partial$partialname.adoc[]
+
+. Insert attachment:
+xref:attachment$attachmentname.pdf[]
+
+. Insert and example:
+include::example$examplename.js[]
+
+. Antora.yml file:
+
+name: EPO
+version: 3.1
+title: eProcurement Ontology
+display_version: 3.1.0
+start_page: ROOT:index.adoc
+nav:
+  - modules/ROOT/nav.adoc
+
+. "Latest" correction when url not found:
+ifeval::[{epo_latest_version} == {page-component-version}]
+:page-aliases: 3.1.0@index.adoc,3.1@index.adoc
+endif::[]
