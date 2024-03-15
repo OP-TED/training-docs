@@ -1,0 +1,22 @@
+:doctitle: //becomes page title (first level heading)
+:doccode: 
+:author: 
+:authoremail: 
+:docdate:
+
+== Second Level heading
+
+
+=== Third level heading
+
+
+*bold*
+
+_italic_
+
+#highlighted#
+
+. numbered list
+
+* bullet points
+** more points
