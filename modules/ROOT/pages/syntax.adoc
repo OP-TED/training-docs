@@ -1,7 +1,6 @@
 
 . Insert image:
 image::/images/coffee.jpg[Coffee, yeah!!]
-"image:coffee.jpg[Coffee, yeah!!]"
 
 . Insert partial:
 include::partial$partialname.adoc[]
