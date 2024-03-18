@@ -28,6 +28,6 @@
 * xref:Ilenia2.adoc[Ilenia's v2.0.0 page] +
 
 * [.separated]#**Syntax References**#
-* xref:training::syntax.adoc[Some Syntax Tips]
+* xref:syntax.adoc[Some Syntax Tips]
 
 
