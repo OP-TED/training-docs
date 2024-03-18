@@ -10,10 +10,10 @@ image:cat.jpg[]
 
 == Insert partial:
 
-[literal]
-----
+....
 include::partial$partialname.adoc[]
-----
+....
+
 
 == Insert attachment:
 
