@@ -1,7 +1,4 @@
 
-. Insert image:
-image:image1.png[]
-
 . Insert partial:
 include::partial$partialname.adoc[]
 
