@@ -1,7 +1,7 @@
 
 . Insert image:
 
-image:/images/cat.jpg[]
+image:cat.jpg[]
 
 . Insert partial:
 include::partial$partialname.adoc[]
