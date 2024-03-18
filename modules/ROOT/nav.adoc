@@ -4,13 +4,13 @@
 :authoremail: nicole-anne.paterson-jones@ext.ec.europa.eu
 :docdate: March 2024
 
-* xref:training::index.adoc[Home]
+* xref:main::index.adoc[Home]
 
 * [.separated]#**General Documentation**#
-* xref:v1.0.0::index.adoc[Version 1.0.0 docs]
-* xref:v2.0.0::index.adoc[Version 2.0.0 docs]
+* xref:v1.0.0@training::index.adoc[Version 1.0.0 docs]
+* xref:v2.0.0@training::index.adoc[Version 2.0.0 docs]
 
 * [.separated]#**Syntax References**#
-* xref:training::syntax.adoc[Syntax References 1]
+* xref:main::syntax.adoc[Syntax References]
 
 
