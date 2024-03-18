@@ -10,7 +10,7 @@ image:cat.jpg[]
 
 == Insert partial:
 
-[comment]
+[literal]
 ----
 include::partial$partialname.adoc[]
 ----
