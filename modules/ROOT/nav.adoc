@@ -19,6 +19,6 @@
 * xref:Ilenia1.adoc[Ilenia's v1.0.0 page]
 
 * [.separated]#**Syntax References**#
-* xref:training::syntax.adoc[Syntax References]
+* xref:syntax.adoc[Some Syntax Tips]
 
 
