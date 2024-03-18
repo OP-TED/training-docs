@@ -1,20 +1,39 @@
 
-. Insert image:
+== Insert image
+
+[,asciidoc]
+----
+image:coffee.jpg[]
+----
 
 image:coffee.jpg[]
 
+== Insert partial
 
-. Insert partial:
-include::partial$partialname.adoc[]
+[,asciidoc]
+----
+\include::partial$partialname.adoc[]
+----
 
-. Insert attachment:
+
+== Insert attachment
+
+[,asciidoc]
+----
 xref:attachment$attachmentname.pdf[]
+----
 
-. Insert and example:
-include::example$examplename.js[]
+== Insert and example
 
-. Antora.yml file:
+[,asciidoc]
+----
+\include::example$examplename.js[]
+----
 
+== Antora.yml file
+
+[,asciidoc]
+----
 name: EPO
 version: 3.1
 title: eProcurement Ontology
@@ -22,8 +41,13 @@ display_version: 3.1.0
 start_page: ROOT:index.adoc
 nav:
   - modules/ROOT/nav.adoc
+----
 
-. "Latest" correction when url not found:
-ifeval::[{epo_latest_version} == {page-component-version}]
-:page-aliases: 3.1.0@index.adoc,3.1@index.adoc
-endif::[]
+== "Latest" correction when url not found
+
+[,asciidoc]
+----
+\ifeval::[{epo_latest_version} == {page-component-version}]
+\:page-aliases: 3.1.0@index.adoc,3.1@index.adoc
+\endif::[]
+----
