@@ -1,6 +1,6 @@
 
 . Insert image:
-image:cat.jpg[There's always a cat!]
+image::cat.jpg[There's always a cat!]
 
 . Insert partial:
 include::partial$partialname.adoc[]
