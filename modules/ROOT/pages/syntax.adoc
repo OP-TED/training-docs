@@ -48,6 +48,6 @@ nav:
 [,asciidoc]
 ----
 \ifeval::[{epo_latest_version} == {page-component-version}]
-\:page-aliases: 3.1.0@index.adoc,3.1@index.adoc
+:page-aliases: 3.1.0@index.adoc,3.1@index.adoc
 \endif::[]
 ----
