@@ -27,7 +27,7 @@ xref:attachment$attachmentname.pdf[]
 
 [,asciidoc]
 ----
-include::example$examplename.js[]
+\include::example$examplename.js[]
 ----
 
 == Antora.yml file
