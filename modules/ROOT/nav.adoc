@@ -16,7 +16,7 @@
 * xref:Paloma1.adoc[Paloma's v1.0.0 page] 
 * xref:Robert1.adoc[Robert's v1.0.0 page]
 * xref:Stefan1.adoc[Stefan's v1.0.0 page] 
-* xref:Ilenia1.adoc[Ilenia's v2.0.0 page]
+* xref:Ilenia1.adoc[Ilenia's v1.0.0 page]
 
 * [.separated]#**Syntax References**#
 * xref:training::syntax.adoc[Syntax References]
