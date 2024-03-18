@@ -7,11 +7,18 @@
 * xref:training::index.adoc[Home]
 
 * [.separated]#**V1.0.0 Documentation**#
-* xref:v1.0.0::participant1.adoc[Participant1's V1.0.0 page]
-* xref:v1.0.0::participant1.adoc[Participant1's V1.0.0 page]
-* xref:v1.0.0::participant1.adoc[Participant1's V1.0.0 page]
+* * xref:Ana-Maria1.adoc[Ana-Maria's v1.0.0 page]
+* xref:Dragos1.adoc[Dragos's v1.0.0 page]
+* xref:Enrico1.adoc[Enrico's v1.0.0 page]
+* xref:Jenny1.adoc[Jenny's v1.0.0 page] 
+* xref:Jule1.adoc[Jule's v1.0.0 page] 
+* xref:Karl1.adoc[Karl's v1.0.0 page] 
+* xref:Paloma1.adoc[Paloma's v1.0.0 page] 
+* xref:Robert1.adoc[Robert's v1.0.0 page]
+* xref:Stefan1.adoc[Stefan's v1.0.0 page] 
+* xref:Ilenia1.adoc[Ilenia's v2.0.0 page]
 
 * [.separated]#**Syntax References**#
-* xref:training::syntax.adoc[Syntax References 1]
+* xref:training::syntax.adoc[Syntax References]
 
 
