@@ -9,13 +9,24 @@ Below are links to everyone's Version 2.0.0 training pages:
 
 == All the Pages:
 
-* xref:training::participant1.adoc[Participant1's v2.0.0 page] +
+* xref:Ana-Maria2.adoc[Ana-Maria's v2.0.0 page] +
 
-* xref:training::participant1.adoc[Participant1's v2.0.0 page] +
+* xref:Dragos2.adoc[Dragos's v2.0.0 page] +
 
-* xref:training::participant1.adoc[Participant1's v2.0.0 page] +
+* xref:Enrico2.adoc[Enrico's v2.0.0 page] +
 
-* xref:training::participant1.adoc[Participant1's v2.0.0 page] +
+* xref:Jenny2.adoc[Jenny's v2.0.0 page] +
 
+* xref:Jule2.adoc[Jule's v2.0.0 page] +
 
+* xref:Karl2.adoc[Karl's v2.0.0 page] +
 
+* xref:Paloma2.adoc[Paloma's v2.0.0 page] +
+
+* xref:Robert2.adoc[Robert's v2.0.0 page] +
+
+* xref:Stefan2.adoc[Stefan's v2.0.0 page] +
+
+* xref:Ilenia2.adoc[Ilenia's v2.0.0 page] +
+
+* xref:syntax.adoc[Some Syntax Tips] +
