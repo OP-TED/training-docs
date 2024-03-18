@@ -1,8 +1,8 @@
 
 . Insert image:
-image::coffee.jpg[]
+
 image:coffee.jpg[]
-image:modules\ROOT\images\coffee.jpg[]
+
 
 . Insert partial:
 include::partial$partialname.adoc[]
