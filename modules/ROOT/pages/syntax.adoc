@@ -1,5 +1,5 @@
 
-== Insert image:
+== Insert image
 
 [,asciidoc]
 ----
@@ -8,28 +8,29 @@ image:cat.jpg[]
 
 image:cat.jpg[]
 
-== Insert partial:
+== Insert partial
 
-....
-include::partial$partialname.adoc[]
-....
+[,asciidoc]
+----
+\include::partial$partialname.adoc[]
+----
 
 
-== Insert attachment:
+== Insert attachment
 
 [,asciidoc]
 ----
 xref:attachment$attachmentname.pdf[]
 ----
 
-== Insert and example:
+== Insert and example
 
 [,asciidoc]
 ----
 include::example$examplename.js[]
 ----
 
-== Antora.yml file:
+== Antora.yml file
 
 [,asciidoc]
 ----
