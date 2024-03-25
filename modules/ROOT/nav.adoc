@@ -8,7 +8,7 @@
 
 * [.separated]#**General Documentation**#
 * xref:v1.0.0@training::index.adoc[Version 1.0.0 docs]
-* xref:v2.0.0@training::index.adoc[Version 2.0.0 docs]
+// * xref:v2.0.0@training::index.adoc[Version 2.0.0 docs]
 
 * [.separated]#**Syntax References**#
 * xref:syntax.adoc[Syntax Tips]
