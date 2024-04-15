@@ -12,7 +12,7 @@ image:coffee.jpg[]
 
 [,asciidoc]
 ----
-\include::partial$partialname.adoc[]
+include::partial$partialname.adoc[]
 ----
 
 
