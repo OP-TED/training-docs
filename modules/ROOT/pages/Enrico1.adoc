@@ -18,7 +18,7 @@ image;coffee.jpg[]
 
 Even more coffee:
 
-image:coffee.jpg[]
+image:coffee.png[]
 ////
 *bold*
 
