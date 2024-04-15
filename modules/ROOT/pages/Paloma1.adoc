@@ -1,15 +1,25 @@
-:doctitle: //becomes page title (first level heading)
+:doctitle: becomes page title (first level heading)
 :doccode: 
 :author: 
 :authoremail: 
 :docdate:
 
-== Second Level heading
-
-
 === Third level heading
 
+== Second Level heading
 
+My coffee:
+
+image:coffee.jpg[
+
+More coffee:
+
+image;coffee.jpg[]
+
+Even more coffee:
+
+image:coffee.jpg[]
+////
 *bold*
 
 _italic_
@@ -20,3 +30,6 @@ _italic_
 
 * bullet points
 ** more points
+////
+
+include::partial$feedb.adoc[]]
