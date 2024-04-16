@@ -21,6 +21,6 @@
 * [.separated]#**Syntax References**#
 * xref:syntax.adoc[Some Syntax Tips]
 
-* xref:materials:attachment$course\index.html[Antora and Asciidoc for TED Documentation]
+* xref:materials:attachment$course:index.html[Antora and Asciidoc for TED Documentation]
 
 
