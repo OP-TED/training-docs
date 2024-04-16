@@ -4,14 +4,11 @@
 :authoremail: trainers@training.com
 :docdate: March 2024
 
-Below are links to everyone's training pages:
+== Training Materials
+
+xref:attachment$course\index.html[Antora and Asciidoc for TED Documentation] +
 
 
-== All the Pages:
-
-xref:v1.0.0@training::index.adoc[Version 1.0.0 docs] +
-
-// xref:v2.0.0@training::index.adoc[Version 2.0.0 docs]
 
 
 
