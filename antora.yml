@@ -1,5 +1,5 @@
 name: training
-version: main
+version: materials
 title: Training Docs
 start_page: ROOT:index.adoc
 nav:
