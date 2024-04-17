@@ -13,4 +13,5 @@
 * [.separated]#**Syntax References**#
 * xref:syntax.adoc[Syntax Tips]
 
-* xref:materials:attachment$course\index.html[Antora and Asciidoc for TED Documentation]
+* [.separated]#**Online Courses**#
+* xref:materials:attachment$course/index.html[Antora and Asciidoc for TED Documentation]
