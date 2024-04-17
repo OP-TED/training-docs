@@ -6,7 +6,7 @@
 
 == Training Materials
 
-xref:attachment$course/index.html[Antora and Asciidoc for TED Documentation]
+xref:attachment$course/index.html[Online Course: Antora and Asciidoc for TED Documentation]
 
 
 
