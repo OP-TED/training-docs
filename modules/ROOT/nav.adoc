@@ -21,7 +21,9 @@
 * [.separated]#**Syntax References**#
 * xref:syntax.adoc[Some Syntax Tips]
 
+////
 * [.separated]#**Online Courses**#
 * xref:materials:attachment$course/index.html[Antora and Asciidoc for TED Documentation]
 
 //xref:component:module:attachment$file-coordinate-of-attachment.ext[link text]
+////
