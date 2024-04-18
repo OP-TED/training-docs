@@ -4,21 +4,22 @@
 :authoremail: 
 :docdate:
 
+== Second Level heading
+
 === Third level heading
 
-== Second Level heading
 
 My coffee:
 
-image:coffee.jpg[
+image:coffee.jpg[]
 
 More coffee:
 
-image;coffee.jpg[]
+image:coffee.jpg[]
 
 Even more coffee:
 
-image:coffee.png[]
+image:coffee.jpg[]
 ////
 *bold*
 
@@ -32,4 +33,4 @@ _italic_
 ** more points
 ////
 
-include::partial$feedb.adoc[]]
+include:partial$feedback.adoc[]
