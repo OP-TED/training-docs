@@ -1,25 +1,32 @@
-:doctitle: becomes page title (first level heading)
+:doctitle: Coffee and Cigarettes
 :doccode: 
 :author: 
 :authoremail: 
 :docdate:
 
-=== Third level heading
+=== *Director*: Jim Jarmusch
+=== *Writer*: Jim Jarmusch
+=== *Stars*: Bill Murray, Tom Waits, Roberto Benigni
+=== *Genre*: Comedy, Drama
+=== *Release Date*: 11-06-2004
 
-== Second Level heading
+
+== Third Level heading
 
 My coffee:
 
-image:coffee.jpg[
+image:coffee.jpg[]
 
 More coffee:
 
-image;coffee.jpg[]
+image:coffee.jpg[]
 
 Even more coffee:
 
-image:coffee.png[]
+image:coffee.jpg[]
+
 ////
+
 *bold*
 
 _italic_
