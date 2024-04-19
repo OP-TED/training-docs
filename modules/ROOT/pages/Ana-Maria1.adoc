@@ -20,6 +20,10 @@ image:coffee.jpg[]
 Even more coffee:
 
 image:coffee.jpg[]
+
+Even more coffee:
+
+image:coffee.jpg[]
 ////
 *bold*
 
