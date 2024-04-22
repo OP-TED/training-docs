@@ -16,4 +16,5 @@
 * [.separated]#**Online Courses**#
 * xref:attachment$course/index.html[Antora and Asciidoc for TED Documentation]
 
-
+* [.separated]#**Session Recordings**#
+* xref:sessions.adoc[Session Recordings]
