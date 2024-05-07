@@ -8,7 +8,7 @@
 
 xref:attachment$course/index.html[Online Course: Antora and Asciidoc for TED Documentation]
 
-xref:eforms-common:ROOT:active-versions:index.adoc[test1]
+//xref:eforms-common:ROOT:active-versions:index.adoc[test1]
 
 
 ////
