@@ -11,12 +11,12 @@ xref:attachment$course/index.html[Online Course: Antora and Asciidoc for TED Doc
 
 
 * Use the xref:eforms:ROOT:versioning.adoc[SDK versioning] page to understand SDK versioning rules.
-* Use xref:../active-versions:index.adoc[SDK version lifespan] page to find out which SDK versions are currently in use.
-* Use xref:eforms-common:active-versions:index.adoc[SDK version lifespan] page to find out which SDK versions are currently in use.
+* Use xref:eforms-common:ROOT:active-versions:index.adoc[SDK version lifespan] page to find out which SDK versions are currently in use.
+//* Use xref:eforms-common:active-versions:index.adoc[SDK version lifespan] page to find out which SDK versions are currently in use.
 // modules/ROOT/pages/active-versions
-* Use xref:eforms-common/active-versions/index.adoc[SDK version lifespan] page to find out which SDK versions are currently in use.
-xref:component:module:file-coordinate-of-target-page.adoc[optional link text]
+//* Use xref:eforms-common/active-versions/index.adoc[SDK version lifespan] page to find out which SDK versions are currently in use.
+// xref:component:module:file-coordinate-of-target-page.adoc[optional link text]
 
-* Use xref:eforms:ROOT:active-versions:index.adoc[SDK version lifespan] page to find out which SDK versions are currently in use.
+//* Use xref:eforms:ROOT:active-versions:index.adoc[SDK version lifespan] page to find out which SDK versions are currently in use.
 * Use the link:https://docs.ted.europa.eu/eforms-sdk-explorer[SDK Explorer] to compare SDK versions and explore the differences between them.
 
