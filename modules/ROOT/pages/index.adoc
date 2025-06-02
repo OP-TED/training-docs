@@ -9,7 +9,7 @@ Below are links to everyone's training pages:
 
 == All the Pages:
 
-xref:v1.0.0@training::index.adoc[Version 1.0.0 docs] +
+xref:materials::index.adoc[Version 1.0.0 docs] +
 
 // xref:v2.0.0@training::index.adoc[Version 2.0.0 docs]
 
