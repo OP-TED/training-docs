@@ -9,8 +9,8 @@ lang:''
 Slide26317:{
 lb:'',
 id:26317,
-from:44131,
-to:44220,
+from:44941,
+to:45030,
 iols:0,
 i360qs:false,
 sdu:3,
@@ -571,10 +571,10 @@ vbwr:[-1,-1,2,2],
 vb:[-1,-1,2,2]
 },
 Slide26930:{
-lb:'Blank 1',
+lb:'Course title',
 id:26930,
-from:91,
-to:180,
+from:45031,
+to:45120,
 iols:0,
 i360qs:false,
 sdu:3,
@@ -1296,10 +1296,10 @@ vbwr:[-1,-1,2,2],
 vb:[-1,-1,2,2]
 },
 Slide388:{
-lb:'Welcome to the Course',
+lb:'Welcome to the course',
 id:388,
-from:181,
-to:270,
+from:45121,
+to:45210,
 iols:0,
 i360qs:false,
 sdu:3,
@@ -2019,10 +2019,10 @@ vbwr:[-1,-1,2,2],
 vb:[-1,-1,2,2]
 },
 Slide1057:{
-lb:'Course Overview',
+lb:'Course overview',
 id:1057,
-from:271,
-to:360,
+from:45211,
+to:45300,
 iols:0,
 i360qs:false,
 sdu:3,
@@ -13793,10 +13793,10 @@ vbwr:[-1,-1,2,2],
 vb:[-1,-1,2,2]
 },
 Slide1242:{
-lb:'Course Prerequisites',
+lb:'Course prerequisites',
 id:1242,
-from:451,
-to:540,
+from:45301,
+to:45390,
 iols:0,
 i360qs:false,
 sdu:3,
@@ -14517,10 +14517,10 @@ vbwr:[-1,-1,2,2],
 vb:[-1,-1,2,2]
 },
 Slide1448:{
-lb:'Prerequisites - Install Git',
+lb:'Prerequisites - install Git',
 id:1448,
-from:541,
-to:630,
+from:45391,
+to:45480,
 iols:0,
 i360qs:false,
 sdu:3,
@@ -15240,10 +15240,10 @@ vbwr:[-1,-1,2,2],
 vb:[-1,-1,2,2]
 },
 Slide1706:{
-lb:'Prerequisites - Internet Proxy',
+lb:'Prerequisites - internet proxy',
 id:1706,
-from:631,
-to:720,
+from:45481,
+to:45570,
 iols:0,
 i360qs:false,
 sdu:3,
@@ -15963,10 +15963,10 @@ vbwr:[-1,-1,2,2],
 vb:[-1,-1,2,2]
 },
 Slide1891:{
-lb:'Prerequisites - Clone Repositories',
+lb:'Prerequisites - clone repositories',
 id:1891,
-from:721,
-to:810,
+from:45571,
+to:45660,
 iols:0,
 i360qs:false,
 sdu:3,
@@ -16686,10 +16686,10 @@ vbwr:[-1,-1,2,2],
 vb:[-1,-1,2,2]
 },
 Slide2076:{
-lb:'Prerequisites -Visual Studio Code',
+lb:'Prerequisites -visual studio code',
 id:2076,
-from:811,
-to:900,
+from:45661,
+to:45750,
 iols:0,
 i360qs:false,
 sdu:3,
@@ -31465,10 +31465,10 @@ vbwr:[-2,-2,-1,-1],
 vb:[-2,-2,-1,-1]
 },
 Slide32369:{
-lb:'Prerequisites - VSC Live Server Extension',
+lb:'Prerequisites - VSC live server Extension',
 id:32369,
-from:28687,
-to:28776,
+from:45751,
+to:45840,
 iols:0,
 i360qs:false,
 sdu:3,
@@ -32279,8 +32279,8 @@ visible:'1'
 si33284:{
 name:'Hotspot_Widget_5',
 type:1268,
-from:28777,
-to:28866,
+from:44311,
+to:44400,
 rp:0,
 rpa:0,
 mdi:'si33284c',
@@ -32916,8 +32916,8 @@ vb:[-2,-2,150,30]
 si33316:{
 name:'Hotspot_Insertion_Area_5',
 type:1268,
-from:28777,
-to:28866,
+from:44311,
+to:44400,
 rp:0,
 rpa:0,
 mdi:'si33316c',
@@ -33084,8 +33084,8 @@ vb:[-1,-1,1,1]
 si33324:{
 name:'Non_Responsive_5',
 type:1268,
-from:28777,
-to:28866,
+from:44311,
+to:44400,
 rp:0,
 rpa:0,
 mdi:'si33324c',
@@ -42663,8 +42663,8 @@ vb:[-2,-2,-1,-1]
 si33890:{
 name:'Callout_group_30',
 type:1268,
-from:28777,
-to:28866,
+from:44311,
+to:44400,
 rp:0,
 rpa:0,
 mdi:'si33890c',
@@ -43187,8 +43187,8 @@ vb:[-1,-1,241,136]
 si33916:{
 name:'Paragraph_129',
 type:1268,
-from:28777,
-to:28866,
+from:44311,
+to:44400,
 rp:0,
 rpa:0,
 mdi:'si33916c',
@@ -43356,8 +43356,8 @@ vb:[-1,-1,1,1]
 si33924:{
 name:'Paragraph_Card_60',
 type:1268,
-from:28777,
-to:28866,
+from:44311,
+to:44400,
 rp:0,
 rpa:0,
 mdi:'si33924c',
@@ -43848,8 +43848,8 @@ vb:[-2,-2,150,30]
 si33948:{
 name:'Text_522',
 type:1250,
-from:28777,
-to:28866,
+from:44311,
+to:44400,
 rp:0,
 rpa:0,
 mdi:'si33948c',
@@ -43879,7 +43879,7 @@ efph:{
 eflh:[],
 iflbx:false,
 ipflbx:true,
-text:'{"blocks":[{"key":"fgf7b","text":"Clicking on Go Live will activate the local server for viewing documents locally.","type":"unstyled","depth":0,"inlineStyleRanges":[{"offset":0,"length":81,"style":"textShadowEnable:false"},{"offset":0,"length":81,"style":"overridden:false"},{"offset":0,"length":81,"style":"hlnk:"},{"offset":0,"length":81,"style":"hlnkt:wp"},{"offset":0,"length":81,"style":"textOutlineEnable:false"},{"offset":0,"length":81,"style":"opacity:1"},{"offset":0,"length":81,"style":"hlnke:true"},{"offset":0,"length":81,"style":"backgroundColor:unset"},{"offset":0,"length":81,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":81,"style":"textHighlightEnable:false"}],"entityRanges":[],"data":{"listType":"S_Bullets08","listColor":"#666666","listIndent":"100%","listSize":"100%","listDepth":"0","overridden":"false","presetId":"text-body-6"}}],"entityMap":{}}',
+text:'{"blocks":[{"key":"fgf7b","text":"Clicking on Go Live will activate the local server for viewing the documentation locally.","type":"unstyled","depth":0,"inlineStyleRanges":[{"offset":0,"length":89,"style":"hlnk:"},{"offset":0,"length":89,"style":"hlnkt:wp"},{"offset":0,"length":89,"style":"textOutlineEnable:false"},{"offset":0,"length":89,"style":"opacity:1"},{"offset":0,"length":89,"style":"hlnke:true"},{"offset":0,"length":89,"style":"backgroundColor:unset"},{"offset":0,"length":89,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":89,"style":"textHighlightEnable:false"},{"offset":0,"length":89,"style":"textShadowEnable:false"},{"offset":0,"length":89,"style":"overridden:false"}],"entityRanges":[],"data":{"listType":"S_Bullets08","listColor":"#666666","listIndent":"100%","listSize":"100%","listDepth":"0","overridden":"false","presetId":"text-body-6"}}],"entityMap":{}}',
 autoGrow:false,
 tbqt:0,
 trin:0,
@@ -43901,19 +43901,19 @@ siq:false,
 isDD:false
 },
 si33948c:{
-b:[0,0,1,1],
+b:[-1,0,0,1],
 fh:false,
 fw:false,
 uid:33948,
 iso:false,
 css:{
 430:{
-l:'0.000%',
+l:'-0.073%',
 t:'0.000%',
 b:'auto',
 r:'auto',
 lhEID:0,
-lhV:'0.000%',
+lhV:'-0.073%',
 lhID:-1,
 lvEID:0,
 lvV:'0.000%',
@@ -43935,12 +43935,12 @@ ipiv:1
 }
 ,
 768:{
-l:'0.000%',
+l:'-0.073%',
 t:'0.000%',
 b:'auto',
 r:'auto',
 lhEID:0,
-lhV:'0.000%',
+lhV:'-0.073%',
 lhID:-1,
 lvEID:0,
 lvV:'0.000%',
@@ -43962,12 +43962,12 @@ ipiv:1
 }
 ,
 1366:{
-l:'0.000%',
+l:'-0.073%',
 t:'0.000%',
 b:'auto',
 r:'auto',
 lhEID:0,
-lhV:'0.000%',
+lhV:'-0.073%',
 lhID:-1,
 lvEID:0,
 lvV:'0.000%',
@@ -43995,8 +43995,8 @@ dn:'si33948',
 visible:1,
 effectiveVi:1,
 JSONEffectData:false,
-vbwr:[-1,-1,2,2],
-vb:[-1,-1,2,2]
+vbwr:[-2,-1,1,2],
+vb:[-2,-1,1,2]
 },
 si33956:{
 name:'Button_742',
@@ -47001,10 +47001,10 @@ vbwr:[-2,-2,-1,-1],
 vb:[-2,-2,-1,-1]
 },
 Slide33262:{
-lb:'Blank 2',
+lb:'Prerequisites - Inside vsc',
 id:33262,
-from:28777,
-to:28866,
+from:44311,
+to:44400,
 iols:0,
 i360qs:false,
 sdu:3,
@@ -52168,10 +52168,10 @@ vbwr:[-1,-1,2,2],
 vb:[-1,-1,2,2]
 },
 Slide6658:{
-lb:'Lesson 1 - Learning Objectives',
+lb:'Lesson 1 - Learning objectives',
 id:6658,
-from:1441,
-to:1530,
+from:45841,
+to:45930,
 iols:0,
 i360qs:false,
 sdu:3,
@@ -52895,10 +52895,10 @@ vbwr:[-1,-1,2,2],
 vb:[-1,-1,2,2]
 },
 Slide28943:{
-lb:'Lesson 1 - Learning Outcomes',
+lb:'Lesson 1 - Learning outcomes',
 id:28943,
-from:1531,
-to:1620,
+from:45931,
+to:46020,
 iols:0,
 i360qs:false,
 sdu:3,
@@ -52972,9 +52972,9 @@ uid:28943,
 dn:'Slide28943',
 visible:'1'
 },
-StAd4:{
-from:44221,
-to:53043,
+StAd8:{
+from:46021,
+to:54843,
 src:'ar/23889.mp3',
 du:294115,
 saup:[{
@@ -71590,10 +71590,10 @@ vbwr:[-1,-1,2,2],
 vb:[-1,-1,2,2]
 },
 Slide8216:{
-lb:'Lesson 1 - OP-TED Docs Repositories',
+lb:'Lesson 1 - OP-TED Docs repositories',
 id:8216,
-from:28867,
-to:37179,
+from:46021,
+to:54333,
 iols:0,
 i360qs:false,
 sdu:277.1,
@@ -72326,10 +72326,10 @@ vbwr:[-1,-1,2,2],
 vb:[-1,-1,2,2]
 },
 Slide25161:{
-lb:'Lesson 1 - OP-TED Docs Repositories Transcript',
+lb:'Lesson 1 - OP-TED Docs repositories Transcript',
 id:25161,
-from:37180,
-to:37269,
+from:54334,
+to:54423,
 iols:0,
 i360qs:false,
 sdu:3,
@@ -73580,10 +73580,10 @@ vbwr:[-1,-1,1,1],
 vb:[-1,-1,1,1]
 },
 Slide30288:{
-lb:'Lesson 1 - The Antora Engine',
+lb:'Lesson 1 -  Antora engine',
 id:30288,
-from:37270,
-to:43500,
+from:54424,
+to:60654,
 iols:0,
 i360qs:false,
 sdu:207.7,
@@ -73662,9 +73662,9 @@ uid:30288,
 dn:'Slide30288',
 visible:'1'
 },
-StAd5:{
-from:44221,
-to:50450,
+StAd9:{
+from:54424,
+to:60653,
 src:'ar/34221.mp3',
 du:207702,
 saup:[{
@@ -74324,10 +74324,10 @@ vbwr:[-1,-1,2,2],
 vb:[-1,-1,2,2]
 },
 Slide25277:{
-lb:'Lesson 1 - The Antora Engine Transcript',
+lb:'Lesson 1 - Antora engine transcript',
 id:25277,
-from:24727,
-to:24816,
+from:60655,
+to:60744,
 iols:0,
 i360qs:false,
 sdu:3,
@@ -75047,10 +75047,10 @@ vbwr:[-1,-1,2,2],
 vb:[-1,-1,2,2]
 },
 Slide8718:{
-lb:'Lesson 1 - Branches and Versions',
+lb:'Lesson 1 - Branches and versions',
 id:8718,
-from:24817,
-to:24906,
+from:60745,
+to:60834,
 iols:0,
 i360qs:false,
 sdu:3,
@@ -75125,8 +75125,8 @@ visible:'1'
 si29069:{
 name:'Paragraph_100',
 type:1268,
-from:24907,
-to:24996,
+from:44401,
+to:44490,
 rp:0,
 rpa:0,
 mdi:'si29069c',
@@ -75293,8 +75293,8 @@ vb:[-1,-1,1,1]
 si29077:{
 name:'Paragraph_Group_50',
 type:1268,
-from:24907,
-to:24996,
+from:44401,
+to:44490,
 rp:0,
 rpa:0,
 mdi:'si29077c',
@@ -75619,8 +75619,8 @@ vb:[-1,-1,2,2]
 si29101:{
 name:'Text_420',
 type:1250,
-from:24907,
-to:24996,
+from:44401,
+to:44490,
 rp:0,
 rpa:0,
 mdi:'si29101c',
@@ -75650,7 +75650,7 @@ efph:{
 eflh:[],
 iflbx:false,
 ipflbx:true,
-text:'{"blocks":[{"key":"2bi07","text":"While anyone can, theoretically, clone a docs repository and make changes locally, permissions are needed to push the changes to the OP-TED GitHub docs repository. Therefore, before you start working  on the documents, you will need to make sure that you have:","type":"unstyled","depth":0,"inlineStyleRanges":[{"offset":0,"length":260,"style":"textShadowY:4px"},{"offset":0,"length":260,"style":"letterSpacing:3%"},{"offset":0,"length":260,"style":"textShadowColor:#F1EEE61F"},{"offset":0,"length":260,"style":"textHighlightEnable:false"},{"offset":0,"length":260,"style":"textTransform:none"},{"offset":0,"length":260,"style":"textShadowOpacity:none"},{"offset":0,"length":260,"style":"overridden:true"},{"offset":0,"length":260,"style":"textDecoration:none"},{"offset":0,"length":260,"style":"lineHeight:130%"},{"offset":0,"length":260,"style":"borderBottomStyle:none"},{"offset":0,"length":260,"style":"desktop-fontSize:22"},{"offset":0,"length":260,"style":"textShadowEnable:false"},{"offset":0,"length":260,"style":"hlnk:"},{"offset":0,"length":260,"style":"fontWeight:normal"},{"offset":0,"length":260,"style":"textShadowBlur:8px"},{"offset":0,"length":260,"style":"fontFamily:Arial"},{"offset":0,"length":260,"style":"color:#060606"},{"offset":0,"length":260,"style":"backgroundColor:unset"},{"offset":0,"length":260,"style":"WebkitTextStrokeWidth:1px"},{"offset":0,"length":260,"style":"hlnkt:wp"},{"offset":0,"length":260,"style":"fontStyle:normal"},{"offset":0,"length":260,"style":"tablet-fontSize:20"},{"offset":0,"length":260,"style":"defaultTextStrokeWidth:1px"},{"offset":0,"length":260,"style":"WebkitTextStrokeColor:#F1EEE6"},{"offset":0,"length":260,"style":"textOutlineEnable:false"},{"offset":0,"length":260,"style":"opacity:1"},{"offset":0,"length":260,"style":"defaultTextStrokeColor:#F1EEE6"},{"offset":0,"length":260,"style":"hlnke:true"},{"offset":0,"length":260,"style":"defaultTextShadow:none"},{"offset":0,"length":260,"style":"textShadow:none"},{"offset":0,"length":260,"style":"mobile-fontSize:18"},{"offset":0,"length":260,"style":"textShadowX:0px"},{"offset":0,"length":260,"style":"fontStretch:normal"},{"offset":0,"length":260,"style":"fontType:regular"},{"offset":0,"length":260,"style":"defaultBackgroundColor:#E8D01B"}],"entityRanges":[],"data":{"listDepth":"0","listColor":"#666666","verticalAlignMarginBottom":"0px","listIndent":"100%","overridden":"true","marginLeft":"0px","verticalAlignMarginTop":"auto","listType":"S_Bullets08","textAlign":"left","marginBottom":"0%","presetId":"text-body-2","listSize":"100%"}},{"key":"1shsd","text":"","type":"unstyled","depth":0,"inlineStyleRanges":[],"entityRanges":[],"data":{"listDepth":"0","listColor":"#666666","verticalAlignMarginBottom":"0px","listIndent":"100%","overridden":"true","marginLeft":"0px","verticalAlignMarginTop":"auto","listType":"S_Bullets08","textAlign":"left","marginBottom":"0%","presetId":"text-body-2","listSize":"100%"}},{"key":"d1pl1","text":"Write permissions to the specific docs repository/ repositories","type":"unordered-list-item","depth":0,"inlineStyleRanges":[{"offset":0,"length":63,"style":"fontStretch:normal"},{"offset":0,"length":63,"style":"fontType:regular"},{"offset":0,"length":63,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":63,"style":"textShadowY:4px"},{"offset":0,"length":63,"style":"letterSpacing:3%"},{"offset":0,"length":63,"style":"textShadowColor:#F1EEE61F"},{"offset":0,"length":63,"style":"textHighlightEnable:false"},{"offset":0,"length":63,"style":"textTransform:none"},{"offset":0,"length":63,"style":"textShadowOpacity:none"},{"offset":0,"length":63,"style":"overridden:true"},{"offset":0,"length":63,"style":"textDecoration:none"},{"offset":0,"length":63,"style":"lineHeight:130%"},{"offset":0,"length":63,"style":"borderBottomStyle:none"},{"offset":0,"length":63,"style":"desktop-fontSize:22"},{"offset":0,"length":63,"style":"textShadowEnable:false"},{"offset":0,"length":63,"style":"hlnk:"},{"offset":0,"length":63,"style":"fontWeight:normal"},{"offset":0,"length":63,"style":"textShadowBlur:8px"},{"offset":0,"length":63,"style":"fontFamily:Arial"},{"offset":0,"length":63,"style":"color:#060606"},{"offset":0,"length":63,"style":"backgroundColor:unset"},{"offset":0,"length":63,"style":"WebkitTextStrokeWidth:1px"},{"offset":0,"length":63,"style":"hlnkt:wp"},{"offset":0,"length":63,"style":"fontStyle:normal"},{"offset":0,"length":63,"style":"tablet-fontSize:20"},{"offset":0,"length":63,"style":"defaultTextStrokeWidth:1px"},{"offset":0,"length":63,"style":"WebkitTextStrokeColor:#F1EEE6"},{"offset":0,"length":63,"style":"textOutlineEnable:false"},{"offset":0,"length":63,"style":"opacity:1"},{"offset":0,"length":63,"style":"defaultTextStrokeColor:#F1EEE6"},{"offset":0,"length":63,"style":"hlnke:true"},{"offset":0,"length":63,"style":"defaultTextShadow:none"},{"offset":0,"length":63,"style":"textShadow:none"},{"offset":0,"length":63,"style":"mobile-fontSize:18"},{"offset":0,"length":63,"style":"textShadowX:0px"}],"entityRanges":[],"data":{"listDepth":"0","listColor":"#666666","verticalAlignMarginBottom":"0px","listIndent":"100%","overridden":"true","marginLeft":"0px","verticalAlignMarginTop":"auto","listType":"S_Bullets08","textAlign":"left","marginBottom":"0%","presetId":"text-body-2","listSize":"100%"}},{"key":"4m85l","text":"permissions to the docs generation repository to update the main pages (top level nav, index.adoc, and antora-playbook).","type":"unordered-list-item","depth":0,"inlineStyleRanges":[{"offset":0,"length":120,"style":"textShadow:none"},{"offset":0,"length":120,"style":"mobile-fontSize:18"},{"offset":0,"length":120,"style":"textShadowX:0px"},{"offset":0,"length":120,"style":"fontStretch:normal"},{"offset":0,"length":120,"style":"fontType:regular"},{"offset":0,"length":120,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":120,"style":"textShadowY:4px"},{"offset":0,"length":120,"style":"letterSpacing:3%"},{"offset":0,"length":120,"style":"textShadowColor:#F1EEE61F"},{"offset":0,"length":120,"style":"textHighlightEnable:false"},{"offset":0,"length":120,"style":"textTransform:none"},{"offset":0,"length":120,"style":"textShadowOpacity:none"},{"offset":0,"length":120,"style":"overridden:true"},{"offset":0,"length":120,"style":"textDecoration:none"},{"offset":0,"length":120,"style":"lineHeight:130%"},{"offset":0,"length":120,"style":"borderBottomStyle:none"},{"offset":0,"length":120,"style":"desktop-fontSize:22"},{"offset":0,"length":120,"style":"textShadowEnable:false"},{"offset":0,"length":120,"style":"hlnk:"},{"offset":0,"length":120,"style":"fontWeight:normal"},{"offset":0,"length":120,"style":"textShadowBlur:8px"},{"offset":0,"length":120,"style":"fontFamily:Arial"},{"offset":0,"length":120,"style":"color:#060606"},{"offset":0,"length":120,"style":"backgroundColor:unset"},{"offset":0,"length":120,"style":"WebkitTextStrokeWidth:1px"},{"offset":0,"length":120,"style":"hlnkt:wp"},{"offset":0,"length":120,"style":"fontStyle:normal"},{"offset":0,"length":120,"style":"tablet-fontSize:20"},{"offset":0,"length":120,"style":"defaultTextStrokeWidth:1px"},{"offset":0,"length":120,"style":"WebkitTextStrokeColor:#F1EEE6"},{"offset":0,"length":120,"style":"textOutlineEnable:false"},{"offset":0,"length":120,"style":"opacity:1"},{"offset":0,"length":120,"style":"defaultTextStrokeColor:#F1EEE6"},{"offset":0,"length":120,"style":"hlnke:true"},{"offset":0,"length":120,"style":"defaultTextShadow:none"}],"entityRanges":[],"data":{"listDepth":"0","listColor":"#666666","verticalAlignMarginBottom":"0px","listIndent":"100%","overridden":"true","marginLeft":"0px","verticalAlignMarginTop":"auto","listType":"S_Bullets08","textAlign":"left","marginBottom":"0%","presetId":"text-body-2","listSize":"100%"}},{"key":"2o7s3","text":"Permissions to run the docs generation GitHub Action on the docs generation repository","type":"unordered-list-item","depth":0,"inlineStyleRanges":[{"offset":0,"length":86,"style":"defaultTextStrokeColor:#F1EEE6"},{"offset":0,"length":86,"style":"hlnke:true"},{"offset":0,"length":86,"style":"defaultTextShadow:none"},{"offset":0,"length":86,"style":"textShadow:none"},{"offset":0,"length":86,"style":"mobile-fontSize:18"},{"offset":0,"length":86,"style":"textShadowX:0px"},{"offset":0,"length":86,"style":"fontStretch:normal"},{"offset":0,"length":86,"style":"fontType:regular"},{"offset":0,"length":86,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":86,"style":"textShadowY:4px"},{"offset":0,"length":86,"style":"letterSpacing:3%"},{"offset":0,"length":86,"style":"textShadowColor:#F1EEE61F"},{"offset":0,"length":86,"style":"textHighlightEnable:false"},{"offset":0,"length":86,"style":"textTransform:none"},{"offset":0,"length":86,"style":"textShadowOpacity:none"},{"offset":0,"length":86,"style":"overridden:true"},{"offset":0,"length":86,"style":"textDecoration:none"},{"offset":0,"length":86,"style":"lineHeight:130%"},{"offset":0,"length":86,"style":"borderBottomStyle:none"},{"offset":0,"length":86,"style":"desktop-fontSize:22"},{"offset":0,"length":86,"style":"textShadowEnable:false"},{"offset":0,"length":86,"style":"hlnk:"},{"offset":0,"length":86,"style":"fontWeight:normal"},{"offset":0,"length":86,"style":"textShadowBlur:8px"},{"offset":0,"length":86,"style":"fontFamily:Arial"},{"offset":0,"length":86,"style":"color:#060606"},{"offset":0,"length":86,"style":"backgroundColor:unset"},{"offset":0,"length":86,"style":"WebkitTextStrokeWidth:1px"},{"offset":0,"length":86,"style":"hlnkt:wp"},{"offset":0,"length":86,"style":"fontStyle:normal"},{"offset":0,"length":86,"style":"tablet-fontSize:20"},{"offset":0,"length":86,"style":"defaultTextStrokeWidth:1px"},{"offset":0,"length":86,"style":"WebkitTextStrokeColor:#F1EEE6"},{"offset":0,"length":86,"style":"textOutlineEnable:false"},{"offset":0,"length":86,"style":"opacity:1"}],"entityRanges":[],"data":{"listDepth":"0","listColor":"#666666","verticalAlignMarginBottom":"0px","listIndent":"100%","overridden":"true","marginLeft":"0px","verticalAlignMarginTop":"auto","listType":"S_Bullets08","textAlign":"left","marginBottom":"0%","presetId":"text-body-2","listSize":"100%"}}],"entityMap":{}}',
+text:'{"blocks":[{"key":"2bi07","text":"While anyone can, theoretically, clone a docs repository and make changes locally, permissions are needed to push the changes to the OP-TED GitHub docs repository. Therefore, before you start working  on the documents, you will need to make sure that you have:","type":"unstyled","depth":0,"inlineStyleRanges":[{"offset":0,"length":260,"style":"defaultTextStrokeColor:#F1EEE6"},{"offset":0,"length":260,"style":"hlnke:true"},{"offset":0,"length":260,"style":"defaultTextShadow:none"},{"offset":0,"length":260,"style":"textShadow:none"},{"offset":0,"length":260,"style":"mobile-fontSize:18"},{"offset":0,"length":260,"style":"textShadowX:0px"},{"offset":0,"length":260,"style":"fontStretch:normal"},{"offset":0,"length":260,"style":"fontType:regular"},{"offset":0,"length":260,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":260,"style":"textShadowY:4px"},{"offset":0,"length":260,"style":"letterSpacing:3%"},{"offset":0,"length":260,"style":"textShadowColor:#F1EEE61F"},{"offset":0,"length":260,"style":"textHighlightEnable:false"},{"offset":0,"length":260,"style":"textTransform:none"},{"offset":0,"length":260,"style":"textShadowOpacity:none"},{"offset":0,"length":260,"style":"overridden:true"},{"offset":0,"length":260,"style":"textDecoration:none"},{"offset":0,"length":260,"style":"lineHeight:130%"},{"offset":0,"length":260,"style":"borderBottomStyle:none"},{"offset":0,"length":260,"style":"desktop-fontSize:22"},{"offset":0,"length":260,"style":"textShadowEnable:false"},{"offset":0,"length":260,"style":"hlnk:"},{"offset":0,"length":260,"style":"fontWeight:normal"},{"offset":0,"length":260,"style":"textShadowBlur:8px"},{"offset":0,"length":260,"style":"fontFamily:Arial"},{"offset":0,"length":260,"style":"color:#060606"},{"offset":0,"length":260,"style":"backgroundColor:unset"},{"offset":0,"length":260,"style":"WebkitTextStrokeWidth:1px"},{"offset":0,"length":260,"style":"hlnkt:wp"},{"offset":0,"length":260,"style":"fontStyle:normal"},{"offset":0,"length":260,"style":"tablet-fontSize:20"},{"offset":0,"length":260,"style":"defaultTextStrokeWidth:1px"},{"offset":0,"length":260,"style":"WebkitTextStrokeColor:#F1EEE6"},{"offset":0,"length":260,"style":"textOutlineEnable:false"},{"offset":0,"length":260,"style":"opacity:1"}],"entityRanges":[],"data":{"listDepth":"0","listColor":"#666666","verticalAlignMarginBottom":"0px","listIndent":"100%","overridden":"true","marginLeft":"0px","verticalAlignMarginTop":"auto","listType":"S_Bullets08","textAlign":"left","marginBottom":"0%","presetId":"text-body-2","listSize":"100%"}},{"key":"1shsd","text":"","type":"unstyled","depth":0,"inlineStyleRanges":[],"entityRanges":[],"data":{"listDepth":"0","listColor":"#666666","verticalAlignMarginBottom":"0px","listIndent":"100%","overridden":"true","marginLeft":"0px","verticalAlignMarginTop":"auto","listType":"S_Bullets08","textAlign":"left","marginBottom":"0%","presetId":"text-body-2","listSize":"100%"}},{"key":"d1pl1","text":"Write permissions to the specific docs repository/ repositories","type":"unordered-list-item","depth":0,"inlineStyleRanges":[{"offset":0,"length":63,"style":"WebkitTextStrokeColor:#F1EEE6"},{"offset":0,"length":63,"style":"textOutlineEnable:false"},{"offset":0,"length":63,"style":"opacity:1"},{"offset":0,"length":63,"style":"defaultTextStrokeColor:#F1EEE6"},{"offset":0,"length":63,"style":"hlnke:true"},{"offset":0,"length":63,"style":"defaultTextShadow:none"},{"offset":0,"length":63,"style":"textShadow:none"},{"offset":0,"length":63,"style":"mobile-fontSize:18"},{"offset":0,"length":63,"style":"textShadowX:0px"},{"offset":0,"length":63,"style":"fontStretch:normal"},{"offset":0,"length":63,"style":"fontType:regular"},{"offset":0,"length":63,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":63,"style":"textShadowY:4px"},{"offset":0,"length":63,"style":"letterSpacing:3%"},{"offset":0,"length":63,"style":"textShadowColor:#F1EEE61F"},{"offset":0,"length":63,"style":"textHighlightEnable:false"},{"offset":0,"length":63,"style":"textTransform:none"},{"offset":0,"length":63,"style":"textShadowOpacity:none"},{"offset":0,"length":63,"style":"overridden:true"},{"offset":0,"length":63,"style":"textDecoration:none"},{"offset":0,"length":63,"style":"lineHeight:130%"},{"offset":0,"length":63,"style":"borderBottomStyle:none"},{"offset":0,"length":63,"style":"desktop-fontSize:22"},{"offset":0,"length":63,"style":"textShadowEnable:false"},{"offset":0,"length":63,"style":"hlnk:"},{"offset":0,"length":63,"style":"fontWeight:normal"},{"offset":0,"length":63,"style":"textShadowBlur:8px"},{"offset":0,"length":63,"style":"fontFamily:Arial"},{"offset":0,"length":63,"style":"color:#060606"},{"offset":0,"length":63,"style":"backgroundColor:unset"},{"offset":0,"length":63,"style":"WebkitTextStrokeWidth:1px"},{"offset":0,"length":63,"style":"hlnkt:wp"},{"offset":0,"length":63,"style":"fontStyle:normal"},{"offset":0,"length":63,"style":"tablet-fontSize:20"},{"offset":0,"length":63,"style":"defaultTextStrokeWidth:1px"}],"entityRanges":[],"data":{"listDepth":"0","listColor":"#666666","verticalAlignMarginBottom":"0px","listIndent":"100%","overridden":"true","marginLeft":"0px","verticalAlignMarginTop":"auto","listType":"S_Bullets08","textAlign":"left","marginBottom":"0%","presetId":"text-body-2","listSize":"100%"}},{"key":"4m85l","text":"Permissions to the docs generation repository to update the main pages (top level nav, index.adoc, and antora-playbook).","type":"unordered-list-item","depth":0,"inlineStyleRanges":[{"offset":0,"length":120,"style":"backgroundColor:unset"},{"offset":0,"length":120,"style":"WebkitTextStrokeWidth:1px"},{"offset":0,"length":120,"style":"hlnkt:wp"},{"offset":0,"length":120,"style":"fontStyle:normal"},{"offset":0,"length":120,"style":"tablet-fontSize:20"},{"offset":0,"length":120,"style":"defaultTextStrokeWidth:1px"},{"offset":0,"length":120,"style":"WebkitTextStrokeColor:#F1EEE6"},{"offset":0,"length":120,"style":"textOutlineEnable:false"},{"offset":0,"length":120,"style":"opacity:1"},{"offset":0,"length":120,"style":"defaultTextStrokeColor:#F1EEE6"},{"offset":0,"length":120,"style":"hlnke:true"},{"offset":0,"length":120,"style":"defaultTextShadow:none"},{"offset":0,"length":120,"style":"textShadow:none"},{"offset":0,"length":120,"style":"mobile-fontSize:18"},{"offset":0,"length":120,"style":"textShadowX:0px"},{"offset":0,"length":120,"style":"fontStretch:normal"},{"offset":0,"length":120,"style":"fontType:regular"},{"offset":0,"length":120,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":120,"style":"textShadowY:4px"},{"offset":0,"length":120,"style":"letterSpacing:3%"},{"offset":0,"length":120,"style":"textShadowColor:#F1EEE61F"},{"offset":0,"length":120,"style":"textHighlightEnable:false"},{"offset":0,"length":120,"style":"textTransform:none"},{"offset":0,"length":120,"style":"textShadowOpacity:none"},{"offset":0,"length":120,"style":"overridden:true"},{"offset":0,"length":120,"style":"textDecoration:none"},{"offset":0,"length":120,"style":"lineHeight:130%"},{"offset":0,"length":120,"style":"borderBottomStyle:none"},{"offset":0,"length":120,"style":"desktop-fontSize:22"},{"offset":0,"length":120,"style":"textShadowEnable:false"},{"offset":0,"length":120,"style":"hlnk:"},{"offset":0,"length":120,"style":"fontWeight:normal"},{"offset":0,"length":120,"style":"textShadowBlur:8px"},{"offset":0,"length":120,"style":"fontFamily:Arial"},{"offset":0,"length":120,"style":"color:#060606"}],"entityRanges":[],"data":{"listDepth":"0","listColor":"#666666","verticalAlignMarginBottom":"0px","listIndent":"100%","overridden":"true","marginLeft":"0px","verticalAlignMarginTop":"auto","listType":"S_Bullets08","textAlign":"left","marginBottom":"0%","presetId":"text-body-2","listSize":"100%"}},{"key":"2o7s3","text":"Permissions to run the docs generation GitHub Action on the docs generation repository","type":"unordered-list-item","depth":0,"inlineStyleRanges":[{"offset":0,"length":86,"style":"textShadowBlur:8px"},{"offset":0,"length":86,"style":"fontFamily:Arial"},{"offset":0,"length":86,"style":"color:#060606"},{"offset":0,"length":86,"style":"backgroundColor:unset"},{"offset":0,"length":86,"style":"WebkitTextStrokeWidth:1px"},{"offset":0,"length":86,"style":"hlnkt:wp"},{"offset":0,"length":86,"style":"fontStyle:normal"},{"offset":0,"length":86,"style":"tablet-fontSize:20"},{"offset":0,"length":86,"style":"defaultTextStrokeWidth:1px"},{"offset":0,"length":86,"style":"WebkitTextStrokeColor:#F1EEE6"},{"offset":0,"length":86,"style":"textOutlineEnable:false"},{"offset":0,"length":86,"style":"opacity:1"},{"offset":0,"length":86,"style":"defaultTextStrokeColor:#F1EEE6"},{"offset":0,"length":86,"style":"hlnke:true"},{"offset":0,"length":86,"style":"defaultTextShadow:none"},{"offset":0,"length":86,"style":"textShadow:none"},{"offset":0,"length":86,"style":"mobile-fontSize:18"},{"offset":0,"length":86,"style":"textShadowX:0px"},{"offset":0,"length":86,"style":"fontStretch:normal"},{"offset":0,"length":86,"style":"fontType:regular"},{"offset":0,"length":86,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":86,"style":"textShadowY:4px"},{"offset":0,"length":86,"style":"letterSpacing:3%"},{"offset":0,"length":86,"style":"textShadowColor:#F1EEE61F"},{"offset":0,"length":86,"style":"textHighlightEnable:false"},{"offset":0,"length":86,"style":"textTransform:none"},{"offset":0,"length":86,"style":"textShadowOpacity:none"},{"offset":0,"length":86,"style":"overridden:true"},{"offset":0,"length":86,"style":"textDecoration:none"},{"offset":0,"length":86,"style":"lineHeight:130%"},{"offset":0,"length":86,"style":"borderBottomStyle:none"},{"offset":0,"length":86,"style":"desktop-fontSize:22"},{"offset":0,"length":86,"style":"textShadowEnable:false"},{"offset":0,"length":86,"style":"hlnk:"},{"offset":0,"length":86,"style":"fontWeight:normal"}],"entityRanges":[],"data":{"listDepth":"0","listColor":"#666666","verticalAlignMarginBottom":"0px","listIndent":"100%","overridden":"true","marginLeft":"0px","verticalAlignMarginTop":"auto","listType":"S_Bullets08","textAlign":"left","marginBottom":"0%","presetId":"text-body-2","listSize":"100%"}}],"entityMap":{}}',
 autoGrow:false,
 tbqt:0,
 trin:0,
@@ -76259,8 +76259,8 @@ vb:[-1,-1,2,2]
 Slide29047:{
 lb:'Lesson 1 - Permissions',
 id:29047,
-from:24907,
-to:24996,
+from:44401,
+to:44490,
 iols:0,
 i360qs:false,
 sdu:3,
@@ -80257,8 +80257,8 @@ visible:'1'
 si9716:{
 name:'Paragraph_42',
 type:1268,
-from:25177,
-to:25266,
+from:44491,
+to:44580,
 rp:0,
 rpa:0,
 mdi:'si9716c',
@@ -80282,7 +80282,7 @@ isOverridden:true
 }
 ]
 ,
-widgetProps:'{"padding":{"left":10,"right":10,"top":19,"bottom":19},"visibilityInfo":{"isDerivedFromChild":true},"groupedItemsVisibility":{"isDerivedFromChild":true},"alignment":{"isDerivedFromChild":true},"canBeCard":false,"appearanceProperties":{},"autoFit":false,"designOptionStyles":{"all":{"display":"flex","flexDirection":"column"},"tablet":{},"mobile":{}}}',
+widgetProps:'{"padding":{"isDTMLinked":true,"mobile":{"left":10,"right":10,"top":31,"bottom":0},"tablet":{"left":10,"right":10,"top":56,"bottom":0},"left":10,"right":10,"top":100,"bottom":0},"visibilityInfo":{"isDerivedFromChild":true},"groupedItemsVisibility":{"isDerivedFromChild":true},"alignment":{"isDerivedFromChild":true},"canBeCard":false,"appearanceProperties":{},"autoFit":false,"designOptionStyles":{"all":{"display":"flex","flexDirection":"column"},"tablet":{},"mobile":{}}}',
 retainState:false,
 immo:false,
 apsn:'Slide9694',
@@ -80299,7 +80299,7 @@ t:1268
 ]
 ,
 containerType:'paragraph',
-widgetProps:'{"padding":{"left":10,"right":10,"top":19,"bottom":19},"visibilityInfo":{"isDerivedFromChild":true},"groupedItemsVisibility":{"isDerivedFromChild":true},"alignment":{"isDerivedFromChild":true},"canBeCard":false,"appearanceProperties":{},"autoFit":false,"designOptionStyles":{"all":{"display":"flex","flexDirection":"column"},"tablet":{},"mobile":{}}}',
+widgetProps:'{"padding":{"isDTMLinked":true,"mobile":{"left":10,"right":10,"top":31,"bottom":0},"tablet":{"left":10,"right":10,"top":56,"bottom":0},"left":10,"right":10,"top":100,"bottom":0},"visibilityInfo":{"isDerivedFromChild":true},"groupedItemsVisibility":{"isDerivedFromChild":true},"alignment":{"isDerivedFromChild":true},"canBeCard":false,"appearanceProperties":{},"autoFit":false,"designOptionStyles":{"all":{"display":"flex","flexDirection":"column"},"tablet":{},"mobile":{}}}',
 option:'DEFAULT_PARAGRAPH_OPTION',
 padding:{
 left:0,
@@ -80425,8 +80425,8 @@ vb:[-1,-1,1,1]
 si9724:{
 name:'Paragraph_Group_22',
 type:1268,
-from:25177,
-to:25266,
+from:44491,
+to:44580,
 rp:0,
 rpa:0,
 mdi:'si9724c',
@@ -80594,8 +80594,8 @@ vb:[-1,-1,1,1]
 si9732:{
 name:'Text_154',
 type:1250,
-from:25177,
-to:25266,
+from:44491,
+to:44580,
 rp:0,
 rpa:0,
 mdi:'si9732c',
@@ -80614,7 +80614,7 @@ isOverridden:false
 }
 ]
 ,
-widgetProps:'{"shouldRender":true,"designOptionStyles":{"all":{},"tablet":{},"mobile":{}},"padding":{"isDTMLinked":true,"mobile":{"left":0,"right":0,"top":31,"bottom":0},"tablet":{"left":0,"right":0,"top":56,"bottom":0},"left":0,"right":0,"top":100,"bottom":0}}',
+widgetProps:'{"shouldRender":true,"designOptionStyles":{"all":{},"tablet":{},"mobile":{}},"padding":{"isDTMLinked":true,"mobile":{"left":0,"right":0,"top":0,"bottom":0},"tablet":{"left":0,"right":0,"top":0,"bottom":0},"left":0,"right":0,"top":0,"bottom":0}}',
 parentGroup:'si9724',
 retainState:false,
 immo:false,
@@ -81392,10 +81392,10 @@ vbwr:[-1,-1,2,2],
 vb:[-1,-1,2,2]
 },
 Slide9694:{
-lb:'Lesson 2 - Learning Objectives',
+lb:'Lesson 2 - Learning objectives',
 id:9694,
-from:25177,
-to:25266,
+from:60835,
+to:60924,
 iols:0,
 i360qs:false,
 sdu:3,
@@ -82452,10 +82452,10 @@ vbwr:[-1,-1,2,2],
 vb:[-1,-1,2,2]
 },
 Slide30487:{
-lb:'Lesson 2 - Learning Outcomes',
+lb:'Lesson 2 - Learning outcomes',
 id:30487,
-from:43501,
-to:43590,
+from:60925,
+to:61014,
 iols:0,
 i360qs:false,
 sdu:3,
@@ -83181,10 +83181,10 @@ vbwr:[-1,-1,2,2],
 vb:[-1,-1,2,2]
 },
 Slide10080:{
-lb:'Lesson 2 - Jira Tickets',
+lb:'Lesson 2 - Jira tickets',
 id:10080,
-from:43591,
-to:43680,
+from:61015,
+to:61104,
 iols:0,
 i360qs:false,
 sdu:3,
@@ -83904,10 +83904,10 @@ vbwr:[-1,-1,2,2],
 vb:[-1,-1,2,2]
 },
 Slide10278:{
-lb:'Lesson 2 - GitHub Issues',
+lb:'Lesson 2 - GitHub issues',
 id:10278,
-from:25447,
-to:25536,
+from:61105,
+to:61194,
 iols:0,
 i360qs:false,
 sdu:3,
@@ -102126,10 +102126,10 @@ vbwr:[-2,-2,-1,-1],
 vb:[-2,-2,-1,-1]
 },
 Slide12258:{
-lb:'Lesson 2 - Cloning a Repository',
+lb:'Lesson 2 - Cloning a repository',
 id:12258,
-from:25897,
-to:25986,
+from:61195,
+to:61284,
 iols:0,
 i360qs:false,
 sdu:3,
@@ -102860,10 +102860,10 @@ vbwr:[-1,-1,2,2],
 vb:[-1,-1,2,2]
 },
 Slide13242:{
-lb:'Lesson 2 - Working on a Previously Cloned Repository',
+lb:'Lesson 2 - Working on a previously Cloned Repository',
 id:13242,
-from:25987,
-to:26076,
+from:61285,
+to:61374,
 iols:0,
 i360qs:false,
 sdu:3,
@@ -131119,10 +131119,10 @@ vbwr:[-2,-2,-1,-1],
 vb:[-2,-2,-1,-1]
 },
 Slide15352:{
-lb:'Lesson 2 - viewing changes locally',
+lb:'Lesson 2 - Viewing changes locally',
 id:15352,
-from:43681,
-to:43770,
+from:44581,
+to:44670,
 iols:0,
 i360qs:false,
 sdu:3,
@@ -145254,10 +145254,10 @@ vbwr:[-2,-2,-1,-1],
 vb:[-2,-2,-1,-1]
 },
 Slide16314:{
-lb:'Lesson 2 - Commiting and Pushing Changes to GitHub',
+lb:'Lesson 2 - Commiting and pushing changes to GitHub',
 id:16314,
-from:43771,
-to:43860,
+from:61375,
+to:61464,
 iols:0,
 i360qs:false,
 sdu:3,
@@ -146478,10 +146478,10 @@ vbwr:[-1,-1,2,2],
 vb:[-1,-1,2,2]
 },
 Slide17270:{
-lb:'Lesson 2 - Generating Changes on a Staging Site',
+lb:'Lesson 2 - Generating changes on a Staging Site',
 id:17270,
-from:26347,
-to:26436,
+from:61465,
+to:61554,
 iols:0,
 i360qs:false,
 sdu:3,
@@ -147695,10 +147695,10 @@ vbwr:[-1,-1,2,2],
 vb:[-1,-1,2,2]
 },
 Slide28727:{
-lb:'Lesson 2 - Generating Changes on a Staging Site_ cint',
+lb:'Lesson 2 - Generating changes on a Staging Site_ cint',
 id:28727,
-from:26437,
-to:26526,
+from:61555,
+to:61644,
 iols:0,
 i360qs:false,
 sdu:3,
@@ -151572,10 +151572,10 @@ vbwr:[-1,-1,2,2],
 vb:[-1,-1,2,2]
 },
 Slide17962:{
-lb:'Lesson 3 - Learning Objectives',
+lb:'Lesson 3 - Learning objectives',
 id:17962,
-from:26617,
-to:26706,
+from:61645,
+to:61734,
 iols:0,
 i360qs:false,
 sdu:3,
@@ -165673,10 +165673,10 @@ vbwr:[-2,-2,-1,-1],
 vb:[-2,-2,-1,-1]
 },
 Slide18354:{
-lb:'Lesson 3 - Antora Page Elements',
+lb:'Lesson 3 - Antora page elements',
 id:18354,
-from:43861,
-to:43950,
+from:61735,
+to:61824,
 iols:0,
 i360qs:false,
 sdu:3,
@@ -165762,8 +165762,8 @@ visible:'1'
 si19428:{
 name:'Image_4',
 type:1268,
-from:26797,
-to:26886,
+from:44671,
+to:44760,
 rp:0,
 rpa:0,
 mdi:'si19428c',
@@ -165930,8 +165930,8 @@ vb:[-1,-1,1,1]
 si19436:{
 name:'Image_Group_4',
 type:1268,
-from:26797,
-to:26886,
+from:44671,
+to:44760,
 rp:0,
 rpa:0,
 mdi:'si19436c',
@@ -166101,10 +166101,10 @@ vbwr:[-1,-1,1,1],
 vb:[-1,-1,1,1]
 },
 si19444:{
-name:'antorafiles1_1',
+name:'Antora1_1',
 type:15,
-from:26797,
-to:26886,
+from:44671,
+to:44760,
 rp:0,
 rpa:0,
 mdi:'si19444c',
@@ -166153,10 +166153,10 @@ o:1
 o:100,
 tiletype:1,
 imageFocus:0,
-irw:362,
-irh:456,
-w:362,
-h:456,
+irw:426,
+irh:546,
+w:426,
+h:546,
 x:0,
 y:0
 }
@@ -166180,7 +166180,7 @@ siq:false,
 isDD:false
 },
 si19444c:{
-b:[0,0,362,456],
+b:[0,0,426,546],
 fh:false,
 fw:false,
 uid:19444,
@@ -166267,7 +166267,7 @@ ipiv:1
 }
 ,
 sr:cp.fd,
-ip:'dr/019532.jpg',
+ip:'dr/034758.png',
 dn:'si19444',
 visible:1,
 effectiveVi:1,
@@ -166280,14 +166280,14 @@ ss:0,
 sa:1,
 se:false,
 o:100,
-vbwr:[-1,-1,363,457],
-vb:[-1,-1,363,457]
+vbwr:[-1,-1,427,547],
+vb:[-1,-1,427,547]
 },
 si19456:{
 name:'Image_Group_Text_4',
 type:1268,
-from:26797,
-to:26886,
+from:44671,
+to:44760,
 rp:0,
 rpa:0,
 mdi:'si19456c',
@@ -166458,8 +166458,8 @@ vb:[-1,-1,1,1]
 si19464:{
 name:'Text_306',
 type:1250,
-from:26797,
-to:26886,
+from:44671,
+to:44760,
 rp:0,
 rpa:0,
 mdi:'si19464c',
@@ -166478,7 +166478,7 @@ isOverridden:false
 }
 ]
 ,
-widgetProps:'{"shouldRender":true,"designOptionStyles":{"all":{"paddingLeft":"18px","paddingTop":"12px","gridArea":"1 / 1 / span 1 / span 2"},"tablet":{},"mobile":{"paddingLeft":"12px","paddingRight":"12px"}},"padding":{"isDTMLinked":true,"mobile":{"left":0,"right":0,"top":31,"bottom":0},"tablet":{"left":0,"right":0,"top":56,"bottom":0},"left":0,"right":0,"top":100,"bottom":0}}',
+widgetProps:'{"shouldRender":true,"designOptionStyles":{"all":{"paddingLeft":"18px","paddingTop":"12px","gridArea":"1 / 1 / span 1 / span 2"},"tablet":{},"mobile":{"paddingLeft":"12px","paddingRight":"12px"}},"padding":{"isDTMLinked":true,"mobile":{"left":0,"right":0,"top":22,"bottom":0},"tablet":{"left":0,"right":0,"top":39,"bottom":0},"left":0,"right":0,"top":70,"bottom":0}}',
 parentGroup:'si19456',
 retainState:false,
 immo:false,
@@ -166489,7 +166489,7 @@ efph:{
 eflh:[],
 iflbx:false,
 ipflbx:true,
-text:'{"blocks":[{"key":"emr9q","text":"The Antora docs structure/ docs version branches","type":"unstyled","depth":0,"inlineStyleRanges":[{"offset":0,"length":48,"style":"fontFamily:Arial"},{"offset":0,"length":48,"style":"overridden:false"},{"offset":0,"length":48,"style":"backgroundColor:unset"},{"offset":0,"length":48,"style":"WebkitTextStrokeWidth:1px"},{"offset":0,"length":48,"style":"hlnkt:wp"},{"offset":0,"length":48,"style":"fontStyle:normal"},{"offset":0,"length":48,"style":"mobile-fontSize:24"},{"offset":0,"length":48,"style":"defaultTextStrokeWidth:1px"},{"offset":0,"length":48,"style":"WebkitTextStrokeColor:#F1EEE6"},{"offset":0,"length":48,"style":"textOutlineEnable:false"},{"offset":0,"length":48,"style":"opacity:1"},{"offset":0,"length":48,"style":"defaultTextStrokeColor:#F1EEE6"},{"offset":0,"length":48,"style":"hlnke:true"},{"offset":0,"length":48,"style":"defaultTextShadow:none"},{"offset":0,"length":48,"style":"textShadow:none"},{"offset":0,"length":48,"style":"tablet-fontSize:28"},{"offset":0,"length":48,"style":"textShadowX:0px"},{"offset":0,"length":48,"style":"fontStretch:normal"},{"offset":0,"length":48,"style":"fontType:regular"},{"offset":0,"length":48,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":48,"style":"textShadowY:4px"},{"offset":0,"length":48,"style":"textShadowColor:#F1EEE61F"},{"offset":0,"length":48,"style":"letterSpacing:0%"},{"offset":0,"length":48,"style":"textHighlightEnable:false"},{"offset":0,"length":48,"style":"textTransform:none"},{"offset":0,"length":48,"style":"color:#020C1C"},{"offset":0,"length":48,"style":"textShadowOpacity:none"},{"offset":0,"length":48,"style":"lineHeight:120%"},{"offset":0,"length":48,"style":"textDecoration:none"},{"offset":0,"length":48,"style":"borderBottomStyle:none"},{"offset":0,"length":48,"style":"textShadowEnable:false"},{"offset":0,"length":48,"style":"hlnk:"},{"offset":0,"length":48,"style":"fontWeight:normal"},{"offset":0,"length":48,"style":"textShadowBlur:8px"},{"offset":0,"length":48,"style":"desktop-fontSize:36"}],"entityRanges":[],"data":{"listDepth":"0","listColor":"#666666","verticalAlignMarginBottom":"0px","listIndent":"100%","overridden":"false","marginLeft":"0px","verticalAlignMarginTop":"auto","listType":"S_Bullets08","textAlign":"left","marginBottom":"0%","presetId":"text-heading-3","listSize":"100%"}}],"entityMap":{}}',
+text:'{"blocks":[{"key":"emr9q","text":"The Antora docs structure/ docs version branches","type":"unstyled","depth":0,"inlineStyleRanges":[{"offset":0,"length":48,"style":"defaultTextStrokeColor:#F1EEE6"},{"offset":0,"length":48,"style":"hlnke:true"},{"offset":0,"length":48,"style":"defaultTextShadow:none"},{"offset":0,"length":48,"style":"textShadow:none"},{"offset":0,"length":48,"style":"tablet-fontSize:28"},{"offset":0,"length":48,"style":"textShadowX:0px"},{"offset":0,"length":48,"style":"fontStretch:normal"},{"offset":0,"length":48,"style":"fontType:regular"},{"offset":0,"length":48,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":48,"style":"textShadowY:4px"},{"offset":0,"length":48,"style":"textShadowColor:#F1EEE61F"},{"offset":0,"length":48,"style":"letterSpacing:0%"},{"offset":0,"length":48,"style":"textHighlightEnable:false"},{"offset":0,"length":48,"style":"textTransform:none"},{"offset":0,"length":48,"style":"color:#020C1C"},{"offset":0,"length":48,"style":"textShadowOpacity:none"},{"offset":0,"length":48,"style":"lineHeight:120%"},{"offset":0,"length":48,"style":"textDecoration:none"},{"offset":0,"length":48,"style":"borderBottomStyle:none"},{"offset":0,"length":48,"style":"textShadowEnable:false"},{"offset":0,"length":48,"style":"hlnk:"},{"offset":0,"length":48,"style":"fontWeight:normal"},{"offset":0,"length":48,"style":"textShadowBlur:8px"},{"offset":0,"length":48,"style":"desktop-fontSize:36"},{"offset":0,"length":48,"style":"fontFamily:Arial"},{"offset":0,"length":48,"style":"overridden:false"},{"offset":0,"length":48,"style":"backgroundColor:unset"},{"offset":0,"length":48,"style":"WebkitTextStrokeWidth:1px"},{"offset":0,"length":48,"style":"hlnkt:wp"},{"offset":0,"length":48,"style":"fontStyle:normal"},{"offset":0,"length":48,"style":"mobile-fontSize:24"},{"offset":0,"length":48,"style":"defaultTextStrokeWidth:1px"},{"offset":0,"length":48,"style":"WebkitTextStrokeColor:#F1EEE6"},{"offset":0,"length":48,"style":"textOutlineEnable:false"},{"offset":0,"length":48,"style":"opacity:1"}],"entityRanges":[],"data":{"listDepth":"0","listColor":"#666666","verticalAlignMarginBottom":"0px","listIndent":"100%","overridden":"false","marginLeft":"0px","verticalAlignMarginTop":"auto","listType":"S_Bullets08","textAlign":"left","marginBottom":"0%","presetId":"text-heading-3","listSize":"100%"}}],"entityMap":{}}',
 autoGrow:false,
 tbqt:0,
 trin:0,
@@ -166611,8 +166611,8 @@ vb:[-1,-1,2,2]
 si19474:{
 name:'Text_307',
 type:1250,
-from:26797,
-to:26886,
+from:44671,
+to:44760,
 rp:0,
 rpa:0,
 mdi:'si19474c',
@@ -166627,7 +166627,7 @@ slideItemThemeCounter:4,
 presetData:[{
 presetId:'',
 presetType:1,
-isOverridden:false
+isOverridden:true
 }
 ]
 ,
@@ -166642,7 +166642,7 @@ efph:{
 eflh:[],
 iflbx:false,
 ipflbx:true,
-text:'{"blocks":[{"key":"2p79m","text":"    Repository and content source root","type":"ordered-list-item","depth":0,"inlineStyleRanges":[{"offset":0,"length":38,"style":"hlnkt:wp"},{"offset":0,"length":38,"style":"textOutlineEnable:false"},{"offset":0,"length":38,"style":"opacity:1"},{"offset":0,"length":38,"style":"hlnke:true"},{"offset":0,"length":38,"style":"backgroundColor:unset"},{"offset":0,"length":38,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":38,"style":"textHighlightEnable:false"},{"offset":0,"length":38,"style":"textShadowEnable:false"},{"offset":0,"length":38,"style":"overridden:false"},{"offset":0,"length":38,"style":"hlnk:"}],"entityRanges":[],"data":{"listType":"counter(ol0) \'.\'","listColor":"#666666","listIndent":"100%","listSize":"100%","listDepth":"0","overridden":"false","presetId":"text-body-1"}},{"key":"c12rb","text":"    Antora.yml: required component version descriptor file","type":"ordered-list-item","depth":0,"inlineStyleRanges":[{"offset":0,"length":58,"style":"hlnk:"},{"offset":0,"length":58,"style":"hlnkt:wp"},{"offset":0,"length":58,"style":"textOutlineEnable:false"},{"offset":0,"length":58,"style":"opacity:1"},{"offset":0,"length":58,"style":"hlnke:true"},{"offset":0,"length":58,"style":"backgroundColor:unset"},{"offset":0,"length":58,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":58,"style":"textHighlightEnable:false"},{"offset":0,"length":58,"style":"textShadowEnable:false"},{"offset":0,"length":58,"style":"overridden:false"}],"entityRanges":[],"data":{"listType":"counter(ol0) \'.\'","listColor":"#666666","listIndent":"100%","listSize":"100%","listDepth":"0","overridden":"false","presetId":"text-body-1"}},{"key":"74sqt","text":"    Modules: required directory","type":"ordered-list-item","depth":0,"inlineStyleRanges":[{"offset":0,"length":31,"style":"hlnk:"},{"offset":0,"length":31,"style":"hlnkt:wp"},{"offset":0,"length":31,"style":"textOutlineEnable:false"},{"offset":0,"length":31,"style":"opacity:1"},{"offset":0,"length":31,"style":"hlnke:true"},{"offset":0,"length":31,"style":"backgroundColor:unset"},{"offset":0,"length":31,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":31,"style":"textHighlightEnable:false"},{"offset":0,"length":31,"style":"textShadowEnable:false"},{"offset":0,"length":31,"style":"overridden:false"}],"entityRanges":[],"data":{"listType":"counter(ol0) \'.\'","listColor":"#666666","listIndent":"100%","listSize":"100%","listDepth":"0","overridden":"false","presetId":"text-body-1"}},{"key":"ehrfk","text":"    ROOT: required reserved directory (case sensitive)","type":"ordered-list-item","depth":0,"inlineStyleRanges":[{"offset":0,"length":54,"style":"opacity:1"},{"offset":0,"length":54,"style":"hlnke:true"},{"offset":0,"length":54,"style":"backgroundColor:unset"},{"offset":0,"length":54,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":54,"style":"textHighlightEnable:false"},{"offset":0,"length":54,"style":"textShadowEnable:false"},{"offset":0,"length":54,"style":"overridden:false"},{"offset":0,"length":54,"style":"hlnk:"},{"offset":0,"length":54,"style":"hlnkt:wp"},{"offset":0,"length":54,"style":"textOutlineEnable:false"}],"entityRanges":[],"data":{"listType":"counter(ol0) \'.\'","listColor":"#666666","listIndent":"100%","listSize":"100%","listDepth":"0","overridden":"false","presetId":"text-body-1"}},{"key":"7fmov","text":"","type":"unstyled","depth":0,"inlineStyleRanges":[],"entityRanges":[],"data":{"listType":"S_Bullets08","listColor":"#666666","listIndent":"100%","listSize":"100%","listDepth":"0","overridden":"false","presetId":"text-body-1"}},{"key":"1e5ut","text":"Numbers 5-12: optional directories, but used as so by OP-TED (especially nav.adoc)","type":"unstyled","depth":0,"inlineStyleRanges":[{"offset":0,"length":82,"style":"hlnk:"},{"offset":0,"length":82,"style":"hlnkt:wp"},{"offset":0,"length":82,"style":"textOutlineEnable:false"},{"offset":0,"length":82,"style":"opacity:1"},{"offset":0,"length":82,"style":"hlnke:true"},{"offset":0,"length":82,"style":"backgroundColor:unset"},{"offset":0,"length":82,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":82,"style":"textHighlightEnable:false"},{"offset":0,"length":82,"style":"textShadowEnable:false"},{"offset":0,"length":82,"style":"overridden:false"}],"entityRanges":[],"data":{"listType":"S_Bullets08","listColor":"#666666","listIndent":"100%","listSize":"100%","listDepth":"0","overridden":"false","presetId":"text-body-1"}},{"key":"bm231","text":"","type":"unstyled","depth":0,"inlineStyleRanges":[],"entityRanges":[],"data":{"listType":"S_Bullets08","listColor":"#666666","listIndent":"100%","listSize":"100%","listDepth":"0","overridden":"false","presetId":"text-body-1"}},{"key":"5hlfd","text":"13. Not processed by Antora","type":"unstyled","depth":0,"inlineStyleRanges":[{"offset":0,"length":27,"style":"hlnk:"},{"offset":0,"length":27,"style":"hlnkt:wp"},{"offset":0,"length":27,"style":"textOutlineEnable:false"},{"offset":0,"length":27,"style":"opacity:1"},{"offset":0,"length":27,"style":"hlnke:true"},{"offset":0,"length":27,"style":"backgroundColor:unset"},{"offset":0,"length":27,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":27,"style":"textHighlightEnable:false"},{"offset":0,"length":27,"style":"textShadowEnable:false"},{"offset":0,"length":27,"style":"overridden:false"}],"entityRanges":[],"data":{"listType":"S_Bullets08","listColor":"#666666","listIndent":"100%","listSize":"100%","listDepth":"0","overridden":"false","presetId":"text-body-1"}}],"entityMap":{}}',
+text:'{"blocks":[{"key":"2p79m","text":"    Repository and content source root","type":"ordered-list-item","depth":0,"inlineStyleRanges":[{"offset":0,"length":38,"style":"hlnk:"},{"offset":0,"length":38,"style":"hlnkt:wp"},{"offset":0,"length":38,"style":"textOutlineEnable:false"},{"offset":0,"length":38,"style":"opacity:1"},{"offset":0,"length":38,"style":"hlnke:true"},{"offset":0,"length":38,"style":"backgroundColor:unset"},{"offset":0,"length":38,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":38,"style":"textHighlightEnable:false"},{"offset":0,"length":38,"style":"textShadowEnable:false"},{"offset":0,"length":38,"style":"overridden:false"}],"entityRanges":[],"data":{"listType":"counter(ol0) \'.\'","listColor":"#666666","listIndent":"100%","listSize":"100%","listDepth":"0","overridden":"false","presetId":"text-body-1"}},{"key":"c12rb","text":"    Antora.yml: required component version descriptor file","type":"ordered-list-item","depth":0,"inlineStyleRanges":[{"offset":0,"length":58,"style":"hlnk:"},{"offset":0,"length":58,"style":"hlnkt:wp"},{"offset":0,"length":58,"style":"textOutlineEnable:false"},{"offset":0,"length":58,"style":"opacity:1"},{"offset":0,"length":58,"style":"hlnke:true"},{"offset":0,"length":58,"style":"backgroundColor:unset"},{"offset":0,"length":58,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":58,"style":"textHighlightEnable:false"},{"offset":0,"length":58,"style":"textShadowEnable:false"},{"offset":0,"length":58,"style":"overridden:false"}],"entityRanges":[],"data":{"listType":"counter(ol0) \'.\'","listColor":"#666666","listIndent":"100%","listSize":"100%","listDepth":"0","overridden":"false","presetId":"text-body-1"}},{"key":"74sqt","text":"    Modules: required directory","type":"ordered-list-item","depth":0,"inlineStyleRanges":[{"offset":0,"length":31,"style":"hlnkt:wp"},{"offset":0,"length":31,"style":"textOutlineEnable:false"},{"offset":0,"length":31,"style":"opacity:1"},{"offset":0,"length":31,"style":"hlnke:true"},{"offset":0,"length":31,"style":"backgroundColor:unset"},{"offset":0,"length":31,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":31,"style":"textHighlightEnable:false"},{"offset":0,"length":31,"style":"textShadowEnable:false"},{"offset":0,"length":31,"style":"overridden:false"},{"offset":0,"length":31,"style":"hlnk:"}],"entityRanges":[],"data":{"listType":"counter(ol0) \'.\'","listColor":"#666666","listIndent":"100%","listSize":"100%","listDepth":"0","overridden":"false","presetId":"text-body-1"}},{"key":"ehrfk","text":"    ROOT: required reserved directory (case sensitive)","type":"ordered-list-item","depth":0,"inlineStyleRanges":[{"offset":0,"length":54,"style":"hlnk:"},{"offset":0,"length":54,"style":"hlnkt:wp"},{"offset":0,"length":54,"style":"textOutlineEnable:false"},{"offset":0,"length":54,"style":"opacity:1"},{"offset":0,"length":54,"style":"hlnke:true"},{"offset":0,"length":54,"style":"backgroundColor:unset"},{"offset":0,"length":54,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":54,"style":"textHighlightEnable:false"},{"offset":0,"length":54,"style":"textShadowEnable:false"},{"offset":0,"length":54,"style":"overridden:false"}],"entityRanges":[],"data":{"listType":"counter(ol0) \'.\'","listColor":"#666666","listIndent":"100%","listSize":"100%","listDepth":"0","overridden":"false","presetId":"text-body-1"}},{"key":"7fmov","text":"","type":"unstyled","depth":0,"inlineStyleRanges":[],"entityRanges":[],"data":{"listType":"S_Bullets08","listColor":"#666666","listIndent":"100%","listSize":"100%","listDepth":"0","overridden":"false","presetId":"text-body-1"}},{"key":"1e5ut","text":"Numbers 5-12: optional directories, but used as so by OP-TED (especially nav.adoc)","type":"unstyled","depth":0,"inlineStyleRanges":[{"offset":0,"length":82,"style":"hlnk:"},{"offset":0,"length":82,"style":"hlnkt:wp"},{"offset":0,"length":82,"style":"textOutlineEnable:false"},{"offset":0,"length":82,"style":"opacity:1"},{"offset":0,"length":82,"style":"hlnke:true"},{"offset":0,"length":82,"style":"backgroundColor:unset"},{"offset":0,"length":82,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":82,"style":"textHighlightEnable:false"},{"offset":0,"length":82,"style":"textShadowEnable:false"},{"offset":0,"length":82,"style":"overridden:false"}],"entityRanges":[],"data":{"listType":"S_Bullets08","listColor":"#666666","listIndent":"100%","listSize":"100%","listDepth":"0","overridden":"false","presetId":"text-body-1"}},{"key":"bm231","text":"","type":"unstyled","depth":0,"inlineStyleRanges":[],"entityRanges":[],"data":{"listType":"S_Bullets08","listColor":"#666666","listIndent":"100%","listSize":"100%","listDepth":"0","overridden":"false","presetId":"text-body-1"}},{"key":"5hlfd","text":"13. Not processed by Antora","type":"unstyled","depth":0,"inlineStyleRanges":[{"offset":0,"length":27,"style":"opacity:1"},{"offset":0,"length":27,"style":"hlnke:true"},{"offset":0,"length":27,"style":"backgroundColor:unset"},{"offset":0,"length":27,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":27,"style":"textHighlightEnable:false"},{"offset":0,"length":27,"style":"textShadowEnable:false"},{"offset":0,"length":27,"style":"overridden:false"},{"offset":0,"length":27,"style":"hlnk:"},{"offset":0,"length":27,"style":"hlnkt:wp"},{"offset":0,"length":27,"style":"textOutlineEnable:false"}],"entityRanges":[],"data":{"listType":"S_Bullets08","listColor":"#666666","listIndent":"100%","listSize":"100%","listDepth":"0","overridden":"false","presetId":"text-body-1"}},{"key":"6t41q","text":"","type":"unstyled","depth":0,"inlineStyleRanges":[],"entityRanges":[],"data":{"listType":"S_Bullets08","listColor":"#666666","listIndent":"100%","listSize":"100%","listDepth":"0","overridden":"false","presetId":"text-body-1"}},{"key":"eu140","text":"Read through this topic in the Antora documentation","type":"unstyled","depth":0,"inlineStyleRanges":[{"offset":0,"length":51,"style":"borderBottomStyle:none"},{"offset":0,"length":51,"style":"desktop-fontSize:22"},{"offset":0,"length":51,"style":"textShadowEnable:false"},{"offset":0,"length":51,"style":"fontWeight:normal"},{"offset":0,"length":51,"style":"textShadowBlur:8px"},{"offset":0,"length":51,"style":"fontFamily:Arial"},{"offset":0,"length":51,"style":"color:#060606"},{"offset":0,"length":51,"style":"backgroundColor:unset"},{"offset":0,"length":51,"style":"WebkitTextStrokeWidth:1px"},{"offset":0,"length":51,"style":"hlnkt:wp"},{"offset":0,"length":51,"style":"fontStyle:normal"},{"offset":0,"length":51,"style":"tablet-fontSize:20"},{"offset":0,"length":51,"style":"defaultTextStrokeWidth:1px"},{"offset":0,"length":51,"style":"WebkitTextStrokeColor:#F1EEE6"},{"offset":0,"length":51,"style":"textOutlineEnable:false"},{"offset":0,"length":51,"style":"opacity:1"},{"offset":0,"length":51,"style":"defaultTextStrokeColor:#F1EEE6"},{"offset":0,"length":51,"style":"hlnke:true"},{"offset":0,"length":51,"style":"defaultTextShadow:none"},{"offset":0,"length":51,"style":"textShadow:none"},{"offset":0,"length":51,"style":"mobile-fontSize:18"},{"offset":0,"length":51,"style":"textShadowX:0px"},{"offset":0,"length":51,"style":"fontStretch:normal"},{"offset":0,"length":51,"style":"fontType:regular"},{"offset":0,"length":51,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":51,"style":"hlnk:https://docs.antora.org/antora/latest/standard-directories/"},{"offset":0,"length":51,"style":"textShadowY:4px"},{"offset":0,"length":51,"style":"letterSpacing:3%"},{"offset":0,"length":51,"style":"textShadowColor:#F1EEE61F"},{"offset":0,"length":51,"style":"textHighlightEnable:false"},{"offset":0,"length":51,"style":"textTransform:none"},{"offset":0,"length":51,"style":"textShadowOpacity:none"},{"offset":0,"length":51,"style":"overridden:true"},{"offset":0,"length":51,"style":"textDecoration:none"},{"offset":0,"length":51,"style":"lineHeight:130%"}],"entityRanges":[],"data":{"listDepth":"0","listColor":"#666666","verticalAlignMarginBottom":"0px","listIndent":"100%","overridden":"true","marginLeft":"0px","verticalAlignMarginTop":"auto","listType":"S_Bullets08","textAlign":"left","marginBottom":"0%","presetId":"text-body-2","listSize":"100%"}}],"entityMap":{}}',
 autoGrow:false,
 tbqt:0,
 trin:0,
@@ -166668,7 +166668,7 @@ b:[0,0,1,1],
 fh:false,
 fw:false,
 uid:19474,
-iso:false,
+iso:true,
 css:{
 430:{
 l:'0.000%',
@@ -166762,10 +166762,10 @@ vbwr:[-1,-1,2,2],
 vb:[-1,-1,2,2]
 },
 Slide19406:{
-lb:'Lesson 3 - Antora Raw File Structure',
+lb:'Lesson 3 - Antora raw file structure',
 id:19406,
-from:26797,
-to:26886,
+from:61825,
+to:61914,
 iols:0,
 i360qs:false,
 sdu:3,
@@ -166840,8 +166840,8 @@ visible:'1'
 si19732:{
 name:'Image_5',
 type:1268,
-from:26887,
-to:26976,
+from:44761,
+to:44850,
 rp:0,
 rpa:0,
 mdi:'si19732c',
@@ -166865,7 +166865,7 @@ isOverridden:true
 }
 ]
 ,
-widgetProps:'{"visibilityInfo":{"isDerivedFromChild":true},"imageHeight":520,"autoFit":false,"alignment":{"isDerivedFromChild":true},"canBeCard":false,"imageBehavior":"IG_FIXED_HEIGHT","padding":{"top":5,"bottom":5,"left":0,"right":0},"groupedItemsVisibility":{"isDerivedFromChild":true},"designOptionStyles":{"all":{},"tablet":{},"mobile":{}},"appearanceProperties":{},"imageAspectRatio":0.8828}',
+widgetProps:'{"visibilityInfo":{"isDerivedFromChild":true},"imageHeight":520,"autoFit":false,"alignment":{"isDerivedFromChild":true},"canBeCard":false,"imageBehavior":"IG_FIXED_HEIGHT","padding":{"top":5,"bottom":5,"left":0,"right":0,"isDTMLinked":false},"groupedItemsVisibility":{"isDerivedFromChild":true},"designOptionStyles":{"all":{},"tablet":{},"mobile":{}},"appearanceProperties":{},"imageAspectRatio":0.8828}',
 retainState:false,
 immo:false,
 apsn:'Slide19710',
@@ -166882,7 +166882,7 @@ t:1268
 ]
 ,
 containerType:'image',
-widgetProps:'{"visibilityInfo":{"isDerivedFromChild":true},"imageHeight":520,"autoFit":false,"alignment":{"isDerivedFromChild":true},"canBeCard":false,"imageBehavior":"IG_FIXED_HEIGHT","padding":{"top":5,"bottom":5,"left":0,"right":0},"groupedItemsVisibility":{"isDerivedFromChild":true},"designOptionStyles":{"all":{},"tablet":{},"mobile":{}},"appearanceProperties":{},"imageAspectRatio":0.8828}',
+widgetProps:'{"visibilityInfo":{"isDerivedFromChild":true},"imageHeight":520,"autoFit":false,"alignment":{"isDerivedFromChild":true},"canBeCard":false,"imageBehavior":"IG_FIXED_HEIGHT","padding":{"top":5,"bottom":5,"left":0,"right":0,"isDTMLinked":false},"groupedItemsVisibility":{"isDerivedFromChild":true},"designOptionStyles":{"all":{},"tablet":{},"mobile":{}},"appearanceProperties":{},"imageAspectRatio":0.8828}',
 option:'INTRODUCTION_SINGLE_IMAGE_OPTION_1',
 padding:{
 left:0,
@@ -167008,8 +167008,8 @@ vb:[-1,-1,1,1]
 si19740:{
 name:'Image_Group_5',
 type:1268,
-from:26887,
-to:26976,
+from:44761,
+to:44850,
 rp:0,
 rpa:0,
 mdi:'si19740c',
@@ -167179,10 +167179,10 @@ vbwr:[-1,-1,1,1],
 vb:[-1,-1,1,1]
 },
 si19748:{
-name:'2ntorafiles1',
+name:'Antora2',
 type:15,
-from:26887,
-to:26976,
+from:44761,
+to:44850,
 rp:0,
 rpa:0,
 mdi:'si19748c',
@@ -167231,10 +167231,10 @@ o:1
 o:100,
 tiletype:1,
 imageFocus:0,
-irw:411,
-irh:303,
-w:411,
-h:303,
+irw:519,
+irh:368,
+w:519,
+h:368,
 x:0,
 y:0
 }
@@ -167258,7 +167258,7 @@ siq:false,
 isDD:false
 },
 si19748c:{
-b:[0,0,411,303],
+b:[0,0,519,368],
 fh:false,
 fw:false,
 uid:19748,
@@ -167345,7 +167345,7 @@ ipiv:1
 }
 ,
 sr:cp.fd,
-ip:'dr/019836.jpg',
+ip:'dr/034760.png',
 dn:'si19748',
 visible:1,
 effectiveVi:1,
@@ -167358,14 +167358,14 @@ ss:0,
 sa:1,
 se:false,
 o:100,
-vbwr:[-1,-1,412,304],
-vb:[-1,-1,412,304]
+vbwr:[-1,-1,520,369],
+vb:[-1,-1,520,369]
 },
 si19760:{
 name:'Image_Group_Text_5',
 type:1268,
-from:26887,
-to:26976,
+from:44761,
+to:44850,
 rp:0,
 rpa:0,
 mdi:'si19760c',
@@ -167536,8 +167536,8 @@ vb:[-1,-1,1,1]
 si19768:{
 name:'Text_308',
 type:1250,
-from:26887,
-to:26976,
+from:44761,
+to:44850,
 rp:0,
 rpa:0,
 mdi:'si19768c',
@@ -167556,7 +167556,7 @@ isOverridden:false
 }
 ]
 ,
-widgetProps:'{"shouldRender":true,"designOptionStyles":{"all":{},"tablet":{},"mobile":{}},"padding":{"isDTMLinked":true,"mobile":{"left":0,"right":0,"top":31,"bottom":0},"tablet":{"left":0,"right":0,"top":56,"bottom":0},"left":0,"right":0,"top":100,"bottom":0}}',
+widgetProps:'{"shouldRender":true,"designOptionStyles":{"all":{},"tablet":{},"mobile":{}},"padding":{"isDTMLinked":true,"mobile":{"left":0,"right":0,"top":22,"bottom":0},"tablet":{"left":0,"right":0,"top":39,"bottom":0},"left":0,"right":0,"top":70,"bottom":0}}',
 parentGroup:'si19760',
 retainState:false,
 immo:false,
@@ -167689,8 +167689,8 @@ vb:[-1,-1,2,2]
 si19778:{
 name:'Text_309',
 type:1250,
-from:26887,
-to:26976,
+from:44761,
+to:44850,
 rp:0,
 rpa:0,
 mdi:'si19778c',
@@ -167720,7 +167720,7 @@ efph:{
 eflh:[],
 iflbx:false,
 ipflbx:true,
-text:'{"blocks":[{"key":"2p79m","text":" ","type":"unstyled","depth":0,"inlineStyleRanges":[{"offset":0,"length":1,"style":"defaultTextShadow:none"},{"offset":0,"length":1,"style":"textShadow:none"},{"offset":0,"length":1,"style":"mobile-fontSize:18"},{"offset":0,"length":1,"style":"textShadowX:0px"},{"offset":0,"length":1,"style":"fontStretch:normal"},{"offset":0,"length":1,"style":"fontType:regular"},{"offset":0,"length":1,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":1,"style":"textShadowY:4px"},{"offset":0,"length":1,"style":"letterSpacing:3%"},{"offset":0,"length":1,"style":"textShadowColor:#F1EEE61F"},{"offset":0,"length":1,"style":"textHighlightEnable:false"},{"offset":0,"length":1,"style":"textTransform:none"},{"offset":0,"length":1,"style":"textShadowOpacity:none"},{"offset":0,"length":1,"style":"overridden:true"},{"offset":0,"length":1,"style":"textDecoration:none"},{"offset":0,"length":1,"style":"lineHeight:130%"},{"offset":0,"length":1,"style":"borderBottomStyle:none"},{"offset":0,"length":1,"style":"desktop-fontSize:22"},{"offset":0,"length":1,"style":"textShadowEnable:false"},{"offset":0,"length":1,"style":"hlnk:"},{"offset":0,"length":1,"style":"fontWeight:normal"},{"offset":0,"length":1,"style":"textShadowBlur:8px"},{"offset":0,"length":1,"style":"fontFamily:Arial"},{"offset":0,"length":1,"style":"color:#060606"},{"offset":0,"length":1,"style":"backgroundColor:unset"},{"offset":0,"length":1,"style":"WebkitTextStrokeWidth:1px"},{"offset":0,"length":1,"style":"hlnkt:wp"},{"offset":0,"length":1,"style":"fontStyle:normal"},{"offset":0,"length":1,"style":"tablet-fontSize:20"},{"offset":0,"length":1,"style":"defaultTextStrokeWidth:1px"},{"offset":0,"length":1,"style":"WebkitTextStrokeColor:#F1EEE6"},{"offset":0,"length":1,"style":"textOutlineEnable:false"},{"offset":0,"length":1,"style":"opacity:1"},{"offset":0,"length":1,"style":"defaultTextStrokeColor:#F1EEE6"},{"offset":0,"length":1,"style":"hlnke:true"}],"entityRanges":[],"data":{"listDepth":"0","listColor":"#666666","verticalAlignMarginBottom":"0px","listIndent":"100%","overridden":"true","marginLeft":"0px","verticalAlignMarginTop":"auto","listType":"S_Bullets08","textAlign":"left","marginBottom":"0%","presetId":"text-body-2","listSize":"100%"}},{"key":"4d8f6","text":"6. The index.adoc file: in the ROOT /pages directory becomes the sites default home page.","type":"unstyled","depth":0,"inlineStyleRanges":[{"offset":0,"length":89,"style":"opacity:1"},{"offset":0,"length":89,"style":"defaultTextStrokeColor:#F1EEE6"},{"offset":0,"length":89,"style":"hlnke:true"},{"offset":0,"length":89,"style":"defaultTextShadow:none"},{"offset":0,"length":89,"style":"textShadow:none"},{"offset":0,"length":89,"style":"mobile-fontSize:18"},{"offset":0,"length":89,"style":"textShadowX:0px"},{"offset":0,"length":89,"style":"fontStretch:normal"},{"offset":0,"length":89,"style":"fontType:regular"},{"offset":0,"length":89,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":89,"style":"textShadowY:4px"},{"offset":0,"length":89,"style":"letterSpacing:3%"},{"offset":0,"length":89,"style":"textShadowColor:#F1EEE61F"},{"offset":0,"length":89,"style":"textHighlightEnable:false"},{"offset":0,"length":89,"style":"textTransform:none"},{"offset":0,"length":89,"style":"textShadowOpacity:none"},{"offset":0,"length":89,"style":"overridden:true"},{"offset":0,"length":89,"style":"textDecoration:none"},{"offset":0,"length":89,"style":"lineHeight:130%"},{"offset":0,"length":89,"style":"borderBottomStyle:none"},{"offset":0,"length":89,"style":"desktop-fontSize:22"},{"offset":0,"length":89,"style":"textShadowEnable:false"},{"offset":0,"length":89,"style":"hlnk:"},{"offset":0,"length":89,"style":"fontWeight:normal"},{"offset":0,"length":89,"style":"textShadowBlur:8px"},{"offset":0,"length":89,"style":"fontFamily:Arial"},{"offset":0,"length":89,"style":"color:#060606"},{"offset":0,"length":89,"style":"WebkitTextStrokeWidth:1px"},{"offset":0,"length":89,"style":"backgroundColor:unset"},{"offset":0,"length":89,"style":"fontStyle:normal"},{"offset":0,"length":89,"style":"hlnkt:wp"},{"offset":0,"length":89,"style":"defaultTextStrokeWidth:1px"},{"offset":0,"length":89,"style":"tablet-fontSize:20"},{"offset":0,"length":89,"style":"WebkitTextStrokeColor:#F1EEE6"},{"offset":0,"length":89,"style":"textOutlineEnable:false"}],"entityRanges":[],"data":{"listDepth":"0","listColor":"#666666","verticalAlignMarginBottom":"0px","listIndent":"100%","overridden":"true","marginLeft":"0px","verticalAlignMarginTop":"auto","listType":"S_Bullets08","textAlign":"left","marginBottom":"0%","presetId":"text-body-2","listSize":"100%"}},{"key":"1mkdv","text":"","type":"unstyled","depth":0,"inlineStyleRanges":[],"entityRanges":[],"data":{"listDepth":"0","listColor":"#666666","verticalAlignMarginBottom":"0px","listIndent":"100%","overridden":"true","marginLeft":"0px","verticalAlignMarginTop":"auto","listType":"S_Bullets08","textAlign":"left","marginBottom":"0%","presetId":"text-body-2","listSize":"100%"}},{"key":"ad8o4","text":"8. The nav.adoc file: forms the component’s menu on the left-hand side.","type":"unstyled","depth":0,"inlineStyleRanges":[{"offset":0,"length":71,"style":"tablet-fontSize:20"},{"offset":0,"length":71,"style":"defaultTextStrokeWidth:1px"},{"offset":0,"length":71,"style":"WebkitTextStrokeColor:#F1EEE6"},{"offset":0,"length":71,"style":"textOutlineEnable:false"},{"offset":0,"length":71,"style":"opacity:1"},{"offset":0,"length":71,"style":"defaultTextStrokeColor:#F1EEE6"},{"offset":0,"length":71,"style":"hlnke:true"},{"offset":0,"length":71,"style":"defaultTextShadow:none"},{"offset":0,"length":71,"style":"textShadow:none"},{"offset":0,"length":71,"style":"mobile-fontSize:18"},{"offset":0,"length":71,"style":"textShadowX:0px"},{"offset":0,"length":71,"style":"fontStretch:normal"},{"offset":0,"length":71,"style":"fontType:regular"},{"offset":0,"length":71,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":71,"style":"textShadowY:4px"},{"offset":0,"length":71,"style":"letterSpacing:3%"},{"offset":0,"length":71,"style":"textShadowColor:#F1EEE61F"},{"offset":0,"length":71,"style":"textHighlightEnable:false"},{"offset":0,"length":71,"style":"textTransform:none"},{"offset":0,"length":71,"style":"textShadowOpacity:none"},{"offset":0,"length":71,"style":"overridden:true"},{"offset":0,"length":71,"style":"textDecoration:none"},{"offset":0,"length":71,"style":"lineHeight:130%"},{"offset":0,"length":71,"style":"borderBottomStyle:none"},{"offset":0,"length":71,"style":"desktop-fontSize:22"},{"offset":0,"length":71,"style":"textShadowEnable:false"},{"offset":0,"length":71,"style":"hlnk:"},{"offset":0,"length":71,"style":"fontWeight:normal"},{"offset":0,"length":71,"style":"textShadowBlur:8px"},{"offset":0,"length":71,"style":"fontFamily:Arial"},{"offset":0,"length":71,"style":"color:#060606"},{"offset":0,"length":71,"style":"backgroundColor:unset"},{"offset":0,"length":71,"style":"WebkitTextStrokeWidth:1px"},{"offset":0,"length":71,"style":"hlnkt:wp"},{"offset":0,"length":71,"style":"fontStyle:normal"}],"entityRanges":[],"data":{"listDepth":"0","listColor":"#666666","verticalAlignMarginBottom":"0px","listIndent":"100%","overridden":"true","marginLeft":"0px","verticalAlignMarginTop":"auto","listType":"S_Bullets08","textAlign":"left","marginBottom":"0%","presetId":"text-body-2","listSize":"100%"}},{"key":"f9cjm","text":"","type":"unstyled","depth":0,"inlineStyleRanges":[],"entityRanges":[],"data":{"listDepth":"0","listColor":"#666666","verticalAlignMarginBottom":"0px","listIndent":"100%","overridden":"true","marginLeft":"0px","verticalAlignMarginTop":"auto","listType":"S_Bullets08","textAlign":"left","marginBottom":"0%","presetId":"text-body-2","listSize":"100%"}},{"key":"dp2qd","text":"The home page can be changed by editing the “start_page” value in the antora.yml file,(2.), i.e., by specifying another file to generate instead of index.adoc.","type":"unstyled","depth":0,"inlineStyleRanges":[{"offset":0,"length":159,"style":"color:#060606"},{"offset":0,"length":159,"style":"backgroundColor:unset"},{"offset":0,"length":159,"style":"WebkitTextStrokeWidth:1px"},{"offset":0,"length":159,"style":"hlnkt:wp"},{"offset":0,"length":159,"style":"fontStyle:normal"},{"offset":0,"length":159,"style":"tablet-fontSize:20"},{"offset":0,"length":159,"style":"defaultTextStrokeWidth:1px"},{"offset":0,"length":159,"style":"WebkitTextStrokeColor:#F1EEE6"},{"offset":0,"length":159,"style":"textOutlineEnable:false"},{"offset":0,"length":159,"style":"opacity:1"},{"offset":0,"length":159,"style":"defaultTextStrokeColor:#F1EEE6"},{"offset":0,"length":159,"style":"hlnke:true"},{"offset":0,"length":159,"style":"defaultTextShadow:none"},{"offset":0,"length":159,"style":"textShadow:none"},{"offset":0,"length":159,"style":"mobile-fontSize:18"},{"offset":0,"length":159,"style":"textShadowX:0px"},{"offset":0,"length":159,"style":"fontStretch:normal"},{"offset":0,"length":159,"style":"fontType:regular"},{"offset":0,"length":159,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":159,"style":"textShadowY:4px"},{"offset":0,"length":159,"style":"letterSpacing:3%"},{"offset":0,"length":159,"style":"textShadowColor:#F1EEE61F"},{"offset":0,"length":159,"style":"textHighlightEnable:false"},{"offset":0,"length":159,"style":"textTransform:none"},{"offset":0,"length":159,"style":"textShadowOpacity:none"},{"offset":0,"length":159,"style":"overridden:true"},{"offset":0,"length":159,"style":"textDecoration:none"},{"offset":0,"length":159,"style":"lineHeight:130%"},{"offset":0,"length":159,"style":"borderBottomStyle:none"},{"offset":0,"length":159,"style":"desktop-fontSize:22"},{"offset":0,"length":159,"style":"textShadowEnable:false"},{"offset":0,"length":159,"style":"hlnk:"},{"offset":0,"length":159,"style":"fontWeight:normal"},{"offset":0,"length":159,"style":"textShadowBlur:8px"},{"offset":0,"length":159,"style":"fontFamily:Arial"}],"entityRanges":[],"data":{"listDepth":"0","listColor":"#666666","verticalAlignMarginBottom":"0px","listIndent":"100%","overridden":"true","marginLeft":"0px","verticalAlignMarginTop":"auto","listType":"S_Bullets08","textAlign":"left","marginBottom":"0%","presetId":"text-body-2","listSize":"100%"}},{"key":"44lra","text":"","type":"unstyled","depth":0,"inlineStyleRanges":[],"entityRanges":[],"data":{"listDepth":"0","listColor":"#666666","verticalAlignMarginBottom":"0px","listIndent":"100%","overridden":"true","marginLeft":"0px","verticalAlignMarginTop":"auto","listType":"S_Bullets08","textAlign":"left","marginBottom":"0%","presetId":"text-body-2","listSize":"100%"}},{"key":"1kj7r","text":"Note: If a new page is added to a component, it is only visible if a link to it is added in the nav.adoc, or from another page (like in html).","type":"unstyled","depth":0,"inlineStyleRanges":[{"offset":0,"length":142,"style":"fontWeight:normal"},{"offset":0,"length":142,"style":"textShadowBlur:8px"},{"offset":0,"length":142,"style":"fontFamily:Arial"},{"offset":0,"length":142,"style":"color:#060606"},{"offset":0,"length":142,"style":"backgroundColor:unset"},{"offset":0,"length":142,"style":"WebkitTextStrokeWidth:1px"},{"offset":0,"length":142,"style":"hlnkt:wp"},{"offset":0,"length":142,"style":"fontStyle:normal"},{"offset":0,"length":142,"style":"tablet-fontSize:20"},{"offset":0,"length":142,"style":"defaultTextStrokeWidth:1px"},{"offset":0,"length":142,"style":"WebkitTextStrokeColor:#F1EEE6"},{"offset":0,"length":142,"style":"textOutlineEnable:false"},{"offset":0,"length":142,"style":"opacity:1"},{"offset":0,"length":142,"style":"defaultTextStrokeColor:#F1EEE6"},{"offset":0,"length":142,"style":"hlnke:true"},{"offset":0,"length":142,"style":"defaultTextShadow:none"},{"offset":0,"length":142,"style":"textShadow:none"},{"offset":0,"length":142,"style":"mobile-fontSize:18"},{"offset":0,"length":142,"style":"textShadowX:0px"},{"offset":0,"length":142,"style":"fontStretch:normal"},{"offset":0,"length":142,"style":"fontType:regular"},{"offset":0,"length":142,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":142,"style":"textShadowY:4px"},{"offset":0,"length":142,"style":"letterSpacing:3%"},{"offset":0,"length":142,"style":"textShadowColor:#F1EEE61F"},{"offset":0,"length":142,"style":"textHighlightEnable:false"},{"offset":0,"length":142,"style":"textTransform:none"},{"offset":0,"length":142,"style":"textShadowOpacity:none"},{"offset":0,"length":142,"style":"overridden:true"},{"offset":0,"length":142,"style":"textDecoration:none"},{"offset":0,"length":142,"style":"lineHeight:130%"},{"offset":0,"length":142,"style":"borderBottomStyle:none"},{"offset":0,"length":142,"style":"desktop-fontSize:22"},{"offset":0,"length":142,"style":"textShadowEnable:false"},{"offset":0,"length":142,"style":"hlnk:"}],"entityRanges":[],"data":{"listDepth":"0","listColor":"#666666","verticalAlignMarginBottom":"0px","listIndent":"100%","overridden":"true","marginLeft":"0px","verticalAlignMarginTop":"auto","listType":"S_Bullets08","textAlign":"left","marginBottom":"0%","presetId":"text-body-2","listSize":"100%"}}],"entityMap":{}}',
+text:'{"blocks":[{"key":"2p79m","text":" ","type":"unstyled","depth":0,"inlineStyleRanges":[{"offset":0,"length":1,"style":"textOutlineEnable:false"},{"offset":0,"length":1,"style":"opacity:1"},{"offset":0,"length":1,"style":"defaultTextStrokeColor:#F1EEE6"},{"offset":0,"length":1,"style":"hlnke:true"},{"offset":0,"length":1,"style":"defaultTextShadow:none"},{"offset":0,"length":1,"style":"textShadow:none"},{"offset":0,"length":1,"style":"mobile-fontSize:18"},{"offset":0,"length":1,"style":"textShadowX:0px"},{"offset":0,"length":1,"style":"fontStretch:normal"},{"offset":0,"length":1,"style":"fontType:regular"},{"offset":0,"length":1,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":1,"style":"textShadowY:4px"},{"offset":0,"length":1,"style":"letterSpacing:3%"},{"offset":0,"length":1,"style":"textShadowColor:#F1EEE61F"},{"offset":0,"length":1,"style":"textHighlightEnable:false"},{"offset":0,"length":1,"style":"textTransform:none"},{"offset":0,"length":1,"style":"textShadowOpacity:none"},{"offset":0,"length":1,"style":"overridden:true"},{"offset":0,"length":1,"style":"textDecoration:none"},{"offset":0,"length":1,"style":"lineHeight:130%"},{"offset":0,"length":1,"style":"borderBottomStyle:none"},{"offset":0,"length":1,"style":"desktop-fontSize:22"},{"offset":0,"length":1,"style":"textShadowEnable:false"},{"offset":0,"length":1,"style":"hlnk:"},{"offset":0,"length":1,"style":"fontWeight:normal"},{"offset":0,"length":1,"style":"textShadowBlur:8px"},{"offset":0,"length":1,"style":"fontFamily:Arial"},{"offset":0,"length":1,"style":"color:#060606"},{"offset":0,"length":1,"style":"backgroundColor:unset"},{"offset":0,"length":1,"style":"WebkitTextStrokeWidth:1px"},{"offset":0,"length":1,"style":"hlnkt:wp"},{"offset":0,"length":1,"style":"fontStyle:normal"},{"offset":0,"length":1,"style":"tablet-fontSize:20"},{"offset":0,"length":1,"style":"defaultTextStrokeWidth:1px"},{"offset":0,"length":1,"style":"WebkitTextStrokeColor:#F1EEE6"}],"entityRanges":[],"data":{"listDepth":"0","listColor":"#666666","verticalAlignMarginBottom":"0px","listIndent":"100%","overridden":"true","marginLeft":"0px","verticalAlignMarginTop":"auto","listType":"S_Bullets08","textAlign":"left","marginBottom":"0%","presetId":"text-body-2","listSize":"100%"}},{"key":"4d8f6","text":"6. The index.adoc file: in the ROOT /pages directory becomes the sites default home page.","type":"unstyled","depth":0,"inlineStyleRanges":[{"offset":0,"length":89,"style":"hlnkt:wp"},{"offset":0,"length":89,"style":"fontStyle:normal"},{"offset":0,"length":89,"style":"tablet-fontSize:20"},{"offset":0,"length":89,"style":"defaultTextStrokeWidth:1px"},{"offset":0,"length":89,"style":"WebkitTextStrokeColor:#F1EEE6"},{"offset":0,"length":89,"style":"textOutlineEnable:false"},{"offset":0,"length":89,"style":"opacity:1"},{"offset":0,"length":89,"style":"defaultTextStrokeColor:#F1EEE6"},{"offset":0,"length":89,"style":"hlnke:true"},{"offset":0,"length":89,"style":"defaultTextShadow:none"},{"offset":0,"length":89,"style":"textShadow:none"},{"offset":0,"length":89,"style":"mobile-fontSize:18"},{"offset":0,"length":89,"style":"textShadowX:0px"},{"offset":0,"length":89,"style":"fontStretch:normal"},{"offset":0,"length":89,"style":"fontType:regular"},{"offset":0,"length":89,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":89,"style":"textShadowY:4px"},{"offset":0,"length":89,"style":"letterSpacing:3%"},{"offset":0,"length":89,"style":"textShadowColor:#F1EEE61F"},{"offset":0,"length":89,"style":"textHighlightEnable:false"},{"offset":0,"length":89,"style":"textTransform:none"},{"offset":0,"length":89,"style":"textShadowOpacity:none"},{"offset":0,"length":89,"style":"overridden:true"},{"offset":0,"length":89,"style":"textDecoration:none"},{"offset":0,"length":89,"style":"lineHeight:130%"},{"offset":0,"length":89,"style":"borderBottomStyle:none"},{"offset":0,"length":89,"style":"desktop-fontSize:22"},{"offset":0,"length":89,"style":"textShadowEnable:false"},{"offset":0,"length":89,"style":"hlnk:"},{"offset":0,"length":89,"style":"fontWeight:normal"},{"offset":0,"length":89,"style":"textShadowBlur:8px"},{"offset":0,"length":89,"style":"fontFamily:Arial"},{"offset":0,"length":89,"style":"color:#060606"},{"offset":0,"length":89,"style":"backgroundColor:unset"},{"offset":0,"length":89,"style":"WebkitTextStrokeWidth:1px"}],"entityRanges":[],"data":{"listDepth":"0","listColor":"#666666","verticalAlignMarginBottom":"0px","listIndent":"100%","overridden":"true","marginLeft":"0px","verticalAlignMarginTop":"auto","listType":"S_Bullets08","textAlign":"left","marginBottom":"0%","presetId":"text-body-2","listSize":"100%"}},{"key":"1mkdv","text":"","type":"unstyled","depth":0,"inlineStyleRanges":[],"entityRanges":[],"data":{"listDepth":"0","listColor":"#666666","verticalAlignMarginBottom":"0px","listIndent":"100%","overridden":"true","marginLeft":"0px","verticalAlignMarginTop":"auto","listType":"S_Bullets08","textAlign":"left","marginBottom":"0%","presetId":"text-body-2","listSize":"100%"}},{"key":"ad8o4","text":"8. The nav.adoc file: forms the component’s menu on the left-hand side.","type":"unstyled","depth":0,"inlineStyleRanges":[{"offset":0,"length":71,"style":"fontFamily:Arial"},{"offset":0,"length":71,"style":"color:#060606"},{"offset":0,"length":71,"style":"backgroundColor:unset"},{"offset":0,"length":71,"style":"WebkitTextStrokeWidth:1px"},{"offset":0,"length":71,"style":"hlnkt:wp"},{"offset":0,"length":71,"style":"fontStyle:normal"},{"offset":0,"length":71,"style":"tablet-fontSize:20"},{"offset":0,"length":71,"style":"defaultTextStrokeWidth:1px"},{"offset":0,"length":71,"style":"WebkitTextStrokeColor:#F1EEE6"},{"offset":0,"length":71,"style":"textOutlineEnable:false"},{"offset":0,"length":71,"style":"opacity:1"},{"offset":0,"length":71,"style":"defaultTextStrokeColor:#F1EEE6"},{"offset":0,"length":71,"style":"hlnke:true"},{"offset":0,"length":71,"style":"defaultTextShadow:none"},{"offset":0,"length":71,"style":"textShadow:none"},{"offset":0,"length":71,"style":"mobile-fontSize:18"},{"offset":0,"length":71,"style":"textShadowX:0px"},{"offset":0,"length":71,"style":"fontStretch:normal"},{"offset":0,"length":71,"style":"fontType:regular"},{"offset":0,"length":71,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":71,"style":"textShadowY:4px"},{"offset":0,"length":71,"style":"letterSpacing:3%"},{"offset":0,"length":71,"style":"textShadowColor:#F1EEE61F"},{"offset":0,"length":71,"style":"textHighlightEnable:false"},{"offset":0,"length":71,"style":"textTransform:none"},{"offset":0,"length":71,"style":"textShadowOpacity:none"},{"offset":0,"length":71,"style":"overridden:true"},{"offset":0,"length":71,"style":"textDecoration:none"},{"offset":0,"length":71,"style":"lineHeight:130%"},{"offset":0,"length":71,"style":"borderBottomStyle:none"},{"offset":0,"length":71,"style":"desktop-fontSize:22"},{"offset":0,"length":71,"style":"textShadowEnable:false"},{"offset":0,"length":71,"style":"hlnk:"},{"offset":0,"length":71,"style":"fontWeight:normal"},{"offset":0,"length":71,"style":"textShadowBlur:8px"}],"entityRanges":[],"data":{"listDepth":"0","listColor":"#666666","verticalAlignMarginBottom":"0px","listIndent":"100%","overridden":"true","marginLeft":"0px","verticalAlignMarginTop":"auto","listType":"S_Bullets08","textAlign":"left","marginBottom":"0%","presetId":"text-body-2","listSize":"100%"}},{"key":"f9cjm","text":"","type":"unstyled","depth":0,"inlineStyleRanges":[],"entityRanges":[],"data":{"listDepth":"0","listColor":"#666666","verticalAlignMarginBottom":"0px","listIndent":"100%","overridden":"true","marginLeft":"0px","verticalAlignMarginTop":"auto","listType":"S_Bullets08","textAlign":"left","marginBottom":"0%","presetId":"text-body-2","listSize":"100%"}},{"key":"dp2qd","text":"The home page can be changed by editing the “start_page” value in the antora.yml file,(2.), i.e., by specifying another file to generate instead of index.adoc.","type":"unstyled","depth":0,"inlineStyleRanges":[{"offset":0,"length":159,"style":"hlnk:"},{"offset":0,"length":159,"style":"fontWeight:normal"},{"offset":0,"length":159,"style":"textShadowBlur:8px"},{"offset":0,"length":159,"style":"fontFamily:Arial"},{"offset":0,"length":159,"style":"color:#060606"},{"offset":0,"length":159,"style":"backgroundColor:unset"},{"offset":0,"length":159,"style":"WebkitTextStrokeWidth:1px"},{"offset":0,"length":159,"style":"hlnkt:wp"},{"offset":0,"length":159,"style":"fontStyle:normal"},{"offset":0,"length":159,"style":"tablet-fontSize:20"},{"offset":0,"length":159,"style":"defaultTextStrokeWidth:1px"},{"offset":0,"length":159,"style":"WebkitTextStrokeColor:#F1EEE6"},{"offset":0,"length":159,"style":"textOutlineEnable:false"},{"offset":0,"length":159,"style":"opacity:1"},{"offset":0,"length":159,"style":"defaultTextStrokeColor:#F1EEE6"},{"offset":0,"length":159,"style":"hlnke:true"},{"offset":0,"length":159,"style":"defaultTextShadow:none"},{"offset":0,"length":159,"style":"textShadow:none"},{"offset":0,"length":159,"style":"mobile-fontSize:18"},{"offset":0,"length":159,"style":"textShadowX:0px"},{"offset":0,"length":159,"style":"fontStretch:normal"},{"offset":0,"length":159,"style":"fontType:regular"},{"offset":0,"length":159,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":159,"style":"textShadowY:4px"},{"offset":0,"length":159,"style":"letterSpacing:3%"},{"offset":0,"length":159,"style":"textShadowColor:#F1EEE61F"},{"offset":0,"length":159,"style":"textHighlightEnable:false"},{"offset":0,"length":159,"style":"textTransform:none"},{"offset":0,"length":159,"style":"textShadowOpacity:none"},{"offset":0,"length":159,"style":"overridden:true"},{"offset":0,"length":159,"style":"textDecoration:none"},{"offset":0,"length":159,"style":"lineHeight:130%"},{"offset":0,"length":159,"style":"borderBottomStyle:none"},{"offset":0,"length":159,"style":"desktop-fontSize:22"},{"offset":0,"length":159,"style":"textShadowEnable:false"}],"entityRanges":[],"data":{"listDepth":"0","listColor":"#666666","verticalAlignMarginBottom":"0px","listIndent":"100%","overridden":"true","marginLeft":"0px","verticalAlignMarginTop":"auto","listType":"S_Bullets08","textAlign":"left","marginBottom":"0%","presetId":"text-body-2","listSize":"100%"}},{"key":"44lra","text":"","type":"unstyled","depth":0,"inlineStyleRanges":[],"entityRanges":[],"data":{"listDepth":"0","listColor":"#666666","verticalAlignMarginBottom":"0px","listIndent":"100%","overridden":"true","marginLeft":"0px","verticalAlignMarginTop":"auto","listType":"S_Bullets08","textAlign":"left","marginBottom":"0%","presetId":"text-body-2","listSize":"100%"}},{"key":"1kj7r","text":"Note: If a new page is added to a component, it is only visible if a link to it is added in the nav.adoc, or from another page (like in html).","type":"unstyled","depth":0,"inlineStyleRanges":[{"offset":0,"length":142,"style":"borderBottomStyle:none"},{"offset":0,"length":142,"style":"desktop-fontSize:22"},{"offset":0,"length":142,"style":"textShadowEnable:false"},{"offset":0,"length":142,"style":"hlnk:"},{"offset":0,"length":142,"style":"fontWeight:normal"},{"offset":0,"length":142,"style":"textShadowBlur:8px"},{"offset":0,"length":142,"style":"fontFamily:Arial"},{"offset":0,"length":142,"style":"color:#060606"},{"offset":0,"length":142,"style":"backgroundColor:unset"},{"offset":0,"length":142,"style":"WebkitTextStrokeWidth:1px"},{"offset":0,"length":142,"style":"hlnkt:wp"},{"offset":0,"length":142,"style":"fontStyle:normal"},{"offset":0,"length":142,"style":"tablet-fontSize:20"},{"offset":0,"length":142,"style":"defaultTextStrokeWidth:1px"},{"offset":0,"length":142,"style":"WebkitTextStrokeColor:#F1EEE6"},{"offset":0,"length":142,"style":"textOutlineEnable:false"},{"offset":0,"length":142,"style":"opacity:1"},{"offset":0,"length":142,"style":"defaultTextStrokeColor:#F1EEE6"},{"offset":0,"length":142,"style":"hlnke:true"},{"offset":0,"length":142,"style":"defaultTextShadow:none"},{"offset":0,"length":142,"style":"textShadow:none"},{"offset":0,"length":142,"style":"mobile-fontSize:18"},{"offset":0,"length":142,"style":"textShadowX:0px"},{"offset":0,"length":142,"style":"fontStretch:normal"},{"offset":0,"length":142,"style":"fontType:regular"},{"offset":0,"length":142,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":142,"style":"textShadowY:4px"},{"offset":0,"length":142,"style":"letterSpacing:3%"},{"offset":0,"length":142,"style":"textShadowColor:#F1EEE61F"},{"offset":0,"length":142,"style":"textHighlightEnable:false"},{"offset":0,"length":142,"style":"textTransform:none"},{"offset":0,"length":142,"style":"textShadowOpacity:none"},{"offset":0,"length":142,"style":"overridden:true"},{"offset":0,"length":142,"style":"textDecoration:none"},{"offset":0,"length":142,"style":"lineHeight:130%"}],"entityRanges":[],"data":{"listDepth":"0","listColor":"#666666","verticalAlignMarginBottom":"0px","listIndent":"100%","overridden":"true","marginLeft":"0px","verticalAlignMarginTop":"auto","listType":"S_Bullets08","textAlign":"left","marginBottom":"0%","presetId":"text-body-2","listSize":"100%"}},{"key":"5hpli","text":"","type":"unstyled","depth":0,"inlineStyleRanges":[],"entityRanges":[],"data":{"listDepth":"0","listColor":"#666666","verticalAlignMarginBottom":"0px","listIndent":"100%","overridden":"true","marginLeft":"0px","verticalAlignMarginTop":"auto","listType":"S_Bullets08","textAlign":"left","marginBottom":"0%","presetId":"text-body-2","listSize":"100%"}},{"key":"en80m","text":"Read through this topic in the Antora documentation","type":"unstyled","depth":0,"inlineStyleRanges":[{"offset":0,"length":51,"style":"overridden:true"},{"offset":0,"length":51,"style":"textDecoration:none"},{"offset":0,"length":51,"style":"lineHeight:130%"},{"offset":0,"length":51,"style":"borderBottomStyle:none"},{"offset":0,"length":51,"style":"desktop-fontSize:22"},{"offset":0,"length":51,"style":"textShadowEnable:false"},{"offset":0,"length":51,"style":"fontWeight:normal"},{"offset":0,"length":51,"style":"textShadowBlur:8px"},{"offset":0,"length":51,"style":"fontFamily:Arial"},{"offset":0,"length":51,"style":"color:#060606"},{"offset":0,"length":51,"style":"WebkitTextStrokeWidth:1px"},{"offset":0,"length":51,"style":"backgroundColor:unset"},{"offset":0,"length":51,"style":"fontStyle:normal"},{"offset":0,"length":51,"style":"hlnkt:wp"},{"offset":0,"length":51,"style":"defaultTextStrokeWidth:1px"},{"offset":0,"length":51,"style":"tablet-fontSize:20"},{"offset":0,"length":51,"style":"hlnk:https://docs.antora.org/antora/latest/root-module-directory/"},{"offset":0,"length":51,"style":"WebkitTextStrokeColor:#F1EEE6"},{"offset":0,"length":51,"style":"textOutlineEnable:false"},{"offset":0,"length":51,"style":"opacity:1"},{"offset":0,"length":51,"style":"defaultTextStrokeColor:#F1EEE6"},{"offset":0,"length":51,"style":"hlnke:true"},{"offset":0,"length":51,"style":"defaultTextShadow:none"},{"offset":0,"length":51,"style":"textShadow:none"},{"offset":0,"length":51,"style":"mobile-fontSize:18"},{"offset":0,"length":51,"style":"textShadowX:0px"},{"offset":0,"length":51,"style":"fontStretch:normal"},{"offset":0,"length":51,"style":"fontType:regular"},{"offset":0,"length":51,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":51,"style":"textShadowY:4px"},{"offset":0,"length":51,"style":"letterSpacing:3%"},{"offset":0,"length":51,"style":"textShadowColor:#F1EEE61F"},{"offset":0,"length":51,"style":"textHighlightEnable:false"},{"offset":0,"length":51,"style":"textTransform:none"},{"offset":0,"length":51,"style":"textShadowOpacity:none"}],"entityRanges":[],"data":{"listDepth":"0","listColor":"#666666","verticalAlignMarginBottom":"0px","listIndent":"100%","overridden":"true","marginLeft":"0px","verticalAlignMarginTop":"auto","listType":"S_Bullets08","textAlign":"left","marginBottom":"0%","presetId":"text-body-2","listSize":"100%"}}],"entityMap":{}}',
 autoGrow:false,
 tbqt:0,
 trin:0,
@@ -167840,10 +167840,10 @@ vbwr:[-1,-1,2,2],
 vb:[-1,-1,2,2]
 },
 Slide19710:{
-lb:'Lesson 3 - Antora_ Important Files',
+lb:'Lesson 3 - Antora  important files',
 id:19710,
-from:26887,
-to:26976,
+from:61915,
+to:62004,
 iols:0,
 i360qs:false,
 sdu:3,
@@ -170668,10 +170668,10 @@ vbwr:[-1,-1,2,2],
 vb:[-1,-1,2,2]
 },
 Slide20130:{
-lb:'Lesson 3 - Asciidoc Formatting',
+lb:'Lesson 3 - Asciidoc formatting',
 id:20130,
-from:43951,
-to:44040,
+from:62005,
+to:62094,
 iols:0,
 i360qs:false,
 sdu:3,
@@ -172810,10 +172810,10 @@ vbwr:[-1,-1,2,2],
 vb:[-1,-1,2,2]
 },
 Slide20832:{
-lb:'Lesson 3 - Making Content Visible',
+lb:'Lesson 3 - Publishing changes',
 id:20832,
-from:27247,
-to:27336,
+from:62095,
+to:62184,
 iols:0,
 i360qs:false,
 sdu:3,
@@ -173866,10 +173866,10 @@ vbwr:[-1,-1,2,2],
 vb:[-1,-1,2,2]
 },
 Slide31726:{
-lb:'Lesson 3 - Making Content visible_ continued',
+lb:'Lesson 3 - Publishing changes continued',
 id:31726,
-from:27337,
-to:27426,
+from:62185,
+to:62274,
 iols:0,
 i360qs:false,
 sdu:3,
@@ -174592,10 +174592,10 @@ vbwr:[-1,-1,2,2],
 vb:[-1,-1,2,2]
 },
 Slide21030:{
-lb:'Lesson 3 - Finalising Changes',
+lb:'Lesson 3 - Finalising changes',
 id:21030,
-from:27427,
-to:27516,
+from:62275,
+to:62364,
 iols:0,
 i360qs:false,
 sdu:3,
@@ -175312,10 +175312,10 @@ vbwr:[-1,-1,2,2],
 vb:[-1,-1,2,2]
 },
 Slide32030:{
-lb:'Lesson 3 - Finalising Changes - 1',
+lb:'Lesson 3 - Finalising changes - continued',
 id:32030,
-from:27517,
-to:27606,
+from:62365,
+to:62454,
 iols:0,
 i360qs:false,
 sdu:3,
@@ -178693,10 +178693,10 @@ vbwr:[-1,-1,2,2],
 vb:[-1,-1,2,2]
 },
 Slide22126:{
-lb:'Lesson 4 - Learning Objectives',
+lb:'Lesson 4 - Learning objectives',
 id:22126,
-from:27697,
-to:27786,
+from:62455,
+to:62544,
 iols:0,
 i360qs:false,
 sdu:3,
@@ -184402,8 +184402,8 @@ visible:'1'
 si22980:{
 name:'Paragraph_90',
 type:1268,
-from:28327,
-to:28416,
+from:62545,
+to:62634,
 rp:0,
 rpa:0,
 mdi:'si22980c',
@@ -184570,8 +184570,8 @@ vb:[-1,-1,1,1]
 si22988:{
 name:'Paragraph_Group_40',
 type:1268,
-from:28327,
-to:28416,
+from:62545,
+to:62634,
 rp:0,
 rpa:0,
 mdi:'si22988c',
@@ -184896,8 +184896,8 @@ vb:[-1,-1,2,2]
 si23016:{
 name:'Text_363',
 type:1250,
-from:28327,
-to:28416,
+from:62545,
+to:62634,
 rp:0,
 rpa:0,
 mdi:'si23016c',
@@ -184927,7 +184927,7 @@ efph:{
 eflh:[],
 iflbx:false,
 ipflbx:true,
-text:'{"blocks":[{"key":"avf4e","text":"What do we have so far:","type":"unstyled","depth":0,"inlineStyleRanges":[{"offset":0,"length":23,"style":"color:#060606"},{"offset":0,"length":23,"style":"backgroundColor:unset"},{"offset":0,"length":23,"style":"WebkitTextStrokeWidth:1px"},{"offset":0,"length":23,"style":"hlnkt:wp"},{"offset":0,"length":23,"style":"fontStyle:normal"},{"offset":0,"length":23,"style":"tablet-fontSize:20"},{"offset":0,"length":23,"style":"defaultTextStrokeWidth:1px"},{"offset":0,"length":23,"style":"WebkitTextStrokeColor:#F1EEE6"},{"offset":0,"length":23,"style":"textOutlineEnable:false"},{"offset":0,"length":23,"style":"opacity:1"},{"offset":0,"length":23,"style":"defaultTextStrokeColor:#F1EEE6"},{"offset":0,"length":23,"style":"hlnke:true"},{"offset":0,"length":23,"style":"defaultTextShadow:none"},{"offset":0,"length":23,"style":"textShadow:none"},{"offset":0,"length":23,"style":"mobile-fontSize:18"},{"offset":0,"length":23,"style":"textShadowX:0px"},{"offset":0,"length":23,"style":"fontStretch:normal"},{"offset":0,"length":23,"style":"fontType:regular"},{"offset":0,"length":23,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":23,"style":"textShadowY:4px"},{"offset":0,"length":23,"style":"letterSpacing:3%"},{"offset":0,"length":23,"style":"textShadowColor:#F1EEE61F"},{"offset":0,"length":23,"style":"textHighlightEnable:false"},{"offset":0,"length":23,"style":"textTransform:none"},{"offset":0,"length":23,"style":"textShadowOpacity:none"},{"offset":0,"length":23,"style":"overridden:true"},{"offset":0,"length":23,"style":"textDecoration:none"},{"offset":0,"length":23,"style":"lineHeight:130%"},{"offset":0,"length":23,"style":"borderBottomStyle:none"},{"offset":0,"length":23,"style":"desktop-fontSize:22"},{"offset":0,"length":23,"style":"textShadowEnable:false"},{"offset":0,"length":23,"style":"hlnk:"},{"offset":0,"length":23,"style":"fontWeight:normal"},{"offset":0,"length":23,"style":"textShadowBlur:8px"},{"offset":0,"length":23,"style":"fontFamily:Arial"}],"entityRanges":[],"data":{"listDepth":"0","listColor":"#666666","verticalAlignMarginBottom":"0px","listIndent":"100%","overridden":"true","marginLeft":"0px","verticalAlignMarginTop":"auto","listType":"S_Bullets08","textAlign":"left","marginBottom":"0%","presetId":"text-body-2","listSize":"100%"}},{"key":"7a3vn","text":"","type":"unstyled","depth":0,"inlineStyleRanges":[],"entityRanges":[],"data":{"listDepth":"0","listColor":"#666666","verticalAlignMarginBottom":"0px","listIndent":"100%","overridden":"true","marginLeft":"0px","verticalAlignMarginTop":"auto","listType":"S_Bullets08","textAlign":"left","marginBottom":"0%","presetId":"text-body-2","listSize":"100%"}},{"key":"4eg9h","text":"A branch v1.0.0 completed with the original documents:”yourname.adoc” (already merged, no new changes)","type":"unordered-list-item","depth":0,"inlineStyleRanges":[{"offset":0,"length":102,"style":"fontWeight:normal"},{"offset":0,"length":102,"style":"textShadowBlur:8px"},{"offset":0,"length":102,"style":"fontFamily:Arial"},{"offset":0,"length":102,"style":"color:#060606"},{"offset":0,"length":102,"style":"backgroundColor:unset"},{"offset":0,"length":102,"style":"WebkitTextStrokeWidth:1px"},{"offset":0,"length":102,"style":"hlnkt:wp"},{"offset":0,"length":102,"style":"fontStyle:normal"},{"offset":0,"length":102,"style":"tablet-fontSize:20"},{"offset":0,"length":102,"style":"defaultTextStrokeWidth:1px"},{"offset":0,"length":102,"style":"WebkitTextStrokeColor:#F1EEE6"},{"offset":0,"length":102,"style":"textOutlineEnable:false"},{"offset":0,"length":102,"style":"opacity:1"},{"offset":0,"length":102,"style":"defaultTextStrokeColor:#F1EEE6"},{"offset":0,"length":102,"style":"hlnke:true"},{"offset":0,"length":102,"style":"defaultTextShadow:none"},{"offset":0,"length":102,"style":"textShadow:none"},{"offset":0,"length":102,"style":"mobile-fontSize:18"},{"offset":0,"length":102,"style":"textShadowX:0px"},{"offset":0,"length":102,"style":"fontStretch:normal"},{"offset":0,"length":102,"style":"fontType:regular"},{"offset":0,"length":102,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":102,"style":"textShadowY:4px"},{"offset":0,"length":102,"style":"letterSpacing:3%"},{"offset":0,"length":102,"style":"textShadowColor:#F1EEE61F"},{"offset":0,"length":102,"style":"textHighlightEnable:false"},{"offset":0,"length":102,"style":"textTransform:none"},{"offset":0,"length":102,"style":"textShadowOpacity:none"},{"offset":0,"length":102,"style":"overridden:true"},{"offset":0,"length":102,"style":"textDecoration:none"},{"offset":0,"length":102,"style":"lineHeight:130%"},{"offset":0,"length":102,"style":"borderBottomStyle:none"},{"offset":0,"length":102,"style":"desktop-fontSize:22"},{"offset":0,"length":102,"style":"textShadowEnable:false"},{"offset":0,"length":102,"style":"hlnk:"}],"entityRanges":[],"data":{"listDepth":"0","listColor":"#666666","verticalAlignMarginBottom":"0px","listIndent":"100%","overridden":"true","marginLeft":"0px","verticalAlignMarginTop":"auto","listType":"S_Bullets08","textAlign":"left","marginBottom":"0%","presetId":"text-body-2","listSize":"100%"}},{"key":"46gs2","text":"A new v2.0.0 branch","type":"unordered-list-item","depth":0,"inlineStyleRanges":[{"offset":0,"length":19,"style":"desktop-fontSize:22"},{"offset":0,"length":19,"style":"textShadowEnable:false"},{"offset":0,"length":19,"style":"hlnk:"},{"offset":0,"length":19,"style":"fontWeight:normal"},{"offset":0,"length":19,"style":"textShadowBlur:8px"},{"offset":0,"length":19,"style":"fontFamily:Arial"},{"offset":0,"length":19,"style":"color:#060606"},{"offset":0,"length":19,"style":"backgroundColor:unset"},{"offset":0,"length":19,"style":"WebkitTextStrokeWidth:1px"},{"offset":0,"length":19,"style":"hlnkt:wp"},{"offset":0,"length":19,"style":"fontStyle:normal"},{"offset":0,"length":19,"style":"tablet-fontSize:20"},{"offset":0,"length":19,"style":"defaultTextStrokeWidth:1px"},{"offset":0,"length":19,"style":"WebkitTextStrokeColor:#F1EEE6"},{"offset":0,"length":19,"style":"textOutlineEnable:false"},{"offset":0,"length":19,"style":"opacity:1"},{"offset":0,"length":19,"style":"defaultTextStrokeColor:#F1EEE6"},{"offset":0,"length":19,"style":"hlnke:true"},{"offset":0,"length":19,"style":"defaultTextShadow:none"},{"offset":0,"length":19,"style":"textShadow:none"},{"offset":0,"length":19,"style":"mobile-fontSize:18"},{"offset":0,"length":19,"style":"textShadowX:0px"},{"offset":0,"length":19,"style":"fontStretch:normal"},{"offset":0,"length":19,"style":"fontType:regular"},{"offset":0,"length":19,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":19,"style":"textShadowY:4px"},{"offset":0,"length":19,"style":"letterSpacing:3%"},{"offset":0,"length":19,"style":"textShadowColor:#F1EEE61F"},{"offset":0,"length":19,"style":"textHighlightEnable:false"},{"offset":0,"length":19,"style":"textTransform:none"},{"offset":0,"length":19,"style":"textShadowOpacity:none"},{"offset":0,"length":19,"style":"overridden:true"},{"offset":0,"length":19,"style":"textDecoration:none"},{"offset":0,"length":19,"style":"lineHeight:130%"},{"offset":0,"length":19,"style":"borderBottomStyle:none"}],"entityRanges":[],"data":{"listDepth":"0","listColor":"#666666","verticalAlignMarginBottom":"0px","listIndent":"100%","overridden":"true","marginLeft":"0px","verticalAlignMarginTop":"auto","listType":"S_Bullets08","textAlign":"left","marginBottom":"0%","presetId":"text-body-2","listSize":"100%"}},{"key":"8ttq9","text":"New branches off v2.0.0 called new_yourname2 with the changes that you would like to apply to the “yourname2.adoc” in version 2.0.0.","type":"unordered-list-item","depth":0,"inlineStyleRanges":[{"offset":0,"length":132,"style":"textDecoration:none"},{"offset":0,"length":132,"style":"lineHeight:130%"},{"offset":0,"length":132,"style":"borderBottomStyle:none"},{"offset":0,"length":132,"style":"desktop-fontSize:22"},{"offset":0,"length":132,"style":"textShadowEnable:false"},{"offset":0,"length":132,"style":"hlnk:"},{"offset":0,"length":132,"style":"fontWeight:normal"},{"offset":0,"length":132,"style":"textShadowBlur:8px"},{"offset":0,"length":132,"style":"fontFamily:Arial"},{"offset":0,"length":132,"style":"color:#060606"},{"offset":0,"length":132,"style":"backgroundColor:unset"},{"offset":0,"length":132,"style":"WebkitTextStrokeWidth:1px"},{"offset":0,"length":132,"style":"hlnkt:wp"},{"offset":0,"length":132,"style":"fontStyle:normal"},{"offset":0,"length":132,"style":"tablet-fontSize:20"},{"offset":0,"length":132,"style":"defaultTextStrokeWidth:1px"},{"offset":0,"length":132,"style":"WebkitTextStrokeColor:#F1EEE6"},{"offset":0,"length":132,"style":"textOutlineEnable:false"},{"offset":0,"length":132,"style":"opacity:1"},{"offset":0,"length":132,"style":"defaultTextStrokeColor:#F1EEE6"},{"offset":0,"length":132,"style":"hlnke:true"},{"offset":0,"length":132,"style":"defaultTextShadow:none"},{"offset":0,"length":132,"style":"textShadow:none"},{"offset":0,"length":132,"style":"mobile-fontSize:18"},{"offset":0,"length":132,"style":"textShadowX:0px"},{"offset":0,"length":132,"style":"fontStretch:normal"},{"offset":0,"length":132,"style":"fontType:regular"},{"offset":0,"length":132,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":132,"style":"textShadowY:4px"},{"offset":0,"length":132,"style":"letterSpacing:3%"},{"offset":0,"length":132,"style":"textShadowColor:#F1EEE61F"},{"offset":0,"length":132,"style":"textHighlightEnable:false"},{"offset":0,"length":132,"style":"textTransform:none"},{"offset":0,"length":132,"style":"textShadowOpacity:none"},{"offset":0,"length":132,"style":"overridden:true"}],"entityRanges":[],"data":{"listDepth":"0","listColor":"#666666","verticalAlignMarginBottom":"0px","listIndent":"100%","overridden":"true","marginLeft":"0px","verticalAlignMarginTop":"auto","listType":"S_Bullets08","textAlign":"left","marginBottom":"0%","presetId":"text-body-2","listSize":"100%"}},{"key":"es1n2","text":"","type":"unstyled","depth":0,"inlineStyleRanges":[],"entityRanges":[],"data":{"listDepth":"0","listColor":"#666666","verticalAlignMarginBottom":"0px","listIndent":"100%","overridden":"true","marginLeft":"0px","verticalAlignMarginTop":"auto","listType":"S_Bullets08","textAlign":"left","marginBottom":"0%","presetId":"text-body-2","listSize":"100%"}},{"key":"hrfk","text":"Merge your branch with v2.0.0 and regenerate the site:","type":"unstyled","depth":0,"inlineStyleRanges":[{"offset":0,"length":54,"style":"textTransform:none"},{"offset":0,"length":54,"style":"textShadowOpacity:none"},{"offset":0,"length":54,"style":"overridden:true"},{"offset":0,"length":54,"style":"textDecoration:none"},{"offset":0,"length":54,"style":"lineHeight:130%"},{"offset":0,"length":54,"style":"borderBottomStyle:none"},{"offset":0,"length":54,"style":"desktop-fontSize:22"},{"offset":0,"length":54,"style":"textShadowEnable:false"},{"offset":0,"length":54,"style":"hlnk:"},{"offset":0,"length":54,"style":"fontWeight:normal"},{"offset":0,"length":54,"style":"textShadowBlur:8px"},{"offset":0,"length":54,"style":"fontFamily:Arial"},{"offset":0,"length":54,"style":"color:#060606"},{"offset":0,"length":54,"style":"backgroundColor:unset"},{"offset":0,"length":54,"style":"WebkitTextStrokeWidth:1px"},{"offset":0,"length":54,"style":"hlnkt:wp"},{"offset":0,"length":54,"style":"fontStyle:normal"},{"offset":0,"length":54,"style":"tablet-fontSize:20"},{"offset":0,"length":54,"style":"defaultTextStrokeWidth:1px"},{"offset":0,"length":54,"style":"WebkitTextStrokeColor:#F1EEE6"},{"offset":0,"length":54,"style":"textOutlineEnable:false"},{"offset":0,"length":54,"style":"opacity:1"},{"offset":0,"length":54,"style":"defaultTextStrokeColor:#F1EEE6"},{"offset":0,"length":54,"style":"hlnke:true"},{"offset":0,"length":54,"style":"defaultTextShadow:none"},{"offset":0,"length":54,"style":"textShadow:none"},{"offset":0,"length":54,"style":"mobile-fontSize:18"},{"offset":0,"length":54,"style":"textShadowX:0px"},{"offset":0,"length":54,"style":"fontStretch:normal"},{"offset":0,"length":54,"style":"fontType:regular"},{"offset":0,"length":54,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":54,"style":"textShadowY:4px"},{"offset":0,"length":54,"style":"letterSpacing:3%"},{"offset":0,"length":54,"style":"textShadowColor:#F1EEE61F"},{"offset":0,"length":54,"style":"textHighlightEnable:false"}],"entityRanges":[],"data":{"listDepth":"0","listColor":"#666666","verticalAlignMarginBottom":"0px","listIndent":"100%","overridden":"true","marginLeft":"0px","verticalAlignMarginTop":"auto","listType":"S_Bullets08","textAlign":"left","marginBottom":"0%","presetId":"text-body-2","listSize":"100%"}},{"key":"au83","text":"","type":"unstyled","depth":0,"inlineStyleRanges":[],"entityRanges":[],"data":{"listDepth":"0","listColor":"#666666","verticalAlignMarginBottom":"0px","listIndent":"100%","overridden":"true","marginLeft":"0px","verticalAlignMarginTop":"auto","listType":"S_Bullets08","textAlign":"left","marginBottom":"0%","presetId":"text-body-2","listSize":"100%"}},{"key":"ana9f","text":"In the docs-sandbox repository, create a pull request from your new_yourname2 branch into v2.0.0, and set a reviewer.","type":"unstyled","depth":0,"inlineStyleRanges":[{"offset":0,"length":117,"style":"letterSpacing:3%"},{"offset":0,"length":117,"style":"textShadowColor:#F1EEE61F"},{"offset":0,"length":117,"style":"textHighlightEnable:false"},{"offset":0,"length":117,"style":"textTransform:none"},{"offset":0,"length":117,"style":"textShadowOpacity:none"},{"offset":0,"length":117,"style":"overridden:true"},{"offset":0,"length":117,"style":"textDecoration:none"},{"offset":0,"length":117,"style":"lineHeight:130%"},{"offset":0,"length":117,"style":"borderBottomStyle:none"},{"offset":0,"length":117,"style":"desktop-fontSize:22"},{"offset":0,"length":117,"style":"textShadowEnable:false"},{"offset":0,"length":117,"style":"hlnk:"},{"offset":0,"length":117,"style":"fontWeight:normal"},{"offset":0,"length":117,"style":"textShadowBlur:8px"},{"offset":0,"length":117,"style":"fontFamily:Arial"},{"offset":0,"length":117,"style":"color:#060606"},{"offset":0,"length":117,"style":"backgroundColor:unset"},{"offset":0,"length":117,"style":"WebkitTextStrokeWidth:1px"},{"offset":0,"length":117,"style":"hlnkt:wp"},{"offset":0,"length":117,"style":"fontStyle:normal"},{"offset":0,"length":117,"style":"tablet-fontSize:20"},{"offset":0,"length":117,"style":"defaultTextStrokeWidth:1px"},{"offset":0,"length":117,"style":"WebkitTextStrokeColor:#F1EEE6"},{"offset":0,"length":117,"style":"textOutlineEnable:false"},{"offset":0,"length":117,"style":"opacity:1"},{"offset":0,"length":117,"style":"defaultTextStrokeColor:#F1EEE6"},{"offset":0,"length":117,"style":"hlnke:true"},{"offset":0,"length":117,"style":"defaultTextShadow:none"},{"offset":0,"length":117,"style":"textShadow:none"},{"offset":0,"length":117,"style":"mobile-fontSize:18"},{"offset":0,"length":117,"style":"textShadowX:0px"},{"offset":0,"length":117,"style":"fontStretch:normal"},{"offset":0,"length":117,"style":"fontType:regular"},{"offset":0,"length":117,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":117,"style":"textShadowY:4px"}],"entityRanges":[],"data":{"listDepth":"0","listColor":"#666666","verticalAlignMarginBottom":"0px","listIndent":"100%","overridden":"true","marginLeft":"0px","verticalAlignMarginTop":"auto","listType":"S_Bullets08","textAlign":"left","marginBottom":"0%","presetId":"text-body-2","listSize":"100%"}},{"key":"d842k","text":"","type":"unstyled","depth":0,"inlineStyleRanges":[],"entityRanges":[],"data":{"listDepth":"0","listColor":"#666666","verticalAlignMarginBottom":"0px","listIndent":"100%","overridden":"true","marginLeft":"0px","verticalAlignMarginTop":"auto","listType":"S_Bullets08","textAlign":"left","marginBottom":"0%","presetId":"text-body-2","listSize":"100%"}},{"key":"cak5b","text":"Then we’ll check the antora.yml (docs repo) in both branches to see and check the differences, and also modify the antora-playbook.yml  (docs generation repo) files to change what gets generated, and finally, kick off the generation of the training docs site. We’ll then look at what Antora has generated on the training docs site.","type":"unstyled","depth":0,"inlineStyleRanges":[{"offset":0,"length":331,"style":"fontType:regular"},{"offset":0,"length":331,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":331,"style":"textShadowY:4px"},{"offset":0,"length":331,"style":"letterSpacing:3%"},{"offset":0,"length":331,"style":"textShadowColor:#F1EEE61F"},{"offset":0,"length":331,"style":"textHighlightEnable:false"},{"offset":0,"length":331,"style":"textTransform:none"},{"offset":0,"length":331,"style":"textShadowOpacity:none"},{"offset":0,"length":331,"style":"overridden:true"},{"offset":0,"length":331,"style":"textDecoration:none"},{"offset":0,"length":331,"style":"lineHeight:130%"},{"offset":0,"length":331,"style":"borderBottomStyle:none"},{"offset":0,"length":331,"style":"desktop-fontSize:22"},{"offset":0,"length":331,"style":"textShadowEnable:false"},{"offset":0,"length":331,"style":"hlnk:"},{"offset":0,"length":331,"style":"fontWeight:normal"},{"offset":0,"length":331,"style":"textShadowBlur:8px"},{"offset":0,"length":331,"style":"fontFamily:Arial"},{"offset":0,"length":331,"style":"color:#060606"},{"offset":0,"length":331,"style":"backgroundColor:unset"},{"offset":0,"length":331,"style":"WebkitTextStrokeWidth:1px"},{"offset":0,"length":331,"style":"hlnkt:wp"},{"offset":0,"length":331,"style":"fontStyle:normal"},{"offset":0,"length":331,"style":"tablet-fontSize:20"},{"offset":0,"length":331,"style":"defaultTextStrokeWidth:1px"},{"offset":0,"length":331,"style":"WebkitTextStrokeColor:#F1EEE6"},{"offset":0,"length":331,"style":"textOutlineEnable:false"},{"offset":0,"length":331,"style":"opacity:1"},{"offset":0,"length":331,"style":"defaultTextStrokeColor:#F1EEE6"},{"offset":0,"length":331,"style":"hlnke:true"},{"offset":0,"length":331,"style":"defaultTextShadow:none"},{"offset":0,"length":331,"style":"textShadow:none"},{"offset":0,"length":331,"style":"mobile-fontSize:18"},{"offset":0,"length":331,"style":"textShadowX:0px"},{"offset":0,"length":331,"style":"fontStretch:normal"}],"entityRanges":[],"data":{"listDepth":"0","listColor":"#666666","verticalAlignMarginBottom":"0px","listIndent":"100%","overridden":"true","marginLeft":"0px","verticalAlignMarginTop":"auto","listType":"S_Bullets08","textAlign":"left","marginBottom":"0%","presetId":"text-body-2","listSize":"100%"}},{"key":"rp76","text":"","type":"unstyled","depth":0,"inlineStyleRanges":[],"entityRanges":[],"data":{"listDepth":"0","listColor":"#666666","verticalAlignMarginBottom":"0px","listIndent":"100%","overridden":"true","marginLeft":"0px","verticalAlignMarginTop":"auto","listType":"S_Bullets08","textAlign":"left","marginBottom":"0%","presetId":"text-body-2","listSize":"100%"}},{"key":"9jjqe","text":"What are we left with, branch-wise? Let’s clean up the repository by deleting the merged “new_yourname2” branches.","type":"unstyled","depth":0,"inlineStyleRanges":[{"offset":0,"length":114,"style":"mobile-fontSize:18"},{"offset":0,"length":114,"style":"textShadowX:0px"},{"offset":0,"length":114,"style":"fontStretch:normal"},{"offset":0,"length":114,"style":"fontType:regular"},{"offset":0,"length":114,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":114,"style":"textShadowY:4px"},{"offset":0,"length":114,"style":"letterSpacing:3%"},{"offset":0,"length":114,"style":"textShadowColor:#F1EEE61F"},{"offset":0,"length":114,"style":"textHighlightEnable:false"},{"offset":0,"length":114,"style":"textTransform:none"},{"offset":0,"length":114,"style":"textShadowOpacity:none"},{"offset":0,"length":114,"style":"overridden:true"},{"offset":0,"length":114,"style":"textDecoration:none"},{"offset":0,"length":114,"style":"lineHeight:130%"},{"offset":0,"length":114,"style":"borderBottomStyle:none"},{"offset":0,"length":114,"style":"desktop-fontSize:22"},{"offset":0,"length":114,"style":"textShadowEnable:false"},{"offset":0,"length":114,"style":"hlnk:"},{"offset":0,"length":114,"style":"fontWeight:normal"},{"offset":0,"length":114,"style":"textShadowBlur:8px"},{"offset":0,"length":114,"style":"fontFamily:Arial"},{"offset":0,"length":114,"style":"color:#060606"},{"offset":0,"length":114,"style":"backgroundColor:unset"},{"offset":0,"length":114,"style":"WebkitTextStrokeWidth:1px"},{"offset":0,"length":114,"style":"hlnkt:wp"},{"offset":0,"length":114,"style":"fontStyle:normal"},{"offset":0,"length":114,"style":"tablet-fontSize:20"},{"offset":0,"length":114,"style":"defaultTextStrokeWidth:1px"},{"offset":0,"length":114,"style":"WebkitTextStrokeColor:#F1EEE6"},{"offset":0,"length":114,"style":"textOutlineEnable:false"},{"offset":0,"length":114,"style":"opacity:1"},{"offset":0,"length":114,"style":"defaultTextStrokeColor:#F1EEE6"},{"offset":0,"length":114,"style":"hlnke:true"},{"offset":0,"length":114,"style":"defaultTextShadow:none"},{"offset":0,"length":114,"style":"textShadow:none"}],"entityRanges":[],"data":{"listDepth":"0","listColor":"#666666","verticalAlignMarginBottom":"0px","listIndent":"100%","overridden":"true","marginLeft":"0px","verticalAlignMarginTop":"auto","listType":"S_Bullets08","textAlign":"left","marginBottom":"0%","presetId":"text-body-2","listSize":"100%"}}],"entityMap":{}}',
+text:'{"blocks":[{"key":"avf4e","text":"What do we have so far:","type":"unstyled","depth":0,"inlineStyleRanges":[{"offset":0,"length":23,"style":"textShadowBlur:8px"},{"offset":0,"length":23,"style":"fontFamily:Arial"},{"offset":0,"length":23,"style":"color:#060606"},{"offset":0,"length":23,"style":"backgroundColor:unset"},{"offset":0,"length":23,"style":"WebkitTextStrokeWidth:1px"},{"offset":0,"length":23,"style":"hlnkt:wp"},{"offset":0,"length":23,"style":"fontStyle:normal"},{"offset":0,"length":23,"style":"tablet-fontSize:20"},{"offset":0,"length":23,"style":"defaultTextStrokeWidth:1px"},{"offset":0,"length":23,"style":"WebkitTextStrokeColor:#F1EEE6"},{"offset":0,"length":23,"style":"textOutlineEnable:false"},{"offset":0,"length":23,"style":"opacity:1"},{"offset":0,"length":23,"style":"defaultTextStrokeColor:#F1EEE6"},{"offset":0,"length":23,"style":"hlnke:true"},{"offset":0,"length":23,"style":"defaultTextShadow:none"},{"offset":0,"length":23,"style":"textShadow:none"},{"offset":0,"length":23,"style":"mobile-fontSize:18"},{"offset":0,"length":23,"style":"textShadowX:0px"},{"offset":0,"length":23,"style":"fontStretch:normal"},{"offset":0,"length":23,"style":"fontType:regular"},{"offset":0,"length":23,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":23,"style":"textShadowY:4px"},{"offset":0,"length":23,"style":"letterSpacing:3%"},{"offset":0,"length":23,"style":"textShadowColor:#F1EEE61F"},{"offset":0,"length":23,"style":"textHighlightEnable:false"},{"offset":0,"length":23,"style":"textTransform:none"},{"offset":0,"length":23,"style":"textShadowOpacity:none"},{"offset":0,"length":23,"style":"overridden:true"},{"offset":0,"length":23,"style":"textDecoration:none"},{"offset":0,"length":23,"style":"lineHeight:130%"},{"offset":0,"length":23,"style":"borderBottomStyle:none"},{"offset":0,"length":23,"style":"desktop-fontSize:22"},{"offset":0,"length":23,"style":"textShadowEnable:false"},{"offset":0,"length":23,"style":"hlnk:"},{"offset":0,"length":23,"style":"fontWeight:normal"}],"entityRanges":[],"data":{"listDepth":"0","listColor":"#666666","verticalAlignMarginBottom":"0px","listIndent":"100%","overridden":"true","marginLeft":"0px","verticalAlignMarginTop":"auto","listType":"S_Bullets08","textAlign":"left","marginBottom":"0%","presetId":"text-body-2","listSize":"100%"}},{"key":"7a3vn","text":"","type":"unstyled","depth":0,"inlineStyleRanges":[],"entityRanges":[],"data":{"listDepth":"0","listColor":"#666666","verticalAlignMarginBottom":"0px","listIndent":"100%","overridden":"true","marginLeft":"0px","verticalAlignMarginTop":"auto","listType":"S_Bullets08","textAlign":"left","marginBottom":"0%","presetId":"text-body-2","listSize":"100%"}},{"key":"4eg9h","text":"A branch v1.0.0 completed with the original documents:”yourname.adoc” (already merged, no new changes)","type":"unordered-list-item","depth":0,"inlineStyleRanges":[{"offset":0,"length":102,"style":"textShadowEnable:false"},{"offset":0,"length":102,"style":"hlnk:"},{"offset":0,"length":102,"style":"fontWeight:normal"},{"offset":0,"length":102,"style":"textShadowBlur:8px"},{"offset":0,"length":102,"style":"fontFamily:Arial"},{"offset":0,"length":102,"style":"color:#060606"},{"offset":0,"length":102,"style":"backgroundColor:unset"},{"offset":0,"length":102,"style":"WebkitTextStrokeWidth:1px"},{"offset":0,"length":102,"style":"hlnkt:wp"},{"offset":0,"length":102,"style":"fontStyle:normal"},{"offset":0,"length":102,"style":"tablet-fontSize:20"},{"offset":0,"length":102,"style":"defaultTextStrokeWidth:1px"},{"offset":0,"length":102,"style":"WebkitTextStrokeColor:#F1EEE6"},{"offset":0,"length":102,"style":"textOutlineEnable:false"},{"offset":0,"length":102,"style":"opacity:1"},{"offset":0,"length":102,"style":"defaultTextStrokeColor:#F1EEE6"},{"offset":0,"length":102,"style":"hlnke:true"},{"offset":0,"length":102,"style":"defaultTextShadow:none"},{"offset":0,"length":102,"style":"textShadow:none"},{"offset":0,"length":102,"style":"mobile-fontSize:18"},{"offset":0,"length":102,"style":"textShadowX:0px"},{"offset":0,"length":102,"style":"fontStretch:normal"},{"offset":0,"length":102,"style":"fontType:regular"},{"offset":0,"length":102,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":102,"style":"textShadowY:4px"},{"offset":0,"length":102,"style":"letterSpacing:3%"},{"offset":0,"length":102,"style":"textShadowColor:#F1EEE61F"},{"offset":0,"length":102,"style":"textHighlightEnable:false"},{"offset":0,"length":102,"style":"textTransform:none"},{"offset":0,"length":102,"style":"textShadowOpacity:none"},{"offset":0,"length":102,"style":"overridden:true"},{"offset":0,"length":102,"style":"textDecoration:none"},{"offset":0,"length":102,"style":"lineHeight:130%"},{"offset":0,"length":102,"style":"borderBottomStyle:none"},{"offset":0,"length":102,"style":"desktop-fontSize:22"}],"entityRanges":[],"data":{"listDepth":"0","listColor":"#666666","verticalAlignMarginBottom":"0px","listIndent":"100%","overridden":"true","marginLeft":"0px","verticalAlignMarginTop":"auto","listType":"S_Bullets08","textAlign":"left","marginBottom":"0%","presetId":"text-body-2","listSize":"100%"}},{"key":"46gs2","text":"A new v2.0.0 branch","type":"unordered-list-item","depth":0,"inlineStyleRanges":[{"offset":0,"length":19,"style":"lineHeight:130%"},{"offset":0,"length":19,"style":"borderBottomStyle:none"},{"offset":0,"length":19,"style":"desktop-fontSize:22"},{"offset":0,"length":19,"style":"textShadowEnable:false"},{"offset":0,"length":19,"style":"hlnk:"},{"offset":0,"length":19,"style":"fontWeight:normal"},{"offset":0,"length":19,"style":"textShadowBlur:8px"},{"offset":0,"length":19,"style":"fontFamily:Arial"},{"offset":0,"length":19,"style":"color:#060606"},{"offset":0,"length":19,"style":"backgroundColor:unset"},{"offset":0,"length":19,"style":"WebkitTextStrokeWidth:1px"},{"offset":0,"length":19,"style":"hlnkt:wp"},{"offset":0,"length":19,"style":"fontStyle:normal"},{"offset":0,"length":19,"style":"tablet-fontSize:20"},{"offset":0,"length":19,"style":"defaultTextStrokeWidth:1px"},{"offset":0,"length":19,"style":"WebkitTextStrokeColor:#F1EEE6"},{"offset":0,"length":19,"style":"textOutlineEnable:false"},{"offset":0,"length":19,"style":"opacity:1"},{"offset":0,"length":19,"style":"defaultTextStrokeColor:#F1EEE6"},{"offset":0,"length":19,"style":"hlnke:true"},{"offset":0,"length":19,"style":"defaultTextShadow:none"},{"offset":0,"length":19,"style":"textShadow:none"},{"offset":0,"length":19,"style":"mobile-fontSize:18"},{"offset":0,"length":19,"style":"textShadowX:0px"},{"offset":0,"length":19,"style":"fontStretch:normal"},{"offset":0,"length":19,"style":"fontType:regular"},{"offset":0,"length":19,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":19,"style":"textShadowY:4px"},{"offset":0,"length":19,"style":"letterSpacing:3%"},{"offset":0,"length":19,"style":"textShadowColor:#F1EEE61F"},{"offset":0,"length":19,"style":"textHighlightEnable:false"},{"offset":0,"length":19,"style":"textTransform:none"},{"offset":0,"length":19,"style":"textShadowOpacity:none"},{"offset":0,"length":19,"style":"overridden:true"},{"offset":0,"length":19,"style":"textDecoration:none"}],"entityRanges":[],"data":{"listDepth":"0","listColor":"#666666","verticalAlignMarginBottom":"0px","listIndent":"100%","overridden":"true","marginLeft":"0px","verticalAlignMarginTop":"auto","listType":"S_Bullets08","textAlign":"left","marginBottom":"0%","presetId":"text-body-2","listSize":"100%"}},{"key":"8ttq9","text":"New branches off v2.0.0 called new_yourname2 with the changes that you would like to apply to the “yourname2.adoc” in version 2.0.0.","type":"unordered-list-item","depth":0,"inlineStyleRanges":[{"offset":0,"length":132,"style":"textShadowOpacity:none"},{"offset":0,"length":132,"style":"overridden:true"},{"offset":0,"length":132,"style":"textDecoration:none"},{"offset":0,"length":132,"style":"lineHeight:130%"},{"offset":0,"length":132,"style":"borderBottomStyle:none"},{"offset":0,"length":132,"style":"desktop-fontSize:22"},{"offset":0,"length":132,"style":"textShadowEnable:false"},{"offset":0,"length":132,"style":"hlnk:"},{"offset":0,"length":132,"style":"fontWeight:normal"},{"offset":0,"length":132,"style":"textShadowBlur:8px"},{"offset":0,"length":132,"style":"fontFamily:Arial"},{"offset":0,"length":132,"style":"color:#060606"},{"offset":0,"length":132,"style":"backgroundColor:unset"},{"offset":0,"length":132,"style":"WebkitTextStrokeWidth:1px"},{"offset":0,"length":132,"style":"hlnkt:wp"},{"offset":0,"length":132,"style":"fontStyle:normal"},{"offset":0,"length":132,"style":"tablet-fontSize:20"},{"offset":0,"length":132,"style":"defaultTextStrokeWidth:1px"},{"offset":0,"length":132,"style":"WebkitTextStrokeColor:#F1EEE6"},{"offset":0,"length":132,"style":"textOutlineEnable:false"},{"offset":0,"length":132,"style":"opacity:1"},{"offset":0,"length":132,"style":"defaultTextStrokeColor:#F1EEE6"},{"offset":0,"length":132,"style":"hlnke:true"},{"offset":0,"length":132,"style":"defaultTextShadow:none"},{"offset":0,"length":132,"style":"textShadow:none"},{"offset":0,"length":132,"style":"mobile-fontSize:18"},{"offset":0,"length":132,"style":"textShadowX:0px"},{"offset":0,"length":132,"style":"fontStretch:normal"},{"offset":0,"length":132,"style":"fontType:regular"},{"offset":0,"length":132,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":132,"style":"textShadowY:4px"},{"offset":0,"length":132,"style":"letterSpacing:3%"},{"offset":0,"length":132,"style":"textShadowColor:#F1EEE61F"},{"offset":0,"length":132,"style":"textHighlightEnable:false"},{"offset":0,"length":132,"style":"textTransform:none"}],"entityRanges":[],"data":{"listDepth":"0","listColor":"#666666","verticalAlignMarginBottom":"0px","listIndent":"100%","overridden":"true","marginLeft":"0px","verticalAlignMarginTop":"auto","listType":"S_Bullets08","textAlign":"left","marginBottom":"0%","presetId":"text-body-2","listSize":"100%"}},{"key":"es1n2","text":"","type":"unstyled","depth":0,"inlineStyleRanges":[],"entityRanges":[],"data":{"listDepth":"0","listColor":"#666666","verticalAlignMarginBottom":"0px","listIndent":"100%","overridden":"true","marginLeft":"0px","verticalAlignMarginTop":"auto","listType":"S_Bullets08","textAlign":"left","marginBottom":"0%","presetId":"text-body-2","listSize":"100%"}},{"key":"hrfk","text":"Merge your branch with v2.0.0 and regenerate the site:","type":"unstyled","depth":0,"inlineStyleRanges":[{"offset":0,"length":54,"style":"textShadowColor:#F1EEE61F"},{"offset":0,"length":54,"style":"textHighlightEnable:false"},{"offset":0,"length":54,"style":"textTransform:none"},{"offset":0,"length":54,"style":"textShadowOpacity:none"},{"offset":0,"length":54,"style":"overridden:true"},{"offset":0,"length":54,"style":"textDecoration:none"},{"offset":0,"length":54,"style":"lineHeight:130%"},{"offset":0,"length":54,"style":"borderBottomStyle:none"},{"offset":0,"length":54,"style":"desktop-fontSize:22"},{"offset":0,"length":54,"style":"textShadowEnable:false"},{"offset":0,"length":54,"style":"hlnk:"},{"offset":0,"length":54,"style":"fontWeight:normal"},{"offset":0,"length":54,"style":"textShadowBlur:8px"},{"offset":0,"length":54,"style":"fontFamily:Arial"},{"offset":0,"length":54,"style":"color:#060606"},{"offset":0,"length":54,"style":"backgroundColor:unset"},{"offset":0,"length":54,"style":"WebkitTextStrokeWidth:1px"},{"offset":0,"length":54,"style":"hlnkt:wp"},{"offset":0,"length":54,"style":"fontStyle:normal"},{"offset":0,"length":54,"style":"tablet-fontSize:20"},{"offset":0,"length":54,"style":"defaultTextStrokeWidth:1px"},{"offset":0,"length":54,"style":"WebkitTextStrokeColor:#F1EEE6"},{"offset":0,"length":54,"style":"textOutlineEnable:false"},{"offset":0,"length":54,"style":"opacity:1"},{"offset":0,"length":54,"style":"defaultTextStrokeColor:#F1EEE6"},{"offset":0,"length":54,"style":"hlnke:true"},{"offset":0,"length":54,"style":"defaultTextShadow:none"},{"offset":0,"length":54,"style":"textShadow:none"},{"offset":0,"length":54,"style":"mobile-fontSize:18"},{"offset":0,"length":54,"style":"textShadowX:0px"},{"offset":0,"length":54,"style":"fontStretch:normal"},{"offset":0,"length":54,"style":"fontType:regular"},{"offset":0,"length":54,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":54,"style":"textShadowY:4px"},{"offset":0,"length":54,"style":"letterSpacing:3%"}],"entityRanges":[],"data":{"listDepth":"0","listColor":"#666666","verticalAlignMarginBottom":"0px","listIndent":"100%","overridden":"true","marginLeft":"0px","verticalAlignMarginTop":"auto","listType":"S_Bullets08","textAlign":"left","marginBottom":"0%","presetId":"text-body-2","listSize":"100%"}},{"key":"au83","text":"","type":"unstyled","depth":0,"inlineStyleRanges":[],"entityRanges":[],"data":{"listDepth":"0","listColor":"#666666","verticalAlignMarginBottom":"0px","listIndent":"100%","overridden":"true","marginLeft":"0px","verticalAlignMarginTop":"auto","listType":"S_Bullets08","textAlign":"left","marginBottom":"0%","presetId":"text-body-2","listSize":"100%"}},{"key":"ana9f","text":"In the docs-sandbox repository, create a pull request from your new_yourname2 branch into v2.0.0, and set a reviewer.","type":"unstyled","depth":0,"inlineStyleRanges":[{"offset":0,"length":117,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":117,"style":"textShadowY:4px"},{"offset":0,"length":117,"style":"letterSpacing:3%"},{"offset":0,"length":117,"style":"textShadowColor:#F1EEE61F"},{"offset":0,"length":117,"style":"textHighlightEnable:false"},{"offset":0,"length":117,"style":"textTransform:none"},{"offset":0,"length":117,"style":"textShadowOpacity:none"},{"offset":0,"length":117,"style":"overridden:true"},{"offset":0,"length":117,"style":"textDecoration:none"},{"offset":0,"length":117,"style":"lineHeight:130%"},{"offset":0,"length":117,"style":"borderBottomStyle:none"},{"offset":0,"length":117,"style":"desktop-fontSize:22"},{"offset":0,"length":117,"style":"textShadowEnable:false"},{"offset":0,"length":117,"style":"hlnk:"},{"offset":0,"length":117,"style":"fontWeight:normal"},{"offset":0,"length":117,"style":"textShadowBlur:8px"},{"offset":0,"length":117,"style":"fontFamily:Arial"},{"offset":0,"length":117,"style":"color:#060606"},{"offset":0,"length":117,"style":"backgroundColor:unset"},{"offset":0,"length":117,"style":"WebkitTextStrokeWidth:1px"},{"offset":0,"length":117,"style":"hlnkt:wp"},{"offset":0,"length":117,"style":"fontStyle:normal"},{"offset":0,"length":117,"style":"tablet-fontSize:20"},{"offset":0,"length":117,"style":"defaultTextStrokeWidth:1px"},{"offset":0,"length":117,"style":"WebkitTextStrokeColor:#F1EEE6"},{"offset":0,"length":117,"style":"textOutlineEnable:false"},{"offset":0,"length":117,"style":"opacity:1"},{"offset":0,"length":117,"style":"defaultTextStrokeColor:#F1EEE6"},{"offset":0,"length":117,"style":"hlnke:true"},{"offset":0,"length":117,"style":"defaultTextShadow:none"},{"offset":0,"length":117,"style":"textShadow:none"},{"offset":0,"length":117,"style":"mobile-fontSize:18"},{"offset":0,"length":117,"style":"textShadowX:0px"},{"offset":0,"length":117,"style":"fontStretch:normal"},{"offset":0,"length":117,"style":"fontType:regular"}],"entityRanges":[],"data":{"listDepth":"0","listColor":"#666666","verticalAlignMarginBottom":"0px","listIndent":"100%","overridden":"true","marginLeft":"0px","verticalAlignMarginTop":"auto","listType":"S_Bullets08","textAlign":"left","marginBottom":"0%","presetId":"text-body-2","listSize":"100%"}},{"key":"d842k","text":"","type":"unstyled","depth":0,"inlineStyleRanges":[],"entityRanges":[],"data":{"listDepth":"0","listColor":"#666666","verticalAlignMarginBottom":"0px","listIndent":"100%","overridden":"true","marginLeft":"0px","verticalAlignMarginTop":"auto","listType":"S_Bullets08","textAlign":"left","marginBottom":"0%","presetId":"text-body-2","listSize":"100%"}},{"key":"cak5b","text":"Then we’ll check the antora.yml (docs repo) in both branches to see and check the differences, and also modify the antora-playbook.yml  (docs generation repo) files to change what gets generated, and finally, kick off the generation of the training docs site. We’ll then look at what Antora has generated on the training docs site.","type":"unstyled","depth":0,"inlineStyleRanges":[{"offset":0,"length":331,"style":"textShadowX:0px"},{"offset":0,"length":331,"style":"fontStretch:normal"},{"offset":0,"length":331,"style":"fontType:regular"},{"offset":0,"length":331,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":331,"style":"textShadowY:4px"},{"offset":0,"length":331,"style":"letterSpacing:3%"},{"offset":0,"length":331,"style":"textShadowColor:#F1EEE61F"},{"offset":0,"length":331,"style":"textHighlightEnable:false"},{"offset":0,"length":331,"style":"textTransform:none"},{"offset":0,"length":331,"style":"textShadowOpacity:none"},{"offset":0,"length":331,"style":"overridden:true"},{"offset":0,"length":331,"style":"textDecoration:none"},{"offset":0,"length":331,"style":"lineHeight:130%"},{"offset":0,"length":331,"style":"borderBottomStyle:none"},{"offset":0,"length":331,"style":"desktop-fontSize:22"},{"offset":0,"length":331,"style":"textShadowEnable:false"},{"offset":0,"length":331,"style":"hlnk:"},{"offset":0,"length":331,"style":"fontWeight:normal"},{"offset":0,"length":331,"style":"textShadowBlur:8px"},{"offset":0,"length":331,"style":"fontFamily:Arial"},{"offset":0,"length":331,"style":"color:#060606"},{"offset":0,"length":331,"style":"backgroundColor:unset"},{"offset":0,"length":331,"style":"WebkitTextStrokeWidth:1px"},{"offset":0,"length":331,"style":"hlnkt:wp"},{"offset":0,"length":331,"style":"fontStyle:normal"},{"offset":0,"length":331,"style":"tablet-fontSize:20"},{"offset":0,"length":331,"style":"defaultTextStrokeWidth:1px"},{"offset":0,"length":331,"style":"WebkitTextStrokeColor:#F1EEE6"},{"offset":0,"length":331,"style":"textOutlineEnable:false"},{"offset":0,"length":331,"style":"opacity:1"},{"offset":0,"length":331,"style":"defaultTextStrokeColor:#F1EEE6"},{"offset":0,"length":331,"style":"hlnke:true"},{"offset":0,"length":331,"style":"defaultTextShadow:none"},{"offset":0,"length":331,"style":"textShadow:none"},{"offset":0,"length":331,"style":"mobile-fontSize:18"}],"entityRanges":[],"data":{"listDepth":"0","listColor":"#666666","verticalAlignMarginBottom":"0px","listIndent":"100%","overridden":"true","marginLeft":"0px","verticalAlignMarginTop":"auto","listType":"S_Bullets08","textAlign":"left","marginBottom":"0%","presetId":"text-body-2","listSize":"100%"}},{"key":"rp76","text":"","type":"unstyled","depth":0,"inlineStyleRanges":[],"entityRanges":[],"data":{"listDepth":"0","listColor":"#666666","verticalAlignMarginBottom":"0px","listIndent":"100%","overridden":"true","marginLeft":"0px","verticalAlignMarginTop":"auto","listType":"S_Bullets08","textAlign":"left","marginBottom":"0%","presetId":"text-body-2","listSize":"100%"}}],"entityMap":{}}',
 autoGrow:false,
 tbqt:0,
 trin:0,
@@ -185047,10 +185047,10 @@ vbwr:[-1,-1,2,2],
 vb:[-1,-1,2,2]
 },
 Slide22958:{
-lb:'Lesson 4 - Task 4 contued (2)',
+lb:'Lesson 4 - Task 4 continued (2)',
 id:22958,
-from:28327,
-to:28416,
+from:62545,
+to:62634,
 iols:0,
 i360qs:false,
 sdu:3,
@@ -185125,8 +185125,8 @@ visible:'1'
 si26314:{
 name:'Paragraph_96',
 type:1268,
-from:28417,
-to:28506,
+from:62635,
+to:62724,
 rp:0,
 rpa:0,
 mdi:'si26314c',
@@ -185293,8 +185293,8 @@ vb:[-1,-1,1,1]
 si26308:{
 name:'Paragraph_Group_46',
 type:1268,
-from:28417,
-to:28506,
+from:62635,
+to:62724,
 rp:0,
 rpa:0,
 mdi:'si26308c',
@@ -185466,8 +185466,8 @@ vb:[-1,-1,1,1]
 si26231:{
 name:'Text_406',
 type:1250,
-from:28417,
-to:28506,
+from:62635,
+to:62724,
 rp:0,
 rpa:0,
 mdi:'si26231c',
@@ -185497,7 +185497,7 @@ efph:{
 eflh:[],
 iflbx:false,
 ipflbx:true,
-text:'{"blocks":[{"key":"dro2e","text":"Task 4 continued","type":"unstyled","depth":0,"inlineStyleRanges":[{"offset":0,"length":16,"style":"hlnk:"},{"offset":0,"length":16,"style":"hlnkt:wp"},{"offset":0,"length":16,"style":"textOutlineEnable:false"},{"offset":0,"length":16,"style":"opacity:1"},{"offset":0,"length":16,"style":"hlnke:true"},{"offset":0,"length":16,"style":"backgroundColor:unset"},{"offset":0,"length":16,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":16,"style":"textHighlightEnable:false"},{"offset":0,"length":16,"style":"textShadowEnable:false"},{"offset":0,"length":16,"style":"overridden:false"}],"entityRanges":[],"data":{"presetId":"text-heading-3","listDepth":"0","listType":"S_Bullets08","listIndent":"100%","listSize":"100%","listColor":"#666666","overridden":"false"}}],"entityMap":{}}',
+text:'{"blocks":[{"key":"dro2e","text":"Task 4 continued (2)","type":"unstyled","depth":0,"inlineStyleRanges":[{"offset":0,"length":20,"style":"hlnk:"},{"offset":0,"length":20,"style":"hlnkt:wp"},{"offset":0,"length":20,"style":"textOutlineEnable:false"},{"offset":0,"length":20,"style":"opacity:1"},{"offset":0,"length":20,"style":"hlnke:true"},{"offset":0,"length":20,"style":"backgroundColor:unset"},{"offset":0,"length":20,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":20,"style":"textHighlightEnable:false"},{"offset":0,"length":20,"style":"textShadowEnable:false"},{"offset":0,"length":20,"style":"overridden:false"}],"entityRanges":[],"data":{"presetId":"text-heading-3","listDepth":"0","listType":"S_Bullets08","listIndent":"100%","listSize":"100%","listColor":"#666666","overridden":"false"}}],"entityMap":{}}',
 autoGrow:false,
 tbqt:0,
 trin:0,
@@ -185536,9 +185536,8 @@ lhID:-1,
 lvEID:0,
 lvV:'0.000%',
 lvID:-1,
-w:'0.103%',
-h:'auto',
-apr:'1.000',
+w:'0.073%',
+h:'0.130%',
 cah:false,
 cav:false,
 rpmm:{
@@ -185563,9 +185562,8 @@ lhID:-1,
 lvEID:0,
 lvV:'0.000%',
 lvID:-1,
-w:'0.103%',
-h:'auto',
-apr:'1.000',
+w:'0.073%',
+h:'0.130%',
 cah:false,
 cav:false,
 rpmm:{
@@ -185590,9 +185588,8 @@ lhID:-1,
 lvEID:0,
 lvV:'0.000%',
 lvID:-1,
-w:'0.103%',
-h:'auto',
-apr:'1.000',
+w:'0.073%',
+h:'0.130%',
 cah:false,
 cav:false,
 rpmm:{
@@ -185619,8 +185616,8 @@ vb:[-1,-1,2,2]
 si26251:{
 name:'Text_408',
 type:1250,
-from:28417,
-to:28506,
+from:62635,
+to:62724,
 rp:0,
 rpa:0,
 mdi:'si26251c',
@@ -185650,7 +185647,7 @@ efph:{
 eflh:[],
 iflbx:false,
 ipflbx:true,
-text:'{"blocks":[{"key":"avf4e","text":"What do we have so far:","type":"unstyled","depth":0,"inlineStyleRanges":[{"offset":0,"length":23,"style":"hlnke:true"},{"offset":0,"length":23,"style":"defaultTextShadow:none"},{"offset":0,"length":23,"style":"textShadow:none"},{"offset":0,"length":23,"style":"mobile-fontSize:18"},{"offset":0,"length":23,"style":"textShadowX:0px"},{"offset":0,"length":23,"style":"fontStretch:normal"},{"offset":0,"length":23,"style":"fontType:regular"},{"offset":0,"length":23,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":23,"style":"textShadowY:4px"},{"offset":0,"length":23,"style":"letterSpacing:3%"},{"offset":0,"length":23,"style":"textShadowColor:#F1EEE61F"},{"offset":0,"length":23,"style":"textHighlightEnable:false"},{"offset":0,"length":23,"style":"textTransform:none"},{"offset":0,"length":23,"style":"textShadowOpacity:none"},{"offset":0,"length":23,"style":"overridden:true"},{"offset":0,"length":23,"style":"textDecoration:none"},{"offset":0,"length":23,"style":"lineHeight:130%"},{"offset":0,"length":23,"style":"borderBottomStyle:none"},{"offset":0,"length":23,"style":"desktop-fontSize:22"},{"offset":0,"length":23,"style":"textShadowEnable:false"},{"offset":0,"length":23,"style":"hlnk:"},{"offset":0,"length":23,"style":"fontWeight:normal"},{"offset":0,"length":23,"style":"textShadowBlur:8px"},{"offset":0,"length":23,"style":"fontFamily:Arial"},{"offset":0,"length":23,"style":"color:#060606"},{"offset":0,"length":23,"style":"backgroundColor:unset"},{"offset":0,"length":23,"style":"WebkitTextStrokeWidth:1px"},{"offset":0,"length":23,"style":"hlnkt:wp"},{"offset":0,"length":23,"style":"fontStyle:normal"},{"offset":0,"length":23,"style":"tablet-fontSize:20"},{"offset":0,"length":23,"style":"defaultTextStrokeWidth:1px"},{"offset":0,"length":23,"style":"WebkitTextStrokeColor:#F1EEE6"},{"offset":0,"length":23,"style":"textOutlineEnable:false"},{"offset":0,"length":23,"style":"opacity:1"},{"offset":0,"length":23,"style":"defaultTextStrokeColor:#F1EEE6"}],"entityRanges":[],"data":{"listDepth":"0","listColor":"#666666","verticalAlignMarginBottom":"0px","listIndent":"100%","overridden":"true","marginLeft":"0px","verticalAlignMarginTop":"auto","listType":"S_Bullets08","textAlign":"left","marginBottom":"0%","presetId":"text-body-2","listSize":"100%"}},{"key":"7a3vn","text":"","type":"unstyled","depth":0,"inlineStyleRanges":[],"entityRanges":[],"data":{"listDepth":"0","listColor":"#666666","verticalAlignMarginBottom":"0px","listIndent":"100%","overridden":"true","marginLeft":"0px","verticalAlignMarginTop":"auto","listType":"S_Bullets08","textAlign":"left","marginBottom":"0%","presetId":"text-body-2","listSize":"100%"}},{"key":"4eg9h","text":"A branch v1.0.0 completed with the original documents:”yourname.adoc” (already merged, no new changes)","type":"unordered-list-item","depth":0,"inlineStyleRanges":[{"offset":0,"length":102,"style":"textOutlineEnable:false"},{"offset":0,"length":102,"style":"opacity:1"},{"offset":0,"length":102,"style":"defaultTextStrokeColor:#F1EEE6"},{"offset":0,"length":102,"style":"hlnke:true"},{"offset":0,"length":102,"style":"defaultTextShadow:none"},{"offset":0,"length":102,"style":"textShadow:none"},{"offset":0,"length":102,"style":"mobile-fontSize:18"},{"offset":0,"length":102,"style":"textShadowX:0px"},{"offset":0,"length":102,"style":"fontStretch:normal"},{"offset":0,"length":102,"style":"fontType:regular"},{"offset":0,"length":102,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":102,"style":"textShadowY:4px"},{"offset":0,"length":102,"style":"letterSpacing:3%"},{"offset":0,"length":102,"style":"textShadowColor:#F1EEE61F"},{"offset":0,"length":102,"style":"textHighlightEnable:false"},{"offset":0,"length":102,"style":"textTransform:none"},{"offset":0,"length":102,"style":"textShadowOpacity:none"},{"offset":0,"length":102,"style":"overridden:true"},{"offset":0,"length":102,"style":"textDecoration:none"},{"offset":0,"length":102,"style":"lineHeight:130%"},{"offset":0,"length":102,"style":"borderBottomStyle:none"},{"offset":0,"length":102,"style":"desktop-fontSize:22"},{"offset":0,"length":102,"style":"textShadowEnable:false"},{"offset":0,"length":102,"style":"hlnk:"},{"offset":0,"length":102,"style":"fontWeight:normal"},{"offset":0,"length":102,"style":"textShadowBlur:8px"},{"offset":0,"length":102,"style":"fontFamily:Arial"},{"offset":0,"length":102,"style":"color:#060606"},{"offset":0,"length":102,"style":"backgroundColor:unset"},{"offset":0,"length":102,"style":"WebkitTextStrokeWidth:1px"},{"offset":0,"length":102,"style":"hlnkt:wp"},{"offset":0,"length":102,"style":"fontStyle:normal"},{"offset":0,"length":102,"style":"tablet-fontSize:20"},{"offset":0,"length":102,"style":"defaultTextStrokeWidth:1px"},{"offset":0,"length":102,"style":"WebkitTextStrokeColor:#F1EEE6"}],"entityRanges":[],"data":{"listDepth":"0","listColor":"#666666","verticalAlignMarginBottom":"0px","listIndent":"100%","overridden":"true","marginLeft":"0px","verticalAlignMarginTop":"auto","listType":"S_Bullets08","textAlign":"left","marginBottom":"0%","presetId":"text-body-2","listSize":"100%"}},{"key":"46gs2","text":"A new v2.0.0 branch","type":"unordered-list-item","depth":0,"inlineStyleRanges":[{"offset":0,"length":19,"style":"hlnkt:wp"},{"offset":0,"length":19,"style":"fontStyle:normal"},{"offset":0,"length":19,"style":"tablet-fontSize:20"},{"offset":0,"length":19,"style":"defaultTextStrokeWidth:1px"},{"offset":0,"length":19,"style":"WebkitTextStrokeColor:#F1EEE6"},{"offset":0,"length":19,"style":"textOutlineEnable:false"},{"offset":0,"length":19,"style":"opacity:1"},{"offset":0,"length":19,"style":"defaultTextStrokeColor:#F1EEE6"},{"offset":0,"length":19,"style":"hlnke:true"},{"offset":0,"length":19,"style":"defaultTextShadow:none"},{"offset":0,"length":19,"style":"textShadow:none"},{"offset":0,"length":19,"style":"mobile-fontSize:18"},{"offset":0,"length":19,"style":"textShadowX:0px"},{"offset":0,"length":19,"style":"fontStretch:normal"},{"offset":0,"length":19,"style":"fontType:regular"},{"offset":0,"length":19,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":19,"style":"textShadowY:4px"},{"offset":0,"length":19,"style":"letterSpacing:3%"},{"offset":0,"length":19,"style":"textShadowColor:#F1EEE61F"},{"offset":0,"length":19,"style":"textHighlightEnable:false"},{"offset":0,"length":19,"style":"textTransform:none"},{"offset":0,"length":19,"style":"textShadowOpacity:none"},{"offset":0,"length":19,"style":"overridden:true"},{"offset":0,"length":19,"style":"textDecoration:none"},{"offset":0,"length":19,"style":"lineHeight:130%"},{"offset":0,"length":19,"style":"borderBottomStyle:none"},{"offset":0,"length":19,"style":"desktop-fontSize:22"},{"offset":0,"length":19,"style":"textShadowEnable:false"},{"offset":0,"length":19,"style":"hlnk:"},{"offset":0,"length":19,"style":"fontWeight:normal"},{"offset":0,"length":19,"style":"textShadowBlur:8px"},{"offset":0,"length":19,"style":"fontFamily:Arial"},{"offset":0,"length":19,"style":"color:#060606"},{"offset":0,"length":19,"style":"backgroundColor:unset"},{"offset":0,"length":19,"style":"WebkitTextStrokeWidth:1px"}],"entityRanges":[],"data":{"listDepth":"0","listColor":"#666666","verticalAlignMarginBottom":"0px","listIndent":"100%","overridden":"true","marginLeft":"0px","verticalAlignMarginTop":"auto","listType":"S_Bullets08","textAlign":"left","marginBottom":"0%","presetId":"text-body-2","listSize":"100%"}},{"key":"8ttq9","text":"","type":"unstyled","depth":0,"inlineStyleRanges":[],"entityRanges":[],"data":{"listDepth":"0","listColor":"#666666","verticalAlignMarginBottom":"0px","listIndent":"100%","overridden":"true","marginLeft":"0px","verticalAlignMarginTop":"auto","listType":"S_Bullets08","textAlign":"left","marginBottom":"0%","presetId":"text-body-2","listSize":"100%"}},{"key":"cak5b","text":"Check the antora.yml (docs repo) in both branches to see the differences, and also modify the antora-playbook.yml  (docs generation repo) file on sandbox-docs to change what gets generated, and finally, kick off the generation of the training docs site. We’ll then look at what Antora has generated on the training docs site.","type":"unstyled","depth":0,"inlineStyleRanges":[{"offset":0,"length":325,"style":"fontFamily:Arial"},{"offset":0,"length":325,"style":"color:#060606"},{"offset":0,"length":325,"style":"backgroundColor:unset"},{"offset":0,"length":325,"style":"WebkitTextStrokeWidth:1px"},{"offset":0,"length":325,"style":"hlnkt:wp"},{"offset":0,"length":325,"style":"fontStyle:normal"},{"offset":0,"length":325,"style":"tablet-fontSize:20"},{"offset":0,"length":325,"style":"defaultTextStrokeWidth:1px"},{"offset":0,"length":325,"style":"WebkitTextStrokeColor:#F1EEE6"},{"offset":0,"length":325,"style":"textOutlineEnable:false"},{"offset":0,"length":325,"style":"opacity:1"},{"offset":0,"length":325,"style":"defaultTextStrokeColor:#F1EEE6"},{"offset":0,"length":325,"style":"hlnke:true"},{"offset":0,"length":325,"style":"defaultTextShadow:none"},{"offset":0,"length":325,"style":"textShadow:none"},{"offset":0,"length":325,"style":"mobile-fontSize:18"},{"offset":0,"length":325,"style":"textShadowX:0px"},{"offset":0,"length":325,"style":"fontStretch:normal"},{"offset":0,"length":325,"style":"fontType:regular"},{"offset":0,"length":325,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":325,"style":"textShadowY:4px"},{"offset":0,"length":325,"style":"letterSpacing:3%"},{"offset":0,"length":325,"style":"textShadowColor:#F1EEE61F"},{"offset":0,"length":325,"style":"textHighlightEnable:false"},{"offset":0,"length":325,"style":"textTransform:none"},{"offset":0,"length":325,"style":"textShadowOpacity:none"},{"offset":0,"length":325,"style":"overridden:true"},{"offset":0,"length":325,"style":"textDecoration:none"},{"offset":0,"length":325,"style":"lineHeight:130%"},{"offset":0,"length":325,"style":"borderBottomStyle:none"},{"offset":0,"length":325,"style":"desktop-fontSize:22"},{"offset":0,"length":325,"style":"textShadowEnable:false"},{"offset":0,"length":325,"style":"hlnk:"},{"offset":0,"length":325,"style":"fontWeight:normal"},{"offset":0,"length":325,"style":"textShadowBlur:8px"}],"entityRanges":[],"data":{"listDepth":"0","listColor":"#666666","verticalAlignMarginBottom":"0px","listIndent":"100%","overridden":"true","marginLeft":"0px","verticalAlignMarginTop":"auto","listType":"S_Bullets08","textAlign":"left","marginBottom":"0%","presetId":"text-body-2","listSize":"100%"}}],"entityMap":{}}',
+text:'{"blocks":[{"key":"avf4e","text":"What are we left with, branch-wise? Let’s clean up the repository by deleting the merged “new_yourname2” branches.","type":"unstyled","depth":0,"inlineStyleRanges":[{"offset":0,"length":114,"style":"fontType:regular"},{"offset":0,"length":114,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":114,"style":"textShadowY:4px"},{"offset":0,"length":114,"style":"letterSpacing:3%"},{"offset":0,"length":114,"style":"textShadowColor:#F1EEE61F"},{"offset":0,"length":114,"style":"textHighlightEnable:false"},{"offset":0,"length":114,"style":"textTransform:none"},{"offset":0,"length":114,"style":"textShadowOpacity:none"},{"offset":0,"length":114,"style":"overridden:true"},{"offset":0,"length":114,"style":"textDecoration:none"},{"offset":0,"length":114,"style":"lineHeight:130%"},{"offset":0,"length":114,"style":"borderBottomStyle:none"},{"offset":0,"length":114,"style":"desktop-fontSize:22"},{"offset":0,"length":114,"style":"textShadowEnable:false"},{"offset":0,"length":114,"style":"hlnk:"},{"offset":0,"length":114,"style":"fontWeight:normal"},{"offset":0,"length":114,"style":"textShadowBlur:8px"},{"offset":0,"length":114,"style":"fontFamily:Arial"},{"offset":0,"length":114,"style":"color:#060606"},{"offset":0,"length":114,"style":"backgroundColor:unset"},{"offset":0,"length":114,"style":"WebkitTextStrokeWidth:1px"},{"offset":0,"length":114,"style":"hlnkt:wp"},{"offset":0,"length":114,"style":"fontStyle:normal"},{"offset":0,"length":114,"style":"tablet-fontSize:20"},{"offset":0,"length":114,"style":"defaultTextStrokeWidth:1px"},{"offset":0,"length":114,"style":"WebkitTextStrokeColor:#F1EEE6"},{"offset":0,"length":114,"style":"textOutlineEnable:false"},{"offset":0,"length":114,"style":"opacity:1"},{"offset":0,"length":114,"style":"defaultTextStrokeColor:#F1EEE6"},{"offset":0,"length":114,"style":"hlnke:true"},{"offset":0,"length":114,"style":"defaultTextShadow:none"},{"offset":0,"length":114,"style":"textShadow:none"},{"offset":0,"length":114,"style":"mobile-fontSize:18"},{"offset":0,"length":114,"style":"textShadowX:0px"},{"offset":0,"length":114,"style":"fontStretch:normal"}],"entityRanges":[],"data":{"listDepth":"0","listColor":"#666666","verticalAlignMarginBottom":"0px","listIndent":"100%","overridden":"true","marginLeft":"0px","verticalAlignMarginTop":"auto","listType":"S_Bullets08","textAlign":"left","marginBottom":"0%","presetId":"text-body-2","listSize":"100%"}},{"key":"a1n4l","text":"","type":"unstyled","depth":0,"inlineStyleRanges":[],"entityRanges":[],"data":{"listDepth":"0","listColor":"#666666","verticalAlignMarginBottom":"0px","listIndent":"100%","overridden":"true","marginLeft":"0px","verticalAlignMarginTop":"auto","listType":"S_Bullets08","textAlign":"left","marginBottom":"0%","presetId":"text-body-2","listSize":"100%"}},{"key":"40ka8","text":"What do we have so far:","type":"unstyled","depth":0,"inlineStyleRanges":[{"offset":0,"length":23,"style":"mobile-fontSize:18"},{"offset":0,"length":23,"style":"textShadowX:0px"},{"offset":0,"length":23,"style":"fontStretch:normal"},{"offset":0,"length":23,"style":"fontType:regular"},{"offset":0,"length":23,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":23,"style":"textShadowY:4px"},{"offset":0,"length":23,"style":"letterSpacing:3%"},{"offset":0,"length":23,"style":"textShadowColor:#F1EEE61F"},{"offset":0,"length":23,"style":"textHighlightEnable:false"},{"offset":0,"length":23,"style":"textTransform:none"},{"offset":0,"length":23,"style":"textShadowOpacity:none"},{"offset":0,"length":23,"style":"overridden:true"},{"offset":0,"length":23,"style":"textDecoration:none"},{"offset":0,"length":23,"style":"lineHeight:130%"},{"offset":0,"length":23,"style":"borderBottomStyle:none"},{"offset":0,"length":23,"style":"desktop-fontSize:22"},{"offset":0,"length":23,"style":"textShadowEnable:false"},{"offset":0,"length":23,"style":"hlnk:"},{"offset":0,"length":23,"style":"fontWeight:normal"},{"offset":0,"length":23,"style":"textShadowBlur:8px"},{"offset":0,"length":23,"style":"fontFamily:Arial"},{"offset":0,"length":23,"style":"color:#060606"},{"offset":0,"length":23,"style":"backgroundColor:unset"},{"offset":0,"length":23,"style":"WebkitTextStrokeWidth:1px"},{"offset":0,"length":23,"style":"hlnkt:wp"},{"offset":0,"length":23,"style":"fontStyle:normal"},{"offset":0,"length":23,"style":"tablet-fontSize:20"},{"offset":0,"length":23,"style":"defaultTextStrokeWidth:1px"},{"offset":0,"length":23,"style":"WebkitTextStrokeColor:#F1EEE6"},{"offset":0,"length":23,"style":"textOutlineEnable:false"},{"offset":0,"length":23,"style":"opacity:1"},{"offset":0,"length":23,"style":"defaultTextStrokeColor:#F1EEE6"},{"offset":0,"length":23,"style":"hlnke:true"},{"offset":0,"length":23,"style":"defaultTextShadow:none"},{"offset":0,"length":23,"style":"textShadow:none"}],"entityRanges":[],"data":{"listDepth":"0","listColor":"#666666","verticalAlignMarginBottom":"0px","listIndent":"100%","overridden":"true","marginLeft":"0px","verticalAlignMarginTop":"auto","listType":"S_Bullets08","textAlign":"left","marginBottom":"0%","presetId":"text-body-2","listSize":"100%"}},{"key":"7a3vn","text":"","type":"unstyled","depth":0,"inlineStyleRanges":[],"entityRanges":[],"data":{"listDepth":"0","listColor":"#666666","verticalAlignMarginBottom":"0px","listIndent":"100%","overridden":"true","marginLeft":"0px","verticalAlignMarginTop":"auto","listType":"S_Bullets08","textAlign":"left","marginBottom":"0%","presetId":"text-body-2","listSize":"100%"}},{"key":"4eg9h","text":"A branch v1.0.0 completed with the original documents:”yourname.adoc” (already merged, no new changes)","type":"unordered-list-item","depth":0,"inlineStyleRanges":[{"offset":0,"length":102,"style":"hlnke:true"},{"offset":0,"length":102,"style":"defaultTextShadow:none"},{"offset":0,"length":102,"style":"textShadow:none"},{"offset":0,"length":102,"style":"mobile-fontSize:18"},{"offset":0,"length":102,"style":"textShadowX:0px"},{"offset":0,"length":102,"style":"fontStretch:normal"},{"offset":0,"length":102,"style":"fontType:regular"},{"offset":0,"length":102,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":102,"style":"textShadowY:4px"},{"offset":0,"length":102,"style":"letterSpacing:3%"},{"offset":0,"length":102,"style":"textShadowColor:#F1EEE61F"},{"offset":0,"length":102,"style":"textHighlightEnable:false"},{"offset":0,"length":102,"style":"textTransform:none"},{"offset":0,"length":102,"style":"textShadowOpacity:none"},{"offset":0,"length":102,"style":"overridden:true"},{"offset":0,"length":102,"style":"textDecoration:none"},{"offset":0,"length":102,"style":"lineHeight:130%"},{"offset":0,"length":102,"style":"borderBottomStyle:none"},{"offset":0,"length":102,"style":"desktop-fontSize:22"},{"offset":0,"length":102,"style":"textShadowEnable:false"},{"offset":0,"length":102,"style":"hlnk:"},{"offset":0,"length":102,"style":"fontWeight:normal"},{"offset":0,"length":102,"style":"textShadowBlur:8px"},{"offset":0,"length":102,"style":"fontFamily:Arial"},{"offset":0,"length":102,"style":"color:#060606"},{"offset":0,"length":102,"style":"WebkitTextStrokeWidth:1px"},{"offset":0,"length":102,"style":"backgroundColor:unset"},{"offset":0,"length":102,"style":"fontStyle:normal"},{"offset":0,"length":102,"style":"hlnkt:wp"},{"offset":0,"length":102,"style":"defaultTextStrokeWidth:1px"},{"offset":0,"length":102,"style":"tablet-fontSize:20"},{"offset":0,"length":102,"style":"WebkitTextStrokeColor:#F1EEE6"},{"offset":0,"length":102,"style":"textOutlineEnable:false"},{"offset":0,"length":102,"style":"opacity:1"},{"offset":0,"length":102,"style":"defaultTextStrokeColor:#F1EEE6"}],"entityRanges":[],"data":{"listDepth":"0","listColor":"#666666","verticalAlignMarginBottom":"0px","listIndent":"100%","overridden":"true","marginLeft":"0px","verticalAlignMarginTop":"auto","listType":"S_Bullets08","textAlign":"left","marginBottom":"0%","presetId":"text-body-2","listSize":"100%"}},{"key":"46gs2","text":"A new v2.0.0 branch","type":"unordered-list-item","depth":0,"inlineStyleRanges":[{"offset":0,"length":19,"style":"textOutlineEnable:false"},{"offset":0,"length":19,"style":"opacity:1"},{"offset":0,"length":19,"style":"defaultTextStrokeColor:#F1EEE6"},{"offset":0,"length":19,"style":"hlnke:true"},{"offset":0,"length":19,"style":"defaultTextShadow:none"},{"offset":0,"length":19,"style":"textShadow:none"},{"offset":0,"length":19,"style":"mobile-fontSize:18"},{"offset":0,"length":19,"style":"textShadowX:0px"},{"offset":0,"length":19,"style":"fontStretch:normal"},{"offset":0,"length":19,"style":"fontType:regular"},{"offset":0,"length":19,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":19,"style":"textShadowY:4px"},{"offset":0,"length":19,"style":"letterSpacing:3%"},{"offset":0,"length":19,"style":"textShadowColor:#F1EEE61F"},{"offset":0,"length":19,"style":"textHighlightEnable:false"},{"offset":0,"length":19,"style":"textTransform:none"},{"offset":0,"length":19,"style":"textShadowOpacity:none"},{"offset":0,"length":19,"style":"overridden:true"},{"offset":0,"length":19,"style":"textDecoration:none"},{"offset":0,"length":19,"style":"lineHeight:130%"},{"offset":0,"length":19,"style":"borderBottomStyle:none"},{"offset":0,"length":19,"style":"desktop-fontSize:22"},{"offset":0,"length":19,"style":"textShadowEnable:false"},{"offset":0,"length":19,"style":"hlnk:"},{"offset":0,"length":19,"style":"fontWeight:normal"},{"offset":0,"length":19,"style":"textShadowBlur:8px"},{"offset":0,"length":19,"style":"fontFamily:Arial"},{"offset":0,"length":19,"style":"color:#060606"},{"offset":0,"length":19,"style":"backgroundColor:unset"},{"offset":0,"length":19,"style":"WebkitTextStrokeWidth:1px"},{"offset":0,"length":19,"style":"hlnkt:wp"},{"offset":0,"length":19,"style":"fontStyle:normal"},{"offset":0,"length":19,"style":"tablet-fontSize:20"},{"offset":0,"length":19,"style":"defaultTextStrokeWidth:1px"},{"offset":0,"length":19,"style":"WebkitTextStrokeColor:#F1EEE6"}],"entityRanges":[],"data":{"listDepth":"0","listColor":"#666666","verticalAlignMarginBottom":"0px","listIndent":"100%","overridden":"true","marginLeft":"0px","verticalAlignMarginTop":"auto","listType":"S_Bullets08","textAlign":"left","marginBottom":"0%","presetId":"text-body-2","listSize":"100%"}},{"key":"8ttq9","text":"","type":"unstyled","depth":0,"inlineStyleRanges":[],"entityRanges":[],"data":{"listDepth":"0","listColor":"#666666","verticalAlignMarginBottom":"0px","listIndent":"100%","overridden":"true","marginLeft":"0px","verticalAlignMarginTop":"auto","listType":"S_Bullets08","textAlign":"left","marginBottom":"0%","presetId":"text-body-2","listSize":"100%"}},{"key":"cak5b","text":"Check the antora.yml (docs repo) in both branches to see the differences, and also modify the antora-playbook.yml  (docs generation repo) file on sandbox-docs to change what gets generated, and finally, kick off the generation of the training docs site. Then look at what Antora has generated on the training docs site.","type":"unstyled","depth":0,"inlineStyleRanges":[{"offset":0,"length":319,"style":"hlnkt:wp"},{"offset":0,"length":319,"style":"fontStyle:normal"},{"offset":0,"length":319,"style":"tablet-fontSize:20"},{"offset":0,"length":319,"style":"defaultTextStrokeWidth:1px"},{"offset":0,"length":319,"style":"WebkitTextStrokeColor:#F1EEE6"},{"offset":0,"length":319,"style":"textOutlineEnable:false"},{"offset":0,"length":319,"style":"opacity:1"},{"offset":0,"length":319,"style":"defaultTextStrokeColor:#F1EEE6"},{"offset":0,"length":319,"style":"hlnke:true"},{"offset":0,"length":319,"style":"defaultTextShadow:none"},{"offset":0,"length":319,"style":"textShadow:none"},{"offset":0,"length":319,"style":"mobile-fontSize:18"},{"offset":0,"length":319,"style":"textShadowX:0px"},{"offset":0,"length":319,"style":"fontStretch:normal"},{"offset":0,"length":319,"style":"fontType:regular"},{"offset":0,"length":319,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":319,"style":"textShadowY:4px"},{"offset":0,"length":319,"style":"letterSpacing:3%"},{"offset":0,"length":319,"style":"textShadowColor:#F1EEE61F"},{"offset":0,"length":319,"style":"textHighlightEnable:false"},{"offset":0,"length":319,"style":"textTransform:none"},{"offset":0,"length":319,"style":"textShadowOpacity:none"},{"offset":0,"length":319,"style":"overridden:true"},{"offset":0,"length":319,"style":"textDecoration:none"},{"offset":0,"length":319,"style":"lineHeight:130%"},{"offset":0,"length":319,"style":"borderBottomStyle:none"},{"offset":0,"length":319,"style":"desktop-fontSize:22"},{"offset":0,"length":319,"style":"textShadowEnable:false"},{"offset":0,"length":319,"style":"hlnk:"},{"offset":0,"length":319,"style":"fontWeight:normal"},{"offset":0,"length":319,"style":"textShadowBlur:8px"},{"offset":0,"length":319,"style":"fontFamily:Arial"},{"offset":0,"length":319,"style":"color:#060606"},{"offset":0,"length":319,"style":"backgroundColor:unset"},{"offset":0,"length":319,"style":"WebkitTextStrokeWidth:1px"}],"entityRanges":[],"data":{"listDepth":"0","listColor":"#666666","verticalAlignMarginBottom":"0px","listIndent":"100%","overridden":"true","marginLeft":"0px","verticalAlignMarginTop":"auto","listType":"S_Bullets08","textAlign":"left","marginBottom":"0%","presetId":"text-body-2","listSize":"100%"}}],"entityMap":{}}',
 autoGrow:false,
 tbqt:0,
 trin:0,
@@ -185772,8 +185769,8 @@ vb:[-1,-1,2,2]
 Slide26196:{
 lb:'Lesson 4 - Task 4  continued (3)',
 id:26196,
-from:28417,
-to:28506,
+from:62635,
+to:62724,
 iols:0,
 i360qs:false,
 sdu:3,
@@ -188678,7 +188675,7 @@ vt:9
 var352var352:{
 vid:352,
 name:'Project.ShowTOC',
-vv:0,
+vv:1,
 vvt:0,
 vt:9
 },
@@ -189004,7 +189001,7 @@ dsType:1,
 dsWidth:100
 }
 ,
-slideAudios:'StAd4,StAd5',
+slideAudios:'StAd8,StAd9',
 vestr:0,
 vim:0,
 slides:'Slide26930,Slide388,Slide1057,Slide686,Slide1242,Slide1448,Slide1706,Slide1891,Slide2076,Slide32369,Slide3464,Slide33262,Slide4725,Slide5095,Slide5280,Slide6658,Slide28943,Slide7232,Slide24951,Slide8216,Slide25161,Slide30288,Slide25277,Slide8718,Slide29047,Slide9104,Slide9430,Slide9694,Slide30487,Slide10080,Slide10278,Slide30673,Slide10990,Slide30953,Slide31139,Slide12258,Slide13242,Slide14372,Slide15352,Slide16314,Slide17270,Slide28727,Slide17656,Slide17962,Slide18354,Slide19406,Slide19710,Slide31526,Slide20130,Slide20528,Slide20832,Slide31726,Slide21030,Slide32030,Slide21228,Slide22126,Slide22330,Slide32149,Slide22528,Slide32362,Slide22726,Slide22842,Slide22958,Slide26196,Slide23074',
@@ -189046,7 +189043,7 @@ locale:0
 },
 tocProperties:{
 enableNavigation:true,
-tocProperties:'{"tocConfig":{"labels":{"TITLE":"Table of Contents","SLIDE_DETAILS":"SLIDE TITLE","DURATION":"DURATION","CLOSE_BUTTON_LABEL":"Close"},"slideDetails":[{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":388,"isQuizSlide":false,"label":"Welcome to the Course","slideVisited":false,"type":"slide","id":"Slide388"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":686,"isQuizSlide":false,"label":"Contents","slideVisited":false,"type":"slide","id":"Slide686"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":1057,"isQuizSlide":false,"label":"Course Overview","slideVisited":false,"type":"slide","id":"Slide1057"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":1242,"isQuizSlide":false,"label":"Course Prerequisites","slideVisited":false,"type":"slide","id":"Slide1242"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":1448,"isQuizSlide":false,"label":"Prerequisites - Install Git","slideVisited":false,"type":"slide","id":"Slide1448"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":1706,"isQuizSlide":false,"label":"Prerequisites - Internet Proxy","slideVisited":false,"type":"slide","id":"Slide1706"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":1891,"isQuizSlide":false,"label":"Prerequisites - Clone Repositories","slideVisited":false,"type":"slide","id":"Slide1891"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":2076,"isQuizSlide":false,"label":"Prerequisites -Visual Studio Code","slideVisited":false,"type":"slide","id":"Slide2076"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":3464,"isQuizSlide":false,"label":"Prerequisites - Open VSC","slideVisited":false,"type":"slide","id":"Slide3464"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":4725,"isQuizSlide":false,"label":"Prerequisites - node_js","slideVisited":false,"type":"slide","id":"Slide4725"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":5095,"isQuizSlide":false,"label":"Prerequisites - Proxy for NPM","slideVisited":false,"type":"slide","id":"Slide5095"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":5280,"isQuizSlide":false,"label":"Prerequisites - Antora","slideVisited":false,"type":"slide","id":"Slide5280"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":6658,"isQuizSlide":false,"label":"Lesson 1 - Learning Objectives","slideVisited":false,"type":"slide","id":"Slide6658"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":7232,"isQuizSlide":false,"label":"Lesson 1 - Docs change process","slideVisited":false,"type":"slide","id":"Slide7232"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":24951,"isQuizSlide":false,"label":"Lesson 1 - Docs change process transcript","slideVisited":false,"type":"slide","id":"Slide24951"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":8216,"isQuizSlide":false,"label":"Lesson 1 - OP-TED Docs Repositories","slideVisited":false,"type":"slide","id":"Slide8216"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":25161,"isQuizSlide":false,"label":"Lesson 1 - OP-TED Docs Repositories Transcript","slideVisited":false,"type":"slide","id":"Slide25161"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":25277,"isQuizSlide":false,"label":"Lesson 1 - The Antora Engine Transcript","slideVisited":false,"type":"slide","id":"Slide25277"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":8718,"isQuizSlide":false,"label":"Lesson 1 - Branches and Versions","slideVisited":false,"type":"slide","id":"Slide8718"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":9104,"isQuizSlide":false,"label":"Lesson 1 - Tools used","slideVisited":false,"type":"slide","id":"Slide9104"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":9430,"isQuizSlide":false,"label":"Lesson 1 - Wrap","slideVisited":false,"type":"slide","id":"Slide9430"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":9694,"isQuizSlide":false,"label":"Lesson 2 - Learning Objectives","slideVisited":false,"type":"slide","id":"Slide9694"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":10080,"isQuizSlide":false,"label":"Lesson 2 - Jira Tickets","slideVisited":false,"type":"slide","id":"Slide10080"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":10278,"isQuizSlide":false,"label":"Lesson 2 - GitHub Issues","slideVisited":false,"type":"slide","id":"Slide10278"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":10990,"isQuizSlide":false,"label":"Lesson 2 - Branches continued","slideVisited":false,"type":"slide","id":"Slide10990"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":12258,"isQuizSlide":false,"label":"Lesson 2 - Cloning a Repository","slideVisited":false,"type":"slide","id":"Slide12258"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":13242,"isQuizSlide":false,"label":"Lesson 2 - Working on a Previously Cloned Repository","slideVisited":false,"type":"slide","id":"Slide13242"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":14372,"isQuizSlide":false,"label":"Lesson 2 - Create a new branch from","slideVisited":false,"type":"slide","id":"Slide14372"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":15352,"isQuizSlide":false,"label":"Lesson 2 - viewing changes locally","slideVisited":false,"type":"slide","id":"Slide15352"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":16314,"isQuizSlide":false,"label":"Lesson 2 - Commiting and Pushing Changes to GitHub","slideVisited":false,"type":"slide","id":"Slide16314"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":17270,"isQuizSlide":false,"label":"Lesson 2 - Generating Changes on a Staging Site","slideVisited":false,"type":"slide","id":"Slide17270"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":17656,"isQuizSlide":false,"label":"Lesson 2 - Wrap","slideVisited":false,"type":"slide","id":"Slide17656"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":17962,"isQuizSlide":false,"label":"Lesson 3 - Learning Objectives","slideVisited":false,"type":"slide","id":"Slide17962"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":18354,"isQuizSlide":false,"label":"Lesson 3 - Antora Page Elements","slideVisited":false,"type":"slide","id":"Slide18354"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":19406,"isQuizSlide":false,"label":"Lesson 3 - Antora Raw File Structure","slideVisited":false,"type":"slide","id":"Slide19406"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":19710,"isQuizSlide":false,"label":"Lesson 3 - Antora_ Important Files","slideVisited":false,"type":"slide","id":"Slide19710"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":20130,"isQuizSlide":false,"label":"Lesson 3 - Asciidoc Formatting","slideVisited":false,"type":"slide","id":"Slide20130"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":20528,"isQuizSlide":false,"label":"Lesson 3 - Antora interpage Links","slideVisited":false,"type":"slide","id":"Slide20528"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":20832,"isQuizSlide":false,"label":"Lesson 3 - Making Content Visible","slideVisited":false,"type":"slide","id":"Slide20832"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":21030,"isQuizSlide":false,"label":"Lesson 3 - Finalising Changes","slideVisited":false,"type":"slide","id":"Slide21030"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":21228,"isQuizSlide":false,"label":"Lesson 3 - Wrap","slideVisited":false,"type":"slide","id":"Slide21228"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":22126,"isQuizSlide":false,"label":"Lesson 4 - Learning Objectives","slideVisited":false,"type":"slide","id":"Slide22126"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":22330,"isQuizSlide":false,"label":"Lesson 4 - Task 1","slideVisited":false,"type":"slide","id":"Slide22330"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":22528,"isQuizSlide":false,"label":"Lesson 4 - Task 2","slideVisited":false,"type":"slide","id":"Slide22528"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":22726,"isQuizSlide":false,"label":"Lesson 4 - Task 3","slideVisited":false,"type":"slide","id":"Slide22726"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":22842,"isQuizSlide":false,"label":"Lesson 4 - Task 4","slideVisited":false,"type":"slide","id":"Slide22842"},{"parentId":null,"isVisible":false,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":22958,"isQuizSlide":false,"label":"Lesson 4 - Task 4 contued (2)","slideVisited":false,"type":"slide","id":"Slide22958"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":26196,"isQuizSlide":false,"label":"Lesson 4 - Task 4  continued (3)","slideVisited":false,"type":"slide","id":"Slide26196"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":23074,"isQuizSlide":false,"label":"Lesson 4 - Wrap","slideVisited":false,"type":"slide","id":"Slide23074"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":26930,"isQuizSlide":false,"label":"Blank 1","slideVisited":false,"type":"slide","id":"Slide26930"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":28943,"isQuizSlide":false,"label":"Lesson 1 - Learning Outcomes","slideVisited":false,"type":"slide","id":"Slide28943"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":30288,"isQuizSlide":false,"label":"Lesson 1 - The Antora Engine","slideVisited":false,"type":"slide","id":"Slide30288"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":29047,"isQuizSlide":false,"label":"Lesson 1 - Permissions","slideVisited":false,"type":"slide","id":"Slide29047"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":30487,"isQuizSlide":false,"label":"Lesson 2 - Learning Outcomes","slideVisited":false,"type":"slide","id":"Slide30487"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":30673,"isQuizSlide":false,"label":"Lesson 2 - Branches","slideVisited":false,"type":"slide","id":"Slide30673"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":30953,"isQuizSlide":false,"label":"Lesson 2 - Branches continued (2)","slideVisited":false,"type":"slide","id":"Slide30953"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":31139,"isQuizSlide":false,"label":"Lesson 2 - Branches_ continued (3)","slideVisited":false,"type":"slide","id":"Slide31139"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":28727,"isQuizSlide":false,"label":"Lesson 2 - Generating Changes on a Staging Site_ cint","slideVisited":false,"type":"slide","id":"Slide28727"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":31526,"isQuizSlide":false,"label":"Lesson 3 - How Antora generates components","slideVisited":false,"type":"slide","id":"Slide31526"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":31726,"isQuizSlide":false,"label":"Lesson 3 - Making Content visible_ continued","slideVisited":false,"type":"slide","id":"Slide31726"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":32030,"isQuizSlide":false,"label":"Lesson 3 - Finalising Changes - 1","slideVisited":false,"type":"slide","id":"Slide32030"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":32149,"isQuizSlide":false,"label":"Lesson 4 - Task 1 continued","slideVisited":false,"type":"slide","id":"Slide32149"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":32362,"isQuizSlide":false,"label":"Lesson 4 - Task 2 continued","slideVisited":false,"type":"slide","id":"Slide32362"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":32369,"isQuizSlide":false,"label":"Prerequisites - VSC Live Server Extension","slideVisited":false,"type":"slide","id":"Slide32369"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":33262,"isQuizSlide":false,"label":"Blank 2","slideVisited":false,"type":"slide","id":"Slide33262"}],"tocGeneratedOnPreviewClick":false,"preserveSlidesOrder":false},"playbarConfig":{"isPlaybarControlsPlayEnabled":true,"isPlaybarControlsNextEnabled":true,"isPlaybarControlsTOCEnabled":true,"isShowPlaybarEnabled":true,"isShowTooltipsEnabled":false,"isPlaybarControlsBackEnabled":true,"isHidePlaybarInQuizEnabled":false,"isPlaybarControlsMuteEnabled":false,"isPlaybarControlsClosedCaptionsEnabled":false}}'
+tocProperties:'{"tocConfig":{"labels":{"TITLE":"Table of Contents","SLIDE_DETAILS":"SLIDE TITLE","DURATION":"DURATION","CLOSE_BUTTON_LABEL":"Close"},"slideDetails":[{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":26930,"isQuizSlide":false,"label":"Course title","slideVisited":false,"type":"slide","id":"Slide26930"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":388,"isQuizSlide":false,"label":"Welcome to the course","slideVisited":false,"type":"slide","id":"Slide388"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":1057,"isQuizSlide":false,"label":"Course overview","slideVisited":false,"type":"slide","id":"Slide1057"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":686,"isQuizSlide":false,"label":"Contents","slideVisited":false,"type":"slide","id":"Slide686"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":1242,"isQuizSlide":false,"label":"Course prerequisites","slideVisited":false,"type":"slide","id":"Slide1242"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":1448,"isQuizSlide":false,"label":"Prerequisites - install Git","slideVisited":false,"type":"slide","id":"Slide1448"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":1706,"isQuizSlide":false,"label":"Prerequisites - internet proxy","slideVisited":false,"type":"slide","id":"Slide1706"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":1891,"isQuizSlide":false,"label":"Prerequisites - clone repositories","slideVisited":false,"type":"slide","id":"Slide1891"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":2076,"isQuizSlide":false,"label":"Prerequisites -visual studio code","slideVisited":false,"type":"slide","id":"Slide2076"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":32369,"isQuizSlide":false,"label":"Prerequisites - VSC live server Extension","slideVisited":false,"type":"slide","id":"Slide32369"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":3464,"isQuizSlide":false,"label":"Prerequisites - Open VSC","slideVisited":false,"type":"slide","id":"Slide3464"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":33262,"isQuizSlide":false,"label":"Prerequisites - Inside vsc","slideVisited":false,"type":"slide","id":"Slide33262"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":4725,"isQuizSlide":false,"label":"Prerequisites - node_js","slideVisited":false,"type":"slide","id":"Slide4725"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":5095,"isQuizSlide":false,"label":"Prerequisites - Proxy for NPM","slideVisited":false,"type":"slide","id":"Slide5095"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":5280,"isQuizSlide":false,"label":"Prerequisites - Antora","slideVisited":false,"type":"slide","id":"Slide5280"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":6658,"isQuizSlide":false,"label":"Lesson 1 - Learning objectives","slideVisited":false,"type":"slide","id":"Slide6658"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":28943,"isQuizSlide":false,"label":"Lesson 1 - Learning outcomes","slideVisited":false,"type":"slide","id":"Slide28943"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":7232,"isQuizSlide":false,"label":"Lesson 1 - Docs change process","slideVisited":false,"type":"slide","id":"Slide7232"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":24951,"isQuizSlide":false,"label":"Lesson 1 - Docs change process transcript","slideVisited":false,"type":"slide","id":"Slide24951"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":8216,"isQuizSlide":false,"label":"Lesson 1 - OP-TED Docs repositories","slideVisited":false,"type":"slide","id":"Slide8216"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":25161,"isQuizSlide":false,"label":"Lesson 1 - OP-TED Docs repositories Transcript","slideVisited":false,"type":"slide","id":"Slide25161"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":30288,"isQuizSlide":false,"label":"Lesson 1 -  Antora engine","slideVisited":false,"type":"slide","id":"Slide30288"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":25277,"isQuizSlide":false,"label":"Lesson 1 - Antora engine transcript","slideVisited":false,"type":"slide","id":"Slide25277"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":8718,"isQuizSlide":false,"label":"Lesson 1 - Branches and versions","slideVisited":false,"type":"slide","id":"Slide8718"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":29047,"isQuizSlide":false,"label":"Lesson 1 - Permissions","slideVisited":false,"type":"slide","id":"Slide29047"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":9104,"isQuizSlide":false,"label":"Lesson 1 - Tools used","slideVisited":false,"type":"slide","id":"Slide9104"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":9430,"isQuizSlide":false,"label":"Lesson 1 - Wrap","slideVisited":false,"type":"slide","id":"Slide9430"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":9694,"isQuizSlide":false,"label":"Lesson 2 - Learning objectives","slideVisited":false,"type":"slide","id":"Slide9694"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":30487,"isQuizSlide":false,"label":"Lesson 2 - Learning outcomes","slideVisited":false,"type":"slide","id":"Slide30487"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":10080,"isQuizSlide":false,"label":"Lesson 2 - Jira tickets","slideVisited":false,"type":"slide","id":"Slide10080"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":10278,"isQuizSlide":false,"label":"Lesson 2 - GitHub issues","slideVisited":false,"type":"slide","id":"Slide10278"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":30673,"isQuizSlide":false,"label":"Lesson 2 - Branches","slideVisited":false,"type":"slide","id":"Slide30673"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":10990,"isQuizSlide":false,"label":"Lesson 2 - Branches continued","slideVisited":false,"type":"slide","id":"Slide10990"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":30953,"isQuizSlide":false,"label":"Lesson 2 - Branches continued (2)","slideVisited":false,"type":"slide","id":"Slide30953"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":31139,"isQuizSlide":false,"label":"Lesson 2 - Branches_ continued (3)","slideVisited":false,"type":"slide","id":"Slide31139"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":12258,"isQuizSlide":false,"label":"Lesson 2 - Cloning a repository","slideVisited":false,"type":"slide","id":"Slide12258"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":13242,"isQuizSlide":false,"label":"Lesson 2 - Working on a previously Cloned Repository","slideVisited":false,"type":"slide","id":"Slide13242"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":14372,"isQuizSlide":false,"label":"Lesson 2 - Create a new branch from","slideVisited":false,"type":"slide","id":"Slide14372"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":15352,"isQuizSlide":false,"label":"Lesson 2 - Viewing changes locally","slideVisited":false,"type":"slide","id":"Slide15352"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":16314,"isQuizSlide":false,"label":"Lesson 2 - Commiting and pushing changes to GitHub","slideVisited":false,"type":"slide","id":"Slide16314"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":17270,"isQuizSlide":false,"label":"Lesson 2 - Generating changes on a Staging Site","slideVisited":false,"type":"slide","id":"Slide17270"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":28727,"isQuizSlide":false,"label":"Lesson 2 - Generating changes on a Staging Site_ cint","slideVisited":false,"type":"slide","id":"Slide28727"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":17656,"isQuizSlide":false,"label":"Lesson 2 - Wrap","slideVisited":false,"type":"slide","id":"Slide17656"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":17962,"isQuizSlide":false,"label":"Lesson 3 - Learning objectives","slideVisited":false,"type":"slide","id":"Slide17962"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":18354,"isQuizSlide":false,"label":"Lesson 3 - Antora page elements","slideVisited":false,"type":"slide","id":"Slide18354"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":19406,"isQuizSlide":false,"label":"Lesson 3 - Antora raw file structure","slideVisited":false,"type":"slide","id":"Slide19406"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":19710,"isQuizSlide":false,"label":"Lesson 3 - Antora  important files","slideVisited":false,"type":"slide","id":"Slide19710"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":31526,"isQuizSlide":false,"label":"Lesson 3 - How Antora generates components","slideVisited":false,"type":"slide","id":"Slide31526"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":20130,"isQuizSlide":false,"label":"Lesson 3 - Asciidoc formatting","slideVisited":false,"type":"slide","id":"Slide20130"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":20528,"isQuizSlide":false,"label":"Lesson 3 - Antora interpage Links","slideVisited":false,"type":"slide","id":"Slide20528"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":20832,"isQuizSlide":false,"label":"Lesson 3 - Publishing changes","slideVisited":false,"type":"slide","id":"Slide20832"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":31726,"isQuizSlide":false,"label":"Lesson 3 - Publishing changes continued","slideVisited":false,"type":"slide","id":"Slide31726"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":21030,"isQuizSlide":false,"label":"Lesson 3 - Finalising changes","slideVisited":false,"type":"slide","id":"Slide21030"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":32030,"isQuizSlide":false,"label":"Lesson 3 - Finalising changes - continued","slideVisited":false,"type":"slide","id":"Slide32030"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":21228,"isQuizSlide":false,"label":"Lesson 3 - Wrap","slideVisited":false,"type":"slide","id":"Slide21228"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":22126,"isQuizSlide":false,"label":"Lesson 4 - Learning objectives","slideVisited":false,"type":"slide","id":"Slide22126"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":22330,"isQuizSlide":false,"label":"Lesson 4 - Task 1","slideVisited":false,"type":"slide","id":"Slide22330"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":32149,"isQuizSlide":false,"label":"Lesson 4 - Task 1 continued","slideVisited":false,"type":"slide","id":"Slide32149"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":22528,"isQuizSlide":false,"label":"Lesson 4 - Task 2","slideVisited":false,"type":"slide","id":"Slide22528"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":32362,"isQuizSlide":false,"label":"Lesson 4 - Task 2 continued","slideVisited":false,"type":"slide","id":"Slide32362"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":22726,"isQuizSlide":false,"label":"Lesson 4 - Task 3","slideVisited":false,"type":"slide","id":"Slide22726"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":22842,"isQuizSlide":false,"label":"Lesson 4 - Task 4","slideVisited":false,"type":"slide","id":"Slide22842"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":22958,"isQuizSlide":false,"label":"Lesson 4 - Task 4 continued (2)","slideVisited":false,"type":"slide","id":"Slide22958"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":26196,"isQuizSlide":false,"label":"Lesson 4 - Task 4  continued (3)","slideVisited":false,"type":"slide","id":"Slide26196"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":23074,"isQuizSlide":false,"label":"Lesson 4 - Wrap","slideVisited":false,"type":"slide","id":"Slide23074"}],"tocGeneratedOnPreviewClick":false,"preserveSlidesOrder":false},"playbarConfig":{"isPlaybarControlsPlayEnabled":true,"isPlaybarControlsNextEnabled":true,"isPlaybarControlsTOCEnabled":true,"isShowPlaybarEnabled":true,"isShowTooltipsEnabled":false,"isPlaybarControlsBackEnabled":true,"isHidePlaybarInQuizEnabled":false,"isPlaybarControlsMuteEnabled":false,"isPlaybarControlsClosedCaptionsEnabled":false}}'
 },
 usedFonts:{
 usedFonts:'["Georgia","Arial","Source Code Pro Semibold"]'
@@ -189137,7 +189134,7 @@ text:[]
 }
 ,{
 link:30288,
-text:['""']
+text:['""','""']
 }
 ,{
 link:25277,
@@ -189850,6 +189847,24 @@ ipiv:{
 
 }
 ,{
+ip:'dr/034758.png',
+ipiv:{
+430:1,
+768:1,
+1366:1
+}
+
+}
+,{
+ip:'dr/034760.png',
+ipiv:{
+430:1,
+768:1,
+1366:1
+}
+
+}
+,{
 ip:'dr/0456.svg',
 ipiv:{
 430:1,
@@ -190204,14 +190219,14 @@ resources:['dr/011367.svg','dr/011380.svg','dr/011905.png','dr/012029.png','dr/0
 ,{
 slideID:45,
 ResourceList:{
-resources:['dr/019532.jpg','dr/0456.svg']
+resources:['dr/034758.png','dr/0456.svg']
 }
 
 }
 ,{
 slideID:46,
 ResourceList:{
-resources:['dr/019836.jpg','dr/0456.svg']
+resources:['dr/034760.png','dr/0456.svg']
 }
 
 }
@@ -190395,7 +190410,7 @@ cp.cv('Project.CurrentSlideNumber',1,1,15,0);
 cp.cv('Project.LockTOC',0,1,15,0);
 cp.cv('Project.MuteAudio',0,1,15,0);
 cp.cv('Project.ShowPlaybar',1,1,15,0);
-cp.cv('Project.ShowTOC',0,1,15,0);
+cp.cv('Project.ShowTOC',1,1,15,0);
 cp.cv('Project.SlideCount',1,1,15,0);
 cp.cv('Question.AnswerChoice','',1,15,0);
 cp.cv('Question.MaxAttempts',0,1,15,0);
