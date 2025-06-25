@@ -9,8 +9,8 @@ lang:''
 Slide26317:{
 lb:'',
 id:26317,
-from:42448,
-to:42537,
+from:42538,
+to:42627,
 iols:0,
 i360qs:false,
 sdu:3,
@@ -52972,9 +52972,9 @@ uid:28943,
 dn:'Slide28943',
 visible:'1'
 },
-StAd2:{
-from:42538,
-to:51360,
+StAd4:{
+from:42628,
+to:51450,
 src:'ar/23889.mp3',
 du:294115,
 saup:[{
@@ -74711,9 +74711,9 @@ uid:30288,
 dn:'Slide30288',
 visible:'1'
 },
-StAd3:{
-from:42538,
-to:48767,
+StAd5:{
+from:42628,
+to:48857,
 src:'ar/34221.mp3',
 du:207702,
 saup:[{
@@ -190050,7 +190050,7 @@ dsType:1,
 dsWidth:100
 }
 ,
-slideAudios:'StAd2,StAd3',
+slideAudios:'StAd4,StAd5',
 vestr:1,
 vim:0,
 slides:'Slide26930,Slide388,Slide1057,Slide686,Slide1242,Slide1448,Slide1706,Slide1891,Slide2076,Slide32369,Slide3464,Slide33262,Slide4725,Slide5095,Slide5280,Slide6658,Slide28943,Slide7232,Slide24951,Slide8216,Slide34765,Slide25161,Slide30288,Slide25277,Slide8718,Slide29047,Slide9104,Slide9430,Slide9694,Slide30487,Slide10080,Slide10278,Slide30673,Slide10990,Slide30953,Slide31139,Slide12258,Slide13242,Slide14372,Slide15352,Slide16314,Slide17270,Slide28727,Slide17656,Slide17962,Slide18354,Slide19406,Slide19710,Slide31526,Slide20130,Slide20528,Slide20832,Slide31726,Slide21030,Slide32030,Slide21228,Slide22126,Slide22330,Slide32149,Slide22528,Slide32362,Slide22726,Slide22842,Slide22958,Slide26196,Slide23074',
