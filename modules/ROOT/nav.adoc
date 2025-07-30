@@ -6,8 +6,8 @@
 
 * xref:home::index.adoc[Home]
 
-* [.separated]#**General Documentation**#
-* xref:v1.0.0@training::index.adoc[Version 1.0.0 docs]
+//* [.separated]#**General Documentation**#
+//* xref:v1.0.0@training::index.adoc[Version 1.0.0 docs]
 // * xref:v2.0.0@training::index.adoc[Version 2.0.0 docs]
 
 * [.separated]#**Syntax References**#
@@ -16,5 +16,5 @@
 * [.separated]#**Online Courses**#
 * xref:attachment$course/index.html[Antora and Asciidoc for TED Documentation]
 
-* [.separated]#**Session Recordings**#
-* xref:sessions.adoc[Session Recordings]
+//* [.separated]#**Session Recordings**#
+//* xref:sessions.adoc[Session Recordings]
