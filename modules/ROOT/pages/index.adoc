@@ -4,6 +4,11 @@
 :authoremail: trainers@training.com
 :docdate: March 2024
 
+== Set up local css
+This page shows you how to set up your local docs generation so that the local site generated has the full look and feel of the production docs
+
+xref:local-TED-css .adoc[Set up css for local site generation]
+
 == Training Materials
 
 xref:attachment$course/index.html[Online Course: Antora and Asciidoc for TED Documentation]
