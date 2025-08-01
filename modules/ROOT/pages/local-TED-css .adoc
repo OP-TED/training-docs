@@ -24,14 +24,15 @@ despite the settings being in the local-antora-playbook.yml (not sure
 why) but this is what you need to do to reproduce them:
 
 [arabic]
+. Open the cloned docs-sandbox repository in VSC. You will find a file called yml.txt in the docs-sandbox repository. Rename this file local-antora-playbook.yml. +
 . If you have never run the local site generation process locally, do so
-now in a terminal window from the docs-sandbox. Do this in VSC from
-within the docs-sandbox repository. +
+now in a terminal window from the docs-sandbox. (Do this in VSC from
+within the docs-sandbox repository.) +
 *_antora local-antora-playbook.yml_* +
 This will generate a new folder, “build” in the file structure.
 . Download the latest ui-bundle.zip file from the antora-eui repo. Unzip
 it on your machine and copy the contents to the folder under “build”
-that has just “_” as its name. You will see a set of similar files, just
+that has just “_” as its name. You will see a set of similar folders, just
 overwrite these.
 . Now go to the OP-tED.github.io repository download the custom.css file
 from the supplemental-ui/css folder. Put this into the css folder :
@@ -41,6 +42,8 @@ The local-antora-playbook is currently set to look for the ui-bundle.zip
 and custom.css in two files under the content folder but as mentioned,
 the generation does not work properly. But… a ui bundle needs to be
 specified, so the settings still need to be in the yml file.
+
+Now when you click "Go live" once the local site generation has been run, the site should look just like production.
 
 Note: When you clone docs-sandbox, neither the build folder nor the
 local-antora-playbook.yml will be cloned because they should be added to
@@ -61,30 +64,18 @@ asciidoc:
         ### Site sub-title (displayed next to the site.title at the header)
         page-site-subtitle: Documentation for TED developers and eSenders
         ### Component's Latest Version
-#
-        # We want to know the latest version of each component so we can create
-        a redirect for the latest version.
-
+        # We want to know the latest version of each component so we can create a redirect for the latest version.
         # Such a redirect would be useful for users that want to bookmark a link to the latest documentation for a component.
-
-        # For example, we would be able to provide a link of the form:
-https://docs.ted.europa.eu/eforms/latest.
-
+        # For example, we would be able to provide a link of the form: https://docs.ted.europa.eu/eforms/latest.
         # It is also nice to be able to indicate a component's version in the main navigation panel (modules/ROOT/nav.adoc).
-
-#
-
         # However, we do not currently have any other way to determine the latest version of a component outside a page in the component itself.
-
         # So, as a workaround, we store the latest version of each component in these site-wide asciidoc attributes.
-
         # The downside is that we have to update these attributes whenever we release a new version of a component.
-        #
+        
         eforms_latest_version: '1.13'
         epo_latest_version: '5.0.0'
         espd_latest_version: '5.1.0'
-        #
-
+    
     # extensions:
         #- ./lib/apidoc/apidoc-asciidoc-extension
 
